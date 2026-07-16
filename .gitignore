@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+site/node_modules/
+site/dist/
+scripts/.venv/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Local digest output
+digest.md

@@ -1,0 +1,101 @@
+# Starter RSS feeds for Your Health Tech Guy
+# Add or remove entries freely; ingest reads this file each run.
+
+feeds:
+  # Trade press
+  - name: MedTech Dive
+    url: https://www.medtechdive.com/feeds/news/
+    group: trade
+
+  # MobiHealthNews RSS is often malformed; skip until a stable URL is known
+  # - name: MobiHealthNews
+  #   url: https://www.mobihealthnews.com/home/rss
+  #   group: trade
+
+  - name: Fierce Biotech
+    url: https://www.fiercebiotech.com/rss/biotech/xml
+    group: trade
+
+  - name: Fierce MedTech
+    url: https://www.fiercebiotech.com/rss/medtech/xml
+    group: trade
+
+  # General tech (health angle filtered downstream)
+  - name: STAT News
+    url: https://www.statnews.com/feed/
+    group: trade
+
+  - name: MIT Technology Review
+    url: https://www.technologyreview.com/feed/
+    group: tech
+
+  - name: The Verge
+    url: https://www.theverge.com/rss/index.xml
+    group: tech
+
+  - name: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+    group: tech
+
+  # Research / preprints
+  - name: arXiv q-bio
+    url: https://rss.arxiv.org/rss/q-bio
+    group: research
+
+  # Filtered for health keywords (cs.AI is broad)
+  - name: arXiv cs.AI
+    url: https://rss.arxiv.org/rss/cs.AI
+    group: tech
+
+  # Prefer a saved-search RSS from pubmed.ncbi.nlm.nih.gov (Create RSS link on results)
+  # - name: PubMed digital health
+  #   url: https://pubmed.ncbi.nlm.nih.gov/rss/search/YOUR_SAVED_ID/
+  #   group: research
+
+  # Government / regulatory
+  # FDA feed may fail on some corporate SSL MITM setups; works on GitHub Actions
+  - name: FDA Newsroom
+    url: https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml
+    group: regulatory
+
+  - name: WHO News
+    url: https://www.who.int/rss-feeds/news-english.xml
+    group: regulatory
+
+  # --- Regions: Global, India, and top 5 digital-health markets ---
+  # Top 5 by digital-health market scale: US, China, UK, Germany, Japan (+ India focus)
+
+  - name: Google News Digital Health Global
+    url: https://news.google.com/rss/search?q=%22digital+health%22+OR+medtech+OR+%22health+technology%22+OR+telehealth&hl=en&gl=US&ceid=US:en
+    group: country
+    country: GLOBAL
+
+  - name: Google News Digital Health India
+    url: https://news.google.com/rss/search?q=%22digital+health%22+OR+medtech+OR+Ayushman+OR+telemedicine+OR+%22health+tech%22&hl=en-IN&gl=IN&ceid=IN:en
+    group: country
+    country: IN
+
+  - name: Google News Digital Health US
+    url: https://news.google.com/rss/search?q=%22digital+health%22+OR+medtech+OR+telehealth+OR+%22FDA%22+health+tech&hl=en-US&gl=US&ceid=US:en
+    group: country
+    country: US
+
+  - name: Google News Digital Health China
+    url: https://news.google.com/rss/search?q=%22digital+health%22+OR+medtech+OR+telemedicine+China+OR+%E6%95%B0%E5%AD%97%E5%81%A5%E5%BA%B7&hl=en-US&gl=US&ceid=US:en
+    group: country
+    country: CN
+
+  - name: Google News Digital Health UK
+    url: https://news.google.com/rss/search?q=%22digital+health%22+OR+medtech+OR+telehealth+OR+%22health+tech%22+OR+DiGA+OR+%22NHS+app%22+OR+%22electronic+health%22&hl=en-GB&gl=GB&ceid=GB:en
+    group: country
+    country: GB
+
+  - name: Google News Digital Health Germany
+    url: https://news.google.com/rss/search?q=%22digital+health%22+OR+medtech+OR+DiGA+OR+telemedizin+OR+%22e-health%22&hl=en-DE&gl=DE&ceid=DE:en
+    group: country
+    country: DE
+
+  - name: Google News Digital Health Japan
+    url: https://news.google.com/rss/search?q=%22digital+health%22+OR+medtech+OR+telemedicine+OR+%22health+tech%22+Japan&hl=en&gl=JP&ceid=JP:en
+    group: country
+    country: JP

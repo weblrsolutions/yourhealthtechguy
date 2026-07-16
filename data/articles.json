@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-07-16T13:01:10Z",
+  "updated_at": "2026-07-16T14:38:15Z",
   "articles": [
+    {
+      "id": "3471f2a89c6f400e",
+      "url": "https://www.fiercebiotech.com/biotech/racing-takeda-innocare-reports-tyk2-inhibitor-win-phase-2-vitiligo-trial",
+      "title": "Racing Takeda, InnoCare reports TYK2 inhibitor win in phase 2 vitiligo trial",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-16T14:36:51Z",
+      "category": "other",
+      "country": "CN",
+      "summary": "Coverage of Racing Takeda, InnoCare reports TYK2 inhibitor win in phase 2 vitiligo trial from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:42Z"
+    },
+    {
+      "id": "97260c95517f3c40",
+      "url": "https://www.statnews.com/pharmalot/2026/07/16/kalshi-bets-on-clinical-trials-merck-cholesterol-pill",
+      "title": "STAT+: Pharmalittle: We’re reading about Kalshi bets on clinical trials, a Merck cholesterol pill, and more",
+      "source": "STAT News",
+      "published_at": "2026-07-16T13:14:44Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Kalshi, one of the world’s largest prediction market exchanges, plans to take bets on clinical trials and regulatory approvals.",
+      "ingested_at": "2026-07-16T14:37:43Z"
+    },
+    {
+      "id": "6b8ae213ee881ad7",
+      "url": "https://www.statnews.com/2026/07/16/biotech-news-fda-approves-merck-oral-pcsk9-drug-in-a-first",
+      "title": "STAT+: FDA approves Merck’s oral PCSK9 drug, a first",
+      "source": "STAT News",
+      "published_at": "2026-07-16T13:04:36Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Kalshi allows bets on clinical trial outcomes, Eli Lilly buys a psychedelic medicine, and more biotech news from The Readout.",
+      "ingested_at": "2026-07-16T14:37:43Z"
+    },
     {
       "id": "ec5c8abfdc14a9bf",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZkljRDBXQzhBb2ZJN2xoMDBJbXVqamZfcHhaS1lHM0hVMFFGSFYzc0plSWxvWDI3WmoyMVhNYUExQnQ1aGJ3X0xTZG5MWVVOS29IbHE4SGZNTFpIRGNaeGQ2bEFJdlBsRFBqRVBKRWsxUTlpSWlERXVSMlhUMkUwMExsdGc3OWZpMmZIMUd0M0x5b0xjWjY3bjhrRG5BaXBQazFzUnV6T29aTjlpbXpSeDFMTFNZc0tWN3FXUmpNck4wZVN6eWxsZnJVQzhGODZQVXZEbW94SFRxTll1aFE1aDFHX3FmNUVaV2x0enJESkZvUFpLV0gwVi14a3NZVXpWbzFvbG1mTGVJZw?oc=5",
@@ -1839,6 +1872,17 @@
       "ingested_at": "2026-07-16T12:59:59Z"
     },
     {
+      "id": "3d63f6bfc255be81",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drug-short-term-prevention-new-world-screwworm-horses",
+      "title": "FDA Issues Emergency Use Authorization for Drug for Short-Term Prevention of New World Screwworm in Horses",
+      "source": "FDA Newsroom",
+      "published_at": "2026-07-15T21:04:45Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of FDA Issues Emergency Use Authorization for Drug for Short-Term Prevention of New World Screwworm in Horses from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:44Z"
+    },
+    {
       "id": "60c385b9e2e8156c",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZXZBNjVaRVBZVXMwMGZoY0RDY05ZdXhENFYxYXk0LXpNTnhpVHduR08ta01lUzdVamFRdGdxS3l4YUIzUGNXS2J2dko4WkdLcTVmLTRmVnlvUDVDbHl2YjhjV1dTSlY3bllZdFhSQjJRdkUySzVOV1lVOWgtZ2FlNFRLZXo0b045Ym1taWx0d0FMaFEtUlRrMFVmZUl3a3luUzN0WWtYOENzdzkzNGxjUU02VEVRM3Vk?oc=5",
       "title": "Tom Brady teams with digital health firm eMed to expand GLP-1 weight loss medication access - Fox Business",
@@ -2147,6 +2191,17 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "a9a5795ffb96ce1f",
+      "url": "https://www.statnews.com/2026/07/15/biotech-news-celcuity-breast-cancer-drug-approved-in-a-first",
+      "title": "STAT+: Celcuity’s breast cancer drug approved, its first",
+      "source": "STAT News",
+      "published_at": "2026-07-15T15:09:21Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "FDA's new CBER chief promises normalcy, an weight loss drug without GLP-1s, and more biotech news from The Readout.",
+      "ingested_at": "2026-07-16T14:37:44Z"
+    },
+    {
       "id": "3554f7d4e3f480c1",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSmdlaUlZQkd6SWpacjhmWU9XVVNLaTE5bU9uV0Y1c3RvaGtKMk03aFlta2VZdWR4cHF5dko0TVdUbXN5aGY1Rk1NRHFNQmczSF8zMmNiQmtQTVh5Sk1UQ1NFb1FwaExJazE3TTlsVHEzWFdfZWpOa2JzVFZfWmJZc0ZNdHZmMzEzbVRwcnhrM19sTFZja2hsOFZ1WjNGVWVqNE9KaFBWUmNDSGlRX1JGMHJDdURla0RlUGpvN1JpczAyQmp0aDkw?oc=5",
       "title": "AI Model Predicts 348 Diseases from Electronic Health Record, Genetics - Inside Precision Medicine",
@@ -2257,6 +2312,17 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "76c3a57e9f71a59f",
+      "url": "https://www.who.int/news/item/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed",
+      "title": "New WHO guidelines: up to 45% of dementia risk could be prevented or delayed",
+      "source": "WHO News",
+      "published_at": "2026-07-15T12:15:58Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of New WHO guidelines: up to 45% of dementia risk could be prevented or delayed from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:45Z"
+    },
+    {
       "id": "a990dfc4922662a6",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVkQtbjJ5bWpHbTI5a2x2SWhWNUxKNGRJRGd5NHFxUjNJQTFhRVlVYUk2M25yZmlrbFBNMzNmLXVES0pwdTlRZTg1c0FUYmNvWW9YZlp5YlI3dGY3QktIUmVpMFFrSTBqLVFmTDFWclA1VThsdm5LalVudW12RUJMYnFNRzZnamJwZ25GNmVxeXFtZDlzcGdOUkdCRXZOZ1IySl82bkd3?oc=5",
       "title": "FTC secures USD 12M in settlement with Edwards Lifesciences, Genesis MedTech - Medical Buyer",
@@ -2266,6 +2332,17 @@
       "country": "IN",
       "summary": "FTC secures USD 12M in settlement with Edwards Lifesciences, Genesis MedTech Medical Buyer.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "ee905bbbb046e959",
+      "url": "https://www.medtechdive.com/news/ss-innovations-names-sarah-romano-as-cfo/825265",
+      "title": "SS Innovations names Sarah Romano as CFO",
+      "source": "MedTech Dive",
+      "published_at": "2026-07-15T09:03:51Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Romano, who is joining from rival robotic surgery company Vicarious Surgical, will step into a position that has been held by a series of executives over the past year.",
+      "ingested_at": "2026-07-16T14:37:46Z"
     },
     {
       "id": "58e297e9bae344ef",
@@ -2411,6 +2488,17 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "67b91454f7783a10",
+      "url": "https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who",
+      "title": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO",
+      "source": "WHO News",
+      "published_at": "2026-07-15T00:01:54Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:46Z"
+    },
+    {
       "id": "f504dbd5e3526619",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzZtRkxNYTEtRi1sUVRvQ1ZtYTdvc1FMX2RqM2xkdWEwRVNlVjJ6akFpTzZWa1NjUFpXemxRS0k1YlVEY1dhZFlaNkJENGs1dVVTQ0lESzVtb2VDTWxHZkc1UmNNWUxTc0k5cnpPb3JOUnJRVDRySlpjMmZVVEgwaktFVmtzdExaQi1rWVptN2d0NEVvMW9SOVA0U2FMSEdzTFpvX3FfazFkUQ?oc=5",
       "title": "Watch Eternal Founder Goyal Bets on Health Tech, Aerospace - Bloomberg.com",
@@ -2433,6 +2521,17 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "ee4e606a3e033cc5",
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans",
+      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+      "source": "Ars Technica",
+      "published_at": "2026-07-14T20:05:53Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
+      "ingested_at": "2026-07-16T14:37:47Z"
+    },
+    {
       "id": "c2c7b65f5f71e537",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2lNZUt5bGd3bDFhTGVGYksyUERvdVlLTno2NFpQRllldEFhLWpabkgzT0lNczVyOHhteWltakQ3dHNPb1UwVU1qaGVxTl9QVVVQdFNDZldyaVhCY05sOUc4Nm9fYnhQUmw4QnVOTVotbW81ZGd3aldDcktHX21Hckttc0lYX2kyQkZxczdYQURzbUZZLXlneTFpS1M0b3ZGZDFndw?oc=5",
       "title": "HCA Healthcare Lowers Earnings Outlook, Impacting MedTech Stocks - GuruFocus",
@@ -2442,6 +2541,39 @@
       "country": "DE",
       "summary": "HCA Healthcare Lowers Earnings Outlook, Impacting MedTech Stocks GuruFocus.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "907d3068220eb61e",
+      "url": "https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors",
+      "title": "These painted e-tattoos could be the future of wearable biosensors",
+      "source": "Ars Technica",
+      "published_at": "2026-07-14T17:31:58Z",
+      "category": "medical-device",
+      "country": null,
+      "summary": "Conductive ink is painted directly onto the skin in colorful custom designs, drying into working electrodes.",
+      "ingested_at": "2026-07-16T14:37:47Z"
+    },
+    {
+      "id": "0db08647a2662199",
+      "url": "https://www.medtechdive.com/news/medtronic-recalls-heart-valve-delivery-catheter-for-risk-of-tip-detaching/825186",
+      "title": "Medtronic recalls heart valve delivery catheter for risk of tip detaching",
+      "source": "MedTech Dive",
+      "published_at": "2026-07-14T15:11:40Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of Medtronic recalls heart valve delivery catheter for risk of tip detaching from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:48Z"
+    },
+    {
+      "id": "db51fb9fd2651697",
+      "url": "https://www.medtechdive.com/news/histosonics-wins-europes-ce-mark-for-histotripsy-system/825141",
+      "title": "HistoSonics wins Europe’s CE mark for histotripsy system",
+      "source": "MedTech Dive",
+      "published_at": "2026-07-14T14:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "HistoSonics’ phased commercial rollout of the Edison system will initially target centers specializing in liver tumor treatment.",
+      "ingested_at": "2026-07-16T14:37:49Z"
     },
     {
       "id": "b9e0de20376c6abb",
@@ -2477,6 +2609,17 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "2c24492012a619ea",
+      "url": "https://www.medtechdive.com/news/edwards-will-pay-10m-to-settle-ftc-charges-of-skirting-antitrust-review/825129",
+      "title": "Edwards will pay $10M to settle FTC charges of skirting antitrust review",
+      "source": "MedTech Dive",
+      "published_at": "2026-07-13T21:02:14Z",
+      "category": "other",
+      "country": "US",
+      "summary": "The artificial heart valve maker will settle allegations it deliberately structured its deal to acquire JC Medical to sidestep a Hart-Scott-Rodino review.",
+      "ingested_at": "2026-07-16T14:37:49Z"
+    },
+    {
       "id": "492ac80f6f19d467",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPekIxLXRrQ3pxVi1aSDlmRlEzc2FYVGZmM2lTNjVnakpqdjZwSEh0M1dsQl90MWt1aUhmcUN2MDlVXzh4V1M0a193TVJ5VWxCaXlHZFA1Zk5HaDRIdkZ1RnlHeDBmcms2MkVtWmFQLWcwRklxcEtHOUExT01MQ3dCRzRLTE45TG1jVk9aSldIbVE5X3FxblYzUnkwOHh6cDdpLVhrSXE3V0NHNUdPeGRDVV8tZlVyNndkeC1SVnFRb2xlQTREVENrVUtyREJGd9IBWkFVX3lxTE45MmR6aVNCemJ5aXp0UVZ0Tk1TWkgwSWFIQ0RZaC1lMFRLQVRXVEdtOFJSVENlZzlYc2pmQ0xCMm91VC1qZDJOQzBKZWlyVGJqX182emJyZ1c3UQ?oc=5",
       "title": "Edwards Lifesciences, Genesis Medtech to pay $12m for HSR noncompliance - MLex",
@@ -2486,6 +2629,50 @@
       "country": "DE",
       "summary": "Edwards Lifesciences, Genesis Medtech to pay $12m for HSR noncompliance MLex.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "51e2de66df7c835a",
+      "url": "https://www.medtechdive.com/news/whoop-tests-wearable-platform-in-joint-replacement-recovery/825068",
+      "title": "Whoop tests wearable platform in joint replacement recovery",
+      "source": "MedTech Dive",
+      "published_at": "2026-07-13T15:32:54Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "The program, a partnership with Kinomatic, will use biometric data and care coordination between visits to support recovery after surgery.",
+      "ingested_at": "2026-07-16T14:37:50Z"
+    },
+    {
+      "id": "fcf10ee0c9cfb9c4",
+      "url": "https://www.medtechdive.com/news/freenome-colorectal-cancer-test-data-improve-on-earlier-results/825069",
+      "title": "Freenome colorectal cancer test data improve on earlier results",
+      "source": "MedTech Dive",
+      "published_at": "2026-07-13T15:22:07Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of Freenome colorectal cancer test data improve on earlier results from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:50Z"
+    },
+    {
+      "id": "dcc4e8c1e21a1a77",
+      "url": "https://www.who.int/news/item/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
+      "title": "El Salvador validated by WHO as having eliminated trachoma as a public health problem",
+      "source": "WHO News",
+      "published_at": "2026-07-13T09:57:57Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of El Salvador validated by WHO as having eliminated trachoma as a public health problem from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:51Z"
+    },
+    {
+      "id": "ba62e7a826762b92",
+      "url": "https://www.medtechdive.com/spons/expert-insights-to-transform-your-evidence-generation-strategy/824427",
+      "title": "Expert insights to transform your evidence generation strategy",
+      "source": "MedTech Dive",
+      "published_at": "2026-07-13T09:00:00Z",
+      "category": "ai-in-health",
+      "country": "US",
+      "summary": "Modernize evidence generation with unified strategies and AI to accelerate time to market.",
+      "ingested_at": "2026-07-16T14:37:51Z"
     },
     {
       "id": "b3e24b886f8de1f9",
@@ -2554,6 +2741,17 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "1a0d05749a56ac9d",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-proposes-rule-modernize-drug-manufacturing-registration",
+      "title": "FDA Proposes Rule to Modernize Drug Manufacturing Registration",
+      "source": "FDA Newsroom",
+      "published_at": "2026-07-10T13:07:06Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of FDA Proposes Rule to Modernize Drug Manufacturing Registration from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:52Z"
+    },
+    {
       "id": "257d8ed10c4640ce",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdC15dHRBNFgzLWVMOUljTXRHa2V1bExGek50VWM1Tnh6Y09vZGh1WlR0YTBxVzdVV1M1dUNiYlpKWTJmdFF2ZjdwelU5S3VxclloRmM5ZWFrREk0dmQ3VnhmQkpJZVhJU3UxLVFNNERRamNTLWotME0zblYtcS1mMGVvVkg2ZTIzNmpwWlRWZFdHVDhFOXhqengxMDl1dEpT?oc=5",
       "title": "Digital Health’s monthly roundup of contracts and go lives - Home | Digital Health",
@@ -2574,6 +2772,17 @@
       "country": "DE",
       "summary": "Is TransMedics Group, Inc. (TMDX) Stock Still a MedTech Growth Opportunity After Analyst Target Cut? Yahoo Finance.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "797d4d6ebac2f29e",
+      "url": "https://www.who.int/news/item/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
+      "title": "WHO calls for urgent action as new cancer cases are projected to nearly double by 2050",
+      "source": "WHO News",
+      "published_at": "2026-07-08T11:51:29Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of WHO calls for urgent action as new cancer cases are projected to nearly double by 2050 from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:52Z"
     },
     {
       "id": "123b2e8352242764",
@@ -2653,6 +2862,28 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "53cd66aab031f520",
+      "url": "https://www.who.int/news/item/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
+      "title": "WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing",
+      "source": "WHO News",
+      "published_at": "2026-07-02T16:21:23Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Coverage of WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:53Z"
+    },
+    {
+      "id": "44560128af8cbf89",
+      "url": "https://www.who.int/news/item/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease",
+      "title": "Patient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease",
+      "source": "WHO News",
+      "published_at": "2026-07-02T12:19:20Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of Patient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:54Z"
+    },
+    {
       "id": "a3d838ad6db6cdc3",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU04zMWk0eGpfeFIzTUNxc013cWpHY0I0cE0tanV0d0IyTjR4YVFBOWtoS00ydjVpbWx1OGJWdXlWcl9iMXF6UzlzNVBqUHJ4OW9uOXVmaU5lWDQ4WG5JaDhsNDFrVE9teVZSTHRWSkdvMmZRTzdXRWxwNDlYSUdxak1XR2F3RmZWU1dVQTJYOFVyVFQ0RU9WTU9GVEplWUtxYzVudU5kQ1BJcU1LalY2MTNXVzZ1Nm8wSWlxNlJ2cUN3aDhJTlBoTGpnbW5ReVhCR3JlWE1WN0lLVVh4UGNMTVh0b1c1cXhoQTk2X0ZQMFdmQQ?oc=5",
       "title": "LY Corporation to Absorb LINE Healthcare After Ending Telemedicine Service - The Globe and Mail",
@@ -2675,6 +2906,28 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "ec896e7eae685d6d",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease",
+      "title": "FDA Approves First Gene Therapy for Young Children with Sickle Cell Disease",
+      "source": "FDA Newsroom",
+      "published_at": "2026-07-01T21:29:41Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of FDA Approves First Gene Therapy for Young Children with Sickle Cell Disease from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:54Z"
+    },
+    {
+      "id": "0c823c69c20dc1e8",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-treatment-uses-donor-immune-cells-prevent-serious-complications-blood-cancer",
+      "title": "FDA Approves New Treatment That Uses Donor Immune Cells to Prevent Serious Complications in Blood Cancer Patients",
+      "source": "FDA Newsroom",
+      "published_at": "2026-06-30T21:29:30Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of FDA Approves New Treatment That Uses Donor Immune Cells to Prevent Serious Complications in Blood Cancer Patients from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:55Z"
+    },
+    {
       "id": "f5805ca552498fcd",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPODNaTUtTT2JFVHItTmkzYmVOVkVNd1RWQlJKMWl1VVZyWHdaT1Z2aWxaR1J4aDJNMWsxVm82d2laOS1oSUp4dmoyQzhudHJrSlNjaUZSQVJwamNEQUladFl0bW9teElpZWU2NW9nLUhteXFSQTlJZzZlc2lzU0J4TVhCRDdGVExndE85aHVUNTJ1RmRycjhSbFo1MWc3ZlQ1OVNR?oc=5",
       "title": "FDA digital leader hints at coming AI policy updates - STAT",
@@ -2684,6 +2937,28 @@
       "country": "US",
       "summary": "FDA digital leader hints at coming AI policy updates STAT.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "fe2aae6a0fea1a50",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-selects-seven-participants-precheck-pilot-program-advance-us-drug-manufacturing",
+      "title": "FDA Selects Seven Participants for PreCheck Pilot Program to Advance U.S. Drug Manufacturing",
+      "source": "FDA Newsroom",
+      "published_at": "2026-06-29T20:16:10Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of FDA Selects Seven Participants for PreCheck Pilot Program to Advance U.S. Drug Manufacturing from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:55Z"
+    },
+    {
+      "id": "276cfa67d6c96e01",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-proposes-rule-would-help-hold-foreign-tobacco-product-manufacturers-accountable-protect-public",
+      "title": "FDA Proposes Rule That Would Help Hold Foreign Tobacco Product Manufacturers Accountable, Protect Public Health",
+      "source": "FDA Newsroom",
+      "published_at": "2026-06-26T12:58:49Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of FDA Proposes Rule That Would Help Hold Foreign Tobacco Product Manufacturers Accountable, Protect Public Health from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:56Z"
     },
     {
       "id": "f00664678f7928e8",
@@ -2697,6 +2972,17 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "09dfca5329ea3886",
+      "url": "https://www.who.int/news/item/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target",
+      "title": "655 million people still living without electricity underscore urgent need to deliver on universal energy access target",
+      "source": "WHO News",
+      "published_at": "2026-06-24T11:57:55Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of 655 million people still living without electricity underscore urgent need to deliver on universal energy access target from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:56Z"
+    },
+    {
       "id": "73e95551d96e3cee",
       "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPcHdnYnhLTDB3all2QTdLY0RkYm5kcnk0Mm9saFFQWk9iWVluRUFzbmNwNGlydUFXQk1DOEdfZWt4WG9rSTZ0MFNhTEo1OXMtcGhLdzI0dDN4d0syTGRfT3VHOE5HWHNyNnAxcWItZ2hZMTB0czV1NmQtTXV5aFlCUmZJck5yckNJRFFNNEVGMzRmNDY4eXBzbGU3bl9KV1J3aVNfMGdieGI4Tl9HOXFOTW80aHllZ1lXYzJiR3dsMkFkRUFPZC1ZZU9KN3VBMTF6aU4yaEVzeHBBWXNKMExTS2tPNWxucUVUd3lNcXVqb09kWU5LeDZhclhCcGg2WHRWZWJGWHBWb2FQOUVzWEdzR01GaDR4a1g1LVJ0WXJCT1lKZVJmOXhWVUFsR3M3Vm8zWE5VZG9kaldERGtZZjBfV1VjcUd0LXM3bDZwWTJUV180dUJ1MUNMVXJpTFpBanh2TlFCR1NLcjU?oc=5",
       "title": "Digital Health Market Size to Reach USD 1,830.4 Billion by 2033, Driven by Rising Adoption of Telehealth, mHealth, AI-Based Solutions, and Connected Healthcare Technologies: Grand View Research, Inc. - PR Newswire",
@@ -2706,6 +2992,17 @@
       "country": "US",
       "summary": "Coverage of Digital Health Market Size to Reach USD 1,830.4 Billion by 2033, Driven by Rising Adoption of Telehealth, mHealth, AI-Based Solutions, and Connected Healthcare Technologies: Grand View Research, Inc. - PR Newswire from the health-tech news cycle.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "37873f9c028d622e",
+      "url": "https://www.who.int/news/item/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects",
+      "title": "WHO urges scale up of newborn screening to improve early detection and care of birth defects",
+      "source": "WHO News",
+      "published_at": "2026-06-23T10:01:11Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of WHO urges scale up of newborn screening to improve early detection and care of birth defects from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:57Z"
     },
     {
       "id": "fea2720b57d0ad30",
@@ -2719,6 +3016,28 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "6c5f8ac5aa2c81be",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-single-dose-generic-treatment-influenza",
+      "title": "FDA Approves First Single-Dose Generic Treatment for Influenza",
+      "source": "FDA Newsroom",
+      "published_at": "2026-06-17T21:32:27Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of FDA Approves First Single-Dose Generic Treatment for Influenza from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:58Z"
+    },
+    {
+      "id": "dfdcdcfd3944cdfe",
+      "url": "https://www.who.int/news/item/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease",
+      "title": "WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease",
+      "source": "WHO News",
+      "published_at": "2026-06-17T13:30:57Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:58Z"
+    },
+    {
       "id": "e6c2b074fce28c8e",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LWEx6SnNMeWFmejM2LUktclBLUm5waXlNajdSLTExcXo4bDFqbDlVRXY3emh5bU5HZFB6YldhbUtJZUZ6LTZOS3BuaFdEUjVHU2NpTjRGcU1DSW5Fdmtud0NZLWxQSDY4Z01KU2dTVlc?oc=5",
       "title": "Top Medtech Startups In China - TechRound",
@@ -2728,6 +3047,17 @@
       "country": "CN",
       "summary": "Top Medtech Startups In China TechRound.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "a910ec4ddd1b45ae",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-broadens-access-over-counter-naloxone-nasal-spray-opioid-overdose",
+      "title": "FDA Broadens Access to Over-the-Counter Naloxone Nasal Spray for Opioid Overdose",
+      "source": "FDA Newsroom",
+      "published_at": "2026-06-16T12:41:20Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of FDA Broadens Access to Over-the-Counter Naloxone Nasal Spray for Opioid Overdose from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:59Z"
     },
     {
       "id": "73560d9598638226",
@@ -2741,6 +3071,72 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "712ed75b94c6a9ed",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-indication-tzield-teplizumab-certain-pediatric-patients-recently-diagnosed-stage-3",
+      "title": "FDA Approves New Indication for Tzield (teplizumab) for Certain Pediatric Patients with Recently Diagnosed Stage 3 Type 1 Diabetes",
+      "source": "FDA Newsroom",
+      "published_at": "2026-06-15T20:44:15Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of FDA Approves New Indication for Tzield (teplizumab) for Certain Pediatric Patients with Recently Diagnosed Stage 3 Type 1 Diabetes from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:37:59Z"
+    },
+    {
+      "id": "2716d262d9b5772f",
+      "url": "https://www.who.int/news/item/15-06-2026-open-letter-to-leaders-of-g7-g20-brics-and-all-nations-on-finalizing-the-who-pandemic-agreement-s-pathogen-access-and-benefit-sharing-annex",
+      "title": "Open letter to leaders of G7, G20, BRICS and all nations on finalizing the WHO Pandemic Agreement’s Pathogen Access and Benefit Sharing annex",
+      "source": "WHO News",
+      "published_at": "2026-06-15T09:05:36Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of Open letter to leaders of G7, G20, BRICS and all nations on finalizing the WHO Pandemic Agreement’s Pathogen Access and Benefit Sharing annex from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:38:00Z"
+    },
+    {
+      "id": "23ba9926aa72c59a",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor-children",
+      "title": "FDA Clears First Over-the-Counter Continuous Glucose Monitor for Children",
+      "source": "FDA Newsroom",
+      "published_at": "2026-06-12T19:39:25Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of FDA Clears First Over-the-Counter Continuous Glucose Monitor for Children from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:38:00Z"
+    },
+    {
+      "id": "d321910ba44057f1",
+      "url": "https://www.who.int/news/item/12-06-2026-safe-blood-supply-improves-as-voluntary-donations-exceed-85---but-many-people-still-lack-access",
+      "title": "Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access",
+      "source": "WHO News",
+      "published_at": "2026-06-12T12:35:26Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:38:01Z"
+    },
+    {
+      "id": "8b4b9e869ab3d84c",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-generic-over-counter-drug-treat-new-world-screwworm-dogs-and",
+      "title": "FDA Issues Emergency Use Authorization for Generic Over-the-Counter Drug to Treat New World Screwworm in Dogs and Cats",
+      "source": "FDA Newsroom",
+      "published_at": "2026-06-11T12:21:28Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of FDA Issues Emergency Use Authorization for Generic Over-the-Counter Drug to Treat New World Screwworm in Dogs and Cats from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:38:01Z"
+    },
+    {
+      "id": "c3648732d3e05c8b",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-expands-sunscreen-options-first-time-20-years",
+      "title": "FDA Expands Sunscreen Options for the First Time in 20 Years",
+      "source": "FDA Newsroom",
+      "published_at": "2026-06-09T14:05:25Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of FDA Expands Sunscreen Options for the First Time in 20 Years from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:38:02Z"
+    },
+    {
       "id": "ece3b7998360c427",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYc1ZObGV3bWNNb29NTnU1eTZSZHpIR0RwdkQ2MGNWd3hVWmVHSGdaWnlhZDZ0YlhrQ3d4dVdhSEFadk10Z25fZlRVbF9YSzJuQ1IycWZJSTNmdw?oc=5",
       "title": "Brazilian firms seek medtech collaborations with GBA - chinadailyhk",
@@ -2750,6 +3146,39 @@
       "country": "GLOBAL",
       "summary": "Brazilian firms seek medtech collaborations with GBA chinadailyhk.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "2abd29770644948c",
+      "url": "https://www.who.int/news/item/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan",
+      "title": "Africa CDC and WHO launch joint continental Ebola response plan",
+      "source": "WHO News",
+      "published_at": "2026-06-05T12:28:26Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of Africa CDC and WHO launch joint continental Ebola response plan from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:38:03Z"
+    },
+    {
+      "id": "6f707ffcd209cf26",
+      "url": "https://www.who.int/news/item/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk",
+      "title": "Unsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk",
+      "source": "WHO News",
+      "published_at": "2026-06-03T22:30:11Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of Unsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:38:03Z"
+    },
+    {
+      "id": "cfe8ddfb00c0152a",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-issues-draft-guidance-help-accelerate-cell-and-gene-therapies-patients",
+      "title": "FDA Issues Draft Guidance to Help Accelerate Cell and Gene Therapies for Patients",
+      "source": "FDA Newsroom",
+      "published_at": "2026-06-02T13:03:59Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of FDA Issues Draft Guidance to Help Accelerate Cell and Gene Therapies for Patients from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:38:04Z"
     },
     {
       "id": "e5c226b8300a79a1",
@@ -2783,6 +3212,215 @@
       "country": "JP",
       "summary": "Haryana eyes Japan’s investment; healthcare, MedTech focus areas Medical Buyer.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "538f0f430aaad4e4",
+      "url": "https://www.who.int/news/item/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus",
+      "title": "Joint statement by the Government of the Democratic Republic of the Congo and WHO concerning the outbreak of Ebola disease caused by the Bundibugyo virus",
+      "source": "WHO News",
+      "published_at": "2026-05-31T21:49:21Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of Joint statement by the Government of the Democratic Republic of the Congo and WHO concerning the outbreak of Ebola disease caused by the Bundibugyo virus from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:38:04Z"
+    },
+    {
+      "id": "bc64994779ff86db",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-issues-draft-guidance-cut-unnecessary-animal-testing-cancer-drugs",
+      "title": "FDA Issues Draft Guidance to Cut Unnecessary Animal Testing for Cancer Drugs",
+      "source": "FDA Newsroom",
+      "published_at": "2026-05-29T13:13:39Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "The U.S. Food and Drug Administration today issued a draft guidance to reduce unnecessary animal testing in nonclinical safety assessments for certain cancer drugs.",
+      "ingested_at": "2026-07-16T14:38:05Z"
+    },
+    {
+      "id": "004df0861755522a",
+      "url": "https://www.who.int/news/item/29-05-2026-who-urges-governments-to-protect-young-people-from-addiction-to-tobacco-and-nicotine-products",
+      "title": "WHO urges governments to protect young people from addiction to tobacco and nicotine products",
+      "source": "WHO News",
+      "published_at": "2026-05-29T08:48:28Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of WHO urges governments to protect young people from addiction to tobacco and nicotine products from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:38:05Z"
+    },
+    {
+      "id": "07f999f93dd8f8a2",
+      "url": "https://www.who.int/news/item/28-05-2026-experts-convened-by-who-advise-on-candidate-treatments-and-vaccines-for-ebola-disease-caused-by-bundibugyo-virus",
+      "title": "Experts convened by WHO advise on candidate treatments and vaccines for Ebola disease caused by Bundibugyo virus",
+      "source": "WHO News",
+      "published_at": "2026-05-28T19:10:18Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of Experts convened by WHO advise on candidate treatments and vaccines for Ebola disease caused by Bundibugyo virus from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:38:06Z"
+    },
+    {
+      "id": "58d44586ded3ee8c",
+      "url": "https://www.who.int/news/item/28-05-2026-message-by-the-who-director-general-to-the-people-of-the-democratic-republic-of-the-congo",
+      "title": "Message by the WHO Director-General to the people of the Democratic Republic of the Congo",
+      "source": "WHO News",
+      "published_at": "2026-05-28T12:17:30Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of Message by the WHO Director-General to the people of the Democratic Republic of the Congo from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:38:07Z"
+    },
+    {
+      "id": "24814fc16747db1d",
+      "url": "https://www.who.int/news/item/23-05-2026-seventy-ninth-world-health-assembly---daily-update--23-may-2026",
+      "title": "Seventy-ninth World Health Assembly – Daily update: 23 May 2026",
+      "source": "WHO News",
+      "published_at": "2026-05-23T12:32:25Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Summary of discussions of 23 May at the Seventy-ninth World Health Assembly.",
+      "ingested_at": "2026-07-16T14:38:07Z"
+    },
+    {
+      "id": "4f6ccacae14a112a",
+      "url": "https://www.who.int/news/item/22-05-2026-seventy-ninth-world-health-assembly-daily-update-22-may-2026",
+      "title": "Seventy-ninth World Health Assembly – Daily update: 22 May 2026",
+      "source": "WHO News",
+      "published_at": "2026-05-22T19:24:59Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Summary of discussions of 22 May at the Seventy-ninth World Health Assembly.",
+      "ingested_at": "2026-07-16T14:38:08Z"
+    },
+    {
+      "id": "d5301296868ddd53",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-chronic-hepatitis-delta-virus-hdv-infection",
+      "title": "FDA Approves First Treatment for Chronic Hepatitis Delta Virus (HDV) Infection",
+      "source": "FDA Newsroom",
+      "published_at": "2026-05-22T17:16:56Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of FDA Approves First Treatment for Chronic Hepatitis Delta Virus (HDV) Infection from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:38:08Z"
+    },
+    {
+      "id": "1a12d4c0e3570ac4",
+      "url": "https://www.who.int/news/item/22-05-2026-first-meeting-of-the-ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda-2026-temporary-recommendations",
+      "title": "First meeting of the IHR Emergency Committee regarding the epidemic of Ebola Bundibugyo virus disease in the Democratic Republic of the Congo and Uganda 2026 – Temporary recommendations",
+      "source": "WHO News",
+      "published_at": "2026-05-22T15:22:03Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of First meeting of the IHR Emergency Committee regarding the epidemic of Ebola Bundibugyo virus disease in the Democratic Republic of the Congo and Uganda 2026 – Temporary recommendations from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:38:09Z"
+    },
+    {
+      "id": "9d17613ddc09d77a",
+      "url": "https://www.who.int/news/item/21-05-2026-seventy-ninth-world-health-assembly---daily-update--21-may-2026",
+      "title": "Seventy-ninth World Health Assembly – Daily update: 21 May 2026",
+      "source": "WHO News",
+      "published_at": "2026-05-21T20:33:06Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Summary of discussions of 21 May at the Seventy-ninth World Health Assembly.",
+      "ingested_at": "2026-07-16T14:38:09Z"
+    },
+    {
+      "id": "11c7458f2b363162",
+      "url": "https://www.who.int/news/item/20-05-2026-seventy-ninth-world-health-assembly---daily-update--20-may-2026",
+      "title": "Seventy-ninth World Health Assembly – Daily update: 20 May 2026",
+      "source": "WHO News",
+      "published_at": "2026-05-21T19:48:30Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Summary of discussions of 20 May at the Seventy-ninth World Health Assembly.",
+      "ingested_at": "2026-07-16T14:38:10Z"
+    },
+    {
+      "id": "80c0e641ebd54138",
+      "url": "https://www.who.int/news/item/19-05-2026-seventy-ninth-world-health-assembly---daily-update--19-may-2026",
+      "title": "Seventy-ninth World Health Assembly – Daily update: 19 May 2026",
+      "source": "WHO News",
+      "published_at": "2026-05-20T15:01:32Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Summary of discussions of 19 May at Seventy-ninth World Health Assembly.",
+      "ingested_at": "2026-07-16T14:38:10Z"
+    },
+    {
+      "id": "48b32277d1101a44",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-warns-retailers-selling-illegal-tobacco-products-look-everyday-products",
+      "title": "FDA Warns Retailers Selling Illegal Tobacco Products That Look Like Everyday Products",
+      "source": "FDA Newsroom",
+      "published_at": "2026-05-20T13:53:58Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "FDA Warns Retailers Selling Illegal Tobacco Products That Look Like Everyday Products.",
+      "ingested_at": "2026-07-16T14:38:11Z"
+    },
+    {
+      "id": "8cbdc71046ddd9b3",
+      "url": "https://www.who.int/news/item/20-05-2026-seventy-ninth-world-health-assembly-honours-global-champions-advancing-primary-health-care",
+      "title": "Seventy-ninth World Health Assembly honours global champions advancing primary health care",
+      "source": "WHO News",
+      "published_at": "2026-05-20T10:57:07Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of Seventy-ninth World Health Assembly honours global champions advancing primary health care from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:38:11Z"
+    },
+    {
+      "id": "d75fff461c1f2d1f",
+      "url": "https://www.who.int/news/item/18-05-2026-world-health-assembly-opens-in-geneva--switzerland",
+      "title": "World Health Assembly opens in Geneva, Switzerland",
+      "source": "WHO News",
+      "published_at": "2026-05-18T19:43:34Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of World Health Assembly opens in Geneva, Switzerland from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:38:12Z"
+    },
+    {
+      "id": "5cda82d3649ce01d",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-finalizes-food-chemical-safety-post-market-assessment-program-launches-reassessment-bht-ada",
+      "title": "FDA Finalizes Food Chemical Safety Post-Market Assessment Program, Launches Reassessment of BHT, ADA",
+      "source": "FDA Newsroom",
+      "published_at": "2026-05-12T13:08:03Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "FDA continues to implement its bold food agenda, with two decisive actions focused on food chemical safety.",
+      "ingested_at": "2026-07-16T14:38:13Z"
+    },
+    {
+      "id": "132bfd3a6decf6b9",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-advances-drug-repurposing-address-unmet-medical-needs",
+      "title": "FDA Advances Drug Repurposing to Address Unmet Medical Needs",
+      "source": "FDA Newsroom",
+      "published_at": "2026-05-11T13:59:33Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "FDA announced it is soliciting input on efforts with respect to drug repurposing to help address unmet medical needs across a range of diseases and conditions.",
+      "ingested_at": "2026-07-16T14:38:13Z"
+    },
+    {
+      "id": "8811bf78547754c6",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-grants-seventh-approval-under-national-priority-voucher-pilot-program",
+      "title": "FDA Grants Seventh Approval under the National Priority Voucher Pilot Program",
+      "source": "FDA Newsroom",
+      "published_at": "2026-05-08T18:21:28Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "FDA issued an approval for Bizengri (zenocutuzumab-zbco), a drug that treats NRG1 fusion-positive cholangiocarcinoma, an ultra-rare, aggressive cancer that forms in the bile ducts.",
+      "ingested_at": "2026-07-16T14:38:14Z"
+    },
+    {
+      "id": "f00ab4bb842186ab",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-issues-guidance-improve-collection-pregnancy-safety-data-drugs-and-biologics",
+      "title": "FDA Issues Guidance to Improve Collection of Pregnancy Safety Data for Drugs and Biologics",
+      "source": "FDA Newsroom",
+      "published_at": "2026-05-08T13:34:38Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of FDA Issues Guidance to Improve Collection of Pregnancy Safety Data for Drugs and Biologics from the health-tech news cycle.",
+      "ingested_at": "2026-07-16T14:38:14Z"
     },
     {
       "id": "8569ca3490460fa8",

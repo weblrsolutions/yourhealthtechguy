@@ -385,6 +385,25 @@ h2 {
   width: min(100% - 2rem, var(--wrap));
 }
 
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.1rem;
+  margin: 0 0 0.85rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.footer-links a {
+  color: var(--ink);
+  font-weight: 500;
+  font-size: 0.85rem;
+}
+
+.footer-links a:hover {
+  color: var(--accent);
+}
+
 .site-footer p {
   margin: 0 0 0.5rem;
 }

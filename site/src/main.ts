@@ -239,6 +239,11 @@ function renderShell(): void {
       <ul class="feed" id="feed" aria-live="polite"></ul>
     </div>
     <footer class="site-footer">
+      <nav class="footer-links" aria-label="Follow and contact">
+        <a href="https://whatsapp.com/channel/0029VbDBdm75kg6ylzr4rr1U" rel="noopener noreferrer" target="_blank">WhatsApp Channel</a>
+        <a href="https://t.me/healthtechcircle" rel="noopener noreferrer" target="_blank">Telegram Channel</a>
+        <a href="mailto:drpatelakshat@gmail.com?subject=HTC%20News%20%E2%80%94%20Suggestion%20/%20Sponsorship">Suggestions &amp; Sponsorship</a>
+      </nav>
       <p>Summaries are original. Every headline links to the publisher.</p>
       <p class="disclaimer">
         Stories are aggregated from public RSS sources. We do not own, edit, or independently verify

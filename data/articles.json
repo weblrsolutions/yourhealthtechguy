@@ -1,6 +1,182 @@
 {
-  "updated_at": "2026-07-17T08:17:40Z",
+  "updated_at": "2026-07-17T13:49:35Z",
   "articles": [
+    {
+      "id": "3199bf582e548e2f",
+      "url": "https://www.fiercebiotech.com/biotech/5-emerging-biotech-hubs",
+      "title": "5 emerging biotech hubs",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-17T13:47:11Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of 5 emerging biotech hubs from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:48:42Z"
+    },
+    {
+      "id": "bd566971d4419381",
+      "url": "https://www.fiercebiotech.com/biotech/gsk-axes-key-cough-drug-candidate-after-phase-3-data-disappoint",
+      "title": "GSK axes key cough drug candidate after phase 3 data end blockbuster hopes",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-17T13:47:11Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of GSK axes key cough drug candidate after phase 3 data end blockbuster hopes from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:48:43Z"
+    },
+    {
+      "id": "83398c45b9574b0a",
+      "url": "https://www.fiercebiotech.com/biotech/dimerix-snaps-missions-stalled-phase-2-ready-kidney-disease-candidate-5m-upfront",
+      "title": "Dimerix snaps up Mission’s stalled, phase 2-ready kidney disease candidate in $292M deal",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-17T13:47:11Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Dimerix has bought an acute kidney injury drug from Mission Therapeutics, paying $5 million upfront and committing up to $287 million in milestones for the phase 2-ready asset.",
+      "ingested_at": "2026-07-17T13:48:43Z"
+    },
+    {
+      "id": "eb0731051f08faec",
+      "url": "https://www.statnews.com/pharmalot/2026/07/17/up-down-ladder-jobs-comings-goings",
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "source": "STAT News",
+      "published_at": "2026-07-17T13:04:34Z",
+      "category": "other",
+      "country": "US",
+      "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+      "ingested_at": "2026-07-17T13:48:44Z"
+    },
+    {
+      "id": "cc5f2e3e78386b4f",
+      "url": "https://www.statnews.com/pharmalot/2026/07/17/rising-drug-shortages-gsk-abandons-chronic-cough-medication",
+      "title": "STAT+: Pharmalittle: We’re reading about rising drug shortages, GSK coughing up a trial loss, and more",
+      "source": "STAT News",
+      "published_at": "2026-07-17T13:02:11Z",
+      "category": "other",
+      "country": "US",
+      "summary": "The number of active medication shortages in the U.S. rose to 227 in the second quarter of 2026.",
+      "ingested_at": "2026-07-17T13:48:45Z"
+    },
+    {
+      "id": "f8968a99d45a3450",
+      "url": "https://www.expresshealthcare.in/news/immuneel-therapeutics-sign-mou-with-tata-memorial-centre-to-advance-cell-and-gene-therapy-research-in-india/454412",
+      "title": "Immuneel Therapeutics sign MoU with Tata Memorial Centre to advance cell and gene therapy research in India",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-17T12:08:39Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Immuneel Therapeutics sign MoU with Tata Memorial Centre to advance cell and gene therapy research in India from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:48:45Z"
+    },
+    {
+      "id": "0a63e6ba6eabc63b",
+      "url": "https://www.expresshealthcare.in/news/making-diagnostics-a-continuous-health-journey/454409",
+      "title": "Making diagnostics a continuous health journey",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-17T12:00:26Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of Making diagnostics a continuous health journey from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:48:46Z"
+    },
+    {
+      "id": "368e014a4e354aba",
+      "url": "https://www.statnews.com/2026/07/17/health-news-who-can-access-testosterone-hormone-therapy-in-us",
+      "title": "Who can access testosterone hormone medication in the U.S.?",
+      "source": "STAT News",
+      "published_at": "2026-07-17T11:53:20Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Wildfire smoke health hazards, a new idea for treating Duchenne, and more health news from Morning Rounds.",
+      "ingested_at": "2026-07-17T13:48:47Z"
+    },
+    {
+      "id": "ed8b6430519a5d2f",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/screens-are-straining-young-eyes-and-alcon-sees-indias-opportunity/132459577",
+      "title": "Screens are straining young eyes, and Alcon sees India's opportunity",
+      "source": "ETHealthworld Medical Devices",
+      "published_at": "2026-07-17T10:55:07Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Screens are straining young eyes, and Alcon sees India's opportunity from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:48:48Z"
+    },
+    {
+      "id": "7b18cc02730fbdaa",
+      "url": "https://health.economictimes.indiatimes.com/news/hospitals/ankura-hospitals-strengthens-foothold-in-central-india-with-120-bed-hospital-in-indore/132459379",
+      "title": "Ankura Hospitals strengthens foothold in Central India with 120 bed hospital in Indore",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-17T10:46:10Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "The hospital chain said this marks its strategic entry into Madhya Pradesh, as it looks to further strengthen its presence across Western and Central India.",
+      "ingested_at": "2026-07-17T13:48:48Z"
+    },
+    {
+      "id": "b64b74338451cb0e",
+      "url": "https://www.expresshealthcare.in/news/mental-health-technology-should-extend-human-care-not-replace-it/454406",
+      "title": "Mental health technology should extend human care, not replace it",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-17T10:26:36Z",
+      "category": "wellness-tech",
+      "country": "IN",
+      "summary": "Coverage of Mental health technology should extend human care, not replace it from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:48:49Z"
+    },
+    {
+      "id": "5c8ed2ef5253ab97",
+      "url": "https://www.expresshealthcare.in/news/empowering-young-india-through-kaampro/454402",
+      "title": "Empowering young India through KaamPro",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-17T09:49:59Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Empowering young India through KaamPro from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:48:50Z"
+    },
+    {
+      "id": "8993ce7351a97f28",
+      "url": "https://www.statnews.com/2026/07/17/maha-mental-health-care-vocabulary-rhetoric-wellness",
+      "title": "Opinion: MAHA is rewriting the vocabulary of American mental health care",
+      "source": "STAT News",
+      "published_at": "2026-07-17T08:30:00Z",
+      "category": "wellness-tech",
+      "country": "US",
+      "summary": "“‘Deprescribing’ elevated into a movement, and a cultural default, is a clinical hazard,” writes Sunny Patel.",
+      "ingested_at": "2026-07-17T13:48:50Z"
+    },
+    {
+      "id": "03d9a170b32b04a4",
+      "url": "https://www.statnews.com/2026/07/17/trevor-project-suicide-prevention-counseling-for-trans-youth",
+      "title": "Why affirming trans identities can be critical for suicide prevention counseling",
+      "source": "STAT News",
+      "published_at": "2026-07-17T08:30:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Advocates worry that excluding trans youth in some way from LGBTQ+ counseling services provided through the 988 crisis line could be harmful.",
+      "ingested_at": "2026-07-17T13:48:51Z"
+    },
+    {
+      "id": "5d4d1671a685490d",
+      "url": "https://www.statnews.com/2026/07/17/mdcalc-quality-ratings-clinical-algorithms-for-bias-validity",
+      "title": "STAT+: MDCalc is scoring the clinical calculators used by millions of doctors",
+      "source": "STAT News",
+      "published_at": "2026-07-17T08:30:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "MDCalc is launching a quality-rating system for the more than 800 clinical calculators used to assess disease risk, transplant eligibility, and more.",
+      "ingested_at": "2026-07-17T13:48:52Z"
+    },
+    {
+      "id": "b5a9160c899dd67a",
+      "url": "https://www.statnews.com/2026/07/17/sonathera-ultrasound-duchenne-muscular-dystrophy-treatment",
+      "title": "STAT+: Can ultrasound unlock the power of gene therapy? A startup makes big claims",
+      "source": "STAT News",
+      "published_at": "2026-07-17T08:30:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Sonothera is developing a new way to deliver genes into cells that, if borne out, could have a big impact on muscular dystrophy and other diseases.",
+      "ingested_at": "2026-07-17T13:48:52Z"
+    },
     {
       "id": "566c4d38d7906d02",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcmVqT3RuMUVaaXhJZkE4RVZoU0NoSlhSanhUTGl0UnZHWE0xM1ZWUUNvU0xQOFdwcFdRTEZFMjRHVVZDc25xVE1KSElVRXdtNlZUbkZDTXIyWkpUdjI2UUNrZXlZUldIR1JmU0M1WEhuN3hTRGVFTHZERjhEMlJGWk1WdXM5Zi04MlMw?oc=5",
@@ -110,6 +286,116 @@
       "country": "IN",
       "summary": "Bijnor Hospitals Face Suspension Over Alleged Ayushman Bharat Claim Fraud The420.in.",
       "ingested_at": "2026-07-17T08:17:01Z"
+    },
+    {
+      "id": "0e35c93d11c86821",
+      "url": "https://arxiv.org/abs/2607.14914",
+      "title": "Stochastic ultimatum game: Spite-driven resource feedback fosters fairness",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Stochastic ultimatum game: Spite-driven resource feedback fosters fairness from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:48:53Z"
+    },
+    {
+      "id": "d8e49c37ab838b15",
+      "url": "https://arxiv.org/abs/2607.14995",
+      "title": "Multimodal Semantic-Aware Contrastive Learning For False Negative Mitigation in 3D Medical Imaging",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Multimodal Semantic-Aware Contrastive Learning For False Negative Mitigation in 3D Medical Imaging from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:48:54Z"
+    },
+    {
+      "id": "327dc28074690541",
+      "url": "https://arxiv.org/abs/2507.03209",
+      "title": "A Machine Learning Benchmarking Framework for Lipid Nanoparticle Transfection Efficiency Prediction",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of A Machine Learning Benchmarking Framework for Lipid Nanoparticle Transfection Efficiency Prediction from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:48:54Z"
+    },
+    {
+      "id": "2b906b406bb51553",
+      "url": "https://arxiv.org/abs/2511.04458",
+      "title": "TRAECR: A Tool for Preprocessing Positron Emission Tomography Imaging for Statistical Modeling",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of TRAECR: A Tool for Preprocessing Positron Emission Tomography Imaging for Statistical Modeling from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:48:55Z"
+    },
+    {
+      "id": "32f39c610b4cb91d",
+      "url": "https://arxiv.org/abs/2603.16770",
+      "title": "Training a force field for proteins and small molecules from scratch",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Training a force field for proteins and small molecules from scratch from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:48:56Z"
+    },
+    {
+      "id": "b444c386bca1f09d",
+      "url": "https://arxiv.org/abs/2512.15948",
+      "title": "Subjective functions",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of Subjective functions from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:48:57Z"
+    },
+    {
+      "id": "a44e9f9f35f700ea",
+      "url": "https://arxiv.org/abs/2602.14616",
+      "title": "Higher-Order Hit-&-Run Samplers for Linearly Constrained Densities",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Higher-Order Hit-&-Run Samplers for Linearly Constrained Densities from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:48:57Z"
+    },
+    {
+      "id": "b460624e5a3f75a8",
+      "url": "https://arxiv.org/abs/2603.06478",
+      "title": "A functional law of large numbers for a spatial model of Muller's ratchet",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "fitness-tech",
+      "country": null,
+      "summary": "Coverage of A functional law of large numbers for a spatial model of Muller's ratchet from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:48:58Z"
+    },
+    {
+      "id": "ddfd25326daeb915",
+      "url": "https://arxiv.org/abs/2605.13504",
+      "title": "Structural identifiability of partially-observed stochastic processes: from single-particle trajectories to total particle density data",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Structural identifiability of partially-observed stochastic processes: from single-particle trajectories to total particle density data from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:48:59Z"
+    },
+    {
+      "id": "5312978145860cdd",
+      "url": "https://arxiv.org/abs/2607.14078",
+      "title": "A modular state-space model of human perception, cognition, and decision dynamics",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of A modular state-space model of human perception, cognition, and decision dynamics from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:48:59Z"
     },
     {
       "id": "bc1869d6dbe42fbd",
@@ -2114,6 +2400,17 @@
       "ingested_at": "2026-07-16T12:59:59Z"
     },
     {
+      "id": "30ae6ff96205bced",
+      "url": "https://www.expresshealthcare.in/news/india-uk-ceta-opens-new-opportunities-for-indian-medtech-healthcare-services/454383",
+      "title": "India-UK CETA opens new opportunities for Indian medtech, healthcare services",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-16T05:35:53Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of India-UK CETA opens new opportunities for Indian medtech, healthcare services from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:00Z"
+    },
+    {
       "id": "9b5b3716c8dc202a",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtMU1fNkFxU3BTMkZxWWw5UU9TcXc2ZTBiZUtuVWZDWF9vdWNJX21sbXhKTXhXVDR6WkxIVXBSQ2ZZeVE4UDJITVRxaHhFOFJNZTU0UGUtVWlCNTRf?oc=5",
       "title": "'Distressed' patients found by Isle of Wight hospital inspectors - BBC",
@@ -2167,6 +2464,28 @@
       "country": "GB",
       "summary": "Bristol hospitals top list of most expensive NHS car parks in the South West Bristol Live.",
       "ingested_at": "2026-07-16T12:59:59Z"
+    },
+    {
+      "id": "a6a5a3aac9ff501c",
+      "url": "https://www.thehindu.com/business/sun-pharma-gets-nod-from-south-african-regulator-for-generic-semaglutide-injection/article71226953.ece",
+      "title": "Sun Pharma gets nod from South African regulator for generic semaglutide injection",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-16T04:58:09Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Sun Pharma gets nod from South African regulator for generic semaglutide injection from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:01Z"
+    },
+    {
+      "id": "887feb61b0251605",
+      "url": "https://www.thehindu.com/news/national/kerala/keralas-government-hospitals-face-a-shortage-of-specialist-doctors/article71224741.ece",
+      "title": "Kerala’s government hospitals face a shortage of specialist doctors",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-16T04:57:10Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Kerala’s government hospitals face a shortage of specialist doctors from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:01Z"
     },
     {
       "id": "56643811e4c6e842",
@@ -2697,6 +3016,28 @@
       "ingested_at": "2026-07-16T12:59:59Z"
     },
     {
+      "id": "6746a90191594b1d",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/india-uk-fta-lays-groundwork-for-regulatory-recognition-industry-seeks-curbs-on-third-country-rerouting/132427924",
+      "title": "India-UK FTA: MedTech Industry seeks curbs on third country rerouting",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-16T02:27:05Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of India-UK FTA: MedTech Industry seeks curbs on third country rerouting from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:02Z"
+    },
+    {
+      "id": "ffc5372dcee4aea3",
+      "url": "https://health.economictimes.indiatimes.com/news/industry/india-among-global-hotspots-for-climate-related-sleep-loss-highest-in-tamil-nadu-report/132427587",
+      "title": "India among global hotspots for climate-related sleep loss: Report",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-16T02:18:48Z",
+      "category": "wellness-tech",
+      "country": "IN",
+      "summary": "Coverage of India among global hotspots for climate-related sleep loss: Report from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:03Z"
+    },
+    {
       "id": "46f377147379eafa",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaTZnamVvS1Rtb1ZtcVVMTzhsRUM3TXd3ODM4Y1pFcU15cDk5N2FuVjU0Z1FWSVJrSGEzVWdmQ0R4VXJ0c3oyc01ZUDhNaGdJdWhxSnVnQ1pKUTE5WG9NcFI5ZVYzbXFMZThHUjJ3NExuUGhBblYwcEl0b1lFWFNnckZVZTZlVHR4RW85c2k5TDdKZWYyZ3ZTMjhvRi1fZw?oc=5",
       "title": "H1 Market Recap, Withings Medical, and AI Pressure Points - Digital Health Wire",
@@ -3104,6 +3445,17 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "92d4fc7d8268ea22",
+      "url": "https://www.thehindu.com/sci-tech/health/nmc-seeks-to-bar-approvals-for-medical-colleges-with-incomplete-infrastructure/article71225638.ece",
+      "title": "NMC seeks to bar approvals for medical colleges with incomplete infrastructure",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-15T16:06:13Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of NMC seeks to bar approvals for medical colleges with incomplete infrastructure from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:03Z"
+    },
+    {
       "id": "e5602fbeacc85b35",
       "url": "https://www.medtechdive.com/news/abbotts-cancer-diagnostics-vision-theres-always-a-hunger-to-make-these/825307",
       "title": "Abbott’s cancer diagnostics vision: ‘There’s always a hunger to make these tests better’",
@@ -3225,6 +3577,17 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "914e6a2f7138cb39",
+      "url": "https://www.thehindu.com/sci-tech/health/miot-international-opens-emergency-museum-to-promote-life-saving-awareness/article71225139.ece",
+      "title": "MIOT International opens emergency museum to promote life-saving awareness",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-15T14:21:04Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of MIOT International opens emergency museum to promote life-saving awareness from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:04Z"
+    },
+    {
       "id": "e80beb58a0ae6316",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNFowSkJscjdsVU95WWFuZWxUOUtSU3hwTG1DMkM0Y1htTG9sdks0Umk0LXl5b0x3ZklKeHFwYmpjWVY2M0gxNUhWMjE3eERmd3dKZ2tJTVNIOHZHUGowMmh5UGxObFh4V1BpNHpYSFFuS3F1OXRKNW9CM0tYM0R3cGcwQXRrZEhDWDNXZE1pZXkwY0lCYUZ0a2lDOVFvSlpYYnBPcGpWdnhPTFVqanc5SXpZZHREUzU0VE1Fc05sd0dnMkItWjdFVXdjTGotWkRsY21EeVYtdng1NEtNTTYyU1B6aUZINlVBajI3X0tiQUpoTEU?oc=5",
       "title": "SpotitEarly Bets On Dogs, Breath And AI For Early Cancer Detection - insights.citeline.com",
@@ -3280,6 +3643,17 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "a286a984f9e5acb4",
+      "url": "https://www.thehindu.com/news/cities/chennai/single-incision-spine-procedure-at-sims-hospital-restores-mobility-in-octogenarian-in-chennai/article71221155.ece",
+      "title": "Single-incision spine procedure at SIMS Hospital restores mobility in octogenarian in Chennai",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-15T12:41:08Z",
+      "category": "ai-in-health",
+      "country": "GLOBAL",
+      "summary": "The patient, who had severe lumbar nerve compression, spinal deformity and a cardiac pacemaker, underwent a single-incision procedure that avoided conventional open spine surgery.",
+      "ingested_at": "2026-07-17T13:49:05Z"
+    },
+    {
       "id": "2eb1b6d008a5f739",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGtwRTRiZDNJS01fakhrZ2VYamFYbTRzMGdoLU1UeWVNLWFHenBxU0czTnNyTHo4S0JFa09vZV9XVVI3S3l5MnR1X2o4RHNEWTA1VkMzcDd3TFhFZDBVT252M0VZVGlHWHQ4bVdhTVNJRnRvdW9wcUtERWp4cTl5b3RURnk0ZVFQQ2t6YVlCU0lYZEdFcVhTS2xB?oc=5",
       "title": "Leeds to test digital tools for young diabetes patients - Home | Digital Health",
@@ -3302,6 +3676,17 @@
       "ingested_at": "2026-07-16T14:37:45Z"
     },
     {
+      "id": "dbb1374bb8e40a10",
+      "url": "https://www.expresshealthcare.in/news/circle-health-raises-funding-from-enzia-ventures-momentum-capital-and-others/454381",
+      "title": "Circle Health raises funding from Enzia Ventures, Momentum Capital, and Others",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-15T12:09:52Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Circle Health raises funding from Enzia Ventures, Momentum Capital, and Others from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:05Z"
+    },
+    {
       "id": "a990dfc4922662a6",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVkQtbjJ5bWpHbTI5a2x2SWhWNUxKNGRJRGd5NHFxUjNJQTFhRVlVYUk2M25yZmlrbFBNMzNmLXVES0pwdTlRZTg1c0FUYmNvWW9YZlp5YlI3dGY3QktIUmVpMFFrSTBqLVFmTDFWclA1VThsdm5LalVudW12RUJMYnFNRzZnamJwZ25GNmVxeXFtZDlzcGdOUkdCRXZOZ1IySl82bkd3?oc=5",
       "title": "FTC secures USD 12M in settlement with Edwards Lifesciences, Genesis MedTech - Medical Buyer",
@@ -3311,6 +3696,17 @@
       "country": "IN",
       "summary": "FTC secures USD 12M in settlement with Edwards Lifesciences, Genesis MedTech Medical Buyer.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "a57f752d70b6364a",
+      "url": "https://www.thehindu.com/sci-tech/health/indias-opportunity-to-lead-the-shift-to-non-animal-drug-testing/article71206055.ece",
+      "title": "India’s opportunity to lead the shift to non-animal drug testing",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-15T10:59:30Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Integrating non-animal models into research and development pipelines can enable more reliable science, faster development cycles and stronger intellectual property creation.",
+      "ingested_at": "2026-07-17T13:49:06Z"
     },
     {
       "id": "7ebcf5a309bab521",
@@ -3423,6 +3819,17 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "c26879405be678df",
+      "url": "https://www.thehindu.com/sci-tech/health/decoding-the-tech-tools-streamlining-our-health-systems/article71182443.ece",
+      "title": "Decoding the tech tools streamlining our health systems",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-15T07:05:21Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Decoding the tech tools streamlining our health systems from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:06Z"
+    },
+    {
       "id": "e55a5fc87164a254",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZdFFNNzhWNTdaWUlVX0RSOXRiMWN0QnFlMVBxdGpMLXhXRlM1X1RvWXdRZGVkbjMxUkJWLTkyUUdhQ0NWYVA0WVFBeEpCRzgwYnRBWG5ZVE45SXRDVUJWaUd5TTRXWllYWllIRy130gFyQVVfeXFMUGVKQjNNajd1M2VfZkRmaU5Ebldnbzc2RkZHSmx3SHA2NHFjVGxZaWVIR1B6cENqZTNpOHpuRWdndjl3OHNkNldQcDJjWW1pM2w0eXVGbGJ5WFZKTndhLTh2UFh3TXRVN0d4ZlVVZ01oVjhn?oc=5",
       "title": "'6 OECD countries impose no blanket limits on first-time telemedicine prescriptions' - koreabiomed.com",
@@ -3432,6 +3839,17 @@
       "country": "IN",
       "summary": "'6 OECD countries impose no blanket limits on first-time telemedicine prescriptions' koreabiomed.com.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "2958470a50540376",
+      "url": "https://health.economictimes.indiatimes.com/news/policy/fssai-crackdown-serves-food-for-thought-as-packaged-food-makers-seek-clearer-rules/132407765",
+      "title": "FSSAI crackdown serves food for thought as packaged food makers seek clearer rules",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-15T06:11:42Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "Coverage of FSSAI crackdown serves food for thought as packaged food makers seek clearer rules from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:07Z"
     },
     {
       "id": "9a0467aa76ed6d58",
@@ -3467,6 +3885,28 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "b381519dee113991",
+      "url": "https://www.thehindu.com/sci-tech/technology/can-ai-moderate-social-media-content-heres-why-it-falls-short/article71220510.ece",
+      "title": "Can AI moderate social media content? Here’s why it falls short",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-15T04:55:32Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "Coverage of Can AI moderate social media content? Here’s why it falls short from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:08Z"
+    },
+    {
+      "id": "b85d633526b0024e",
+      "url": "https://www.thehindu.com/news/national/karnataka/donate-a-memory-bengaluru-based-nightingales-medical-trust-seeks-vintage-household-items-for-indias-first-integrated-dementia-care-village/article71221438.ece",
+      "title": "‘Donate a Memory’: Bengaluru-based Nightingales Medical Trust seeks vintage household items for India’s first integrated dementia care village",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-15T04:43:47Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of ‘Donate a Memory’: Bengaluru-based Nightingales Medical Trust seeks vintage household items for India’s first integrated dementia care village from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:08Z"
+    },
+    {
       "id": "bb8407dfc10133d0",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVW90VFdsOGhidEREYTBYYlhVcFEydVVUblZRd3BRTGN1OUluQ3U3eEhza1RJTkdZRnhCWjQ1ZHNpeVZYR05oUWZLTjgtcTBiN0tsaDFJTExLbEdMaG1HSmVSMG1QSlc1NHNqdWdzbjFITTBjbmJhQ2M1cHZjMUxNSzFJNm8yN1F5SDlYUnhmMktqSUJzV1JqVXkwdV9iLVlEM3h6QmY2TU5VdE1xa1BmZm9lV1lFZEFxa1puakFuTVZHWHlTTV9vU01lY0hMUXRH0gHWAUFVX3lxTE9kMXBjeG5iTldKanEtR19ZWDJtOGI4aVdCRFg1V1pZV0EtUlY2dnBxdjMxaTdPUUR5LVZDS0FsVEhaeTRJUmtCd0EwV2EtNExIeTdjT3FHd2M0Sm9OdTdlRXljNVgwczdTSmdndklfOEV4clNPWFFsX1kzQTlZay1nazJINkdMLTdjNFpsTjNINHpMcjVUTVRib0N3VnpWOWp3bWhkdlk3d3pfZ0ZYbHI0R05aekoyVElwby1XT1J2Nm05UTlGWnZ2amRLQjhEQUZ6bnRGWlE?oc=5",
       "title": "Deepinder Goyal eyes health tech and aerospace with new ventures beyond Eternal - Storyboard18",
@@ -3487,6 +3927,39 @@
       "country": "IN",
       "summary": "India–UK trade agreement comes into effect: What it means for MedTech Medical Buyer.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "75cc083c9920f803",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/after-zomato-deepinder-goyal-bets-on-health-tech-and-aerospace/132403853",
+      "title": "After Zomato, Deepinder Goyal bets on health tech and aerospace",
+      "source": "ETHealthworld Medical Devices",
+      "published_at": "2026-07-15T02:15:01Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of After Zomato, Deepinder Goyal bets on health tech and aerospace from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:09Z"
+    },
+    {
+      "id": "e7da020836dd8c65",
+      "url": "https://health.economictimes.indiatimes.com/news/industry/air-pollution-worsened-mums-covid-toll-finds-national-study/132403852",
+      "title": "Air pollution worsened Mum's Covid toll, finds national study",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-15T02:10:58Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Globally, Covid-19 infected about 770 million people and claimed nearly 70 lakh lives, while India reported around 4.5 crore confirmed cases and over 5.3 lakh deaths till Dec 2024.",
+      "ingested_at": "2026-07-17T13:49:10Z"
+    },
+    {
+      "id": "c3bc4fd8e2603060",
+      "url": "https://health.economictimes.indiatimes.com/news/industry/poor-muscle-health-could-increase-likelihood-of-developing-diabetes-study/132403901",
+      "title": "Poor muscle health could increase likelihood of developing diabetes: Study",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-15T02:03:53Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Poor muscle health could increase likelihood of developing diabetes: Study from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:10Z"
     },
     {
       "id": "5bb07613a7c5eb62",
@@ -3643,6 +4116,17 @@
       "ingested_at": "2026-07-16T14:37:47Z"
     },
     {
+      "id": "27c86e41d6898f3c",
+      "url": "https://www.thehindu.com/sci-tech/health/draft-national-health-research-policy-proposes-overhaul-of-indias-research-ecosystem/article71221189.ece",
+      "title": "Draft national health research policy proposes overhaul of India’s research ecosystem",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-14T15:47:07Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Draft national health research policy proposes overhaul of India’s research ecosystem from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:11Z"
+    },
+    {
       "id": "158815da945e437c",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejRUZGx3NlJ3RUg3MlJWek94TENjc3R5bmdwMGZjZS1PV1Z5dEhmMWkzeXhwN0Zkdm9uOVlUdHRLVXZlQWlZdDRBc3RfRzB4MDBleElwbTN0STM4RnpnZ3ZDeWppT2xnNXFfYm9yT3FmU2MtY1ZpaFFyZkg5ekxRV2NLdGFhbTdSN1QxUHVSN0xfZzFGd1RqVkNvTHpZRnU5SWdqZU1EWGc0cGhVT2RraERVanE?oc=5",
       "title": "Medtronic recalls heart valve delivery catheter for risk of tip detaching - MedTech Dive",
@@ -3742,6 +4226,28 @@
       "ingested_at": "2026-07-16T19:19:04Z"
     },
     {
+      "id": "30d50d9c45af120a",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/no-evidence-of-highly-virulent-covid-19-variant-in-tn-says-health-department/article71217962.ece",
+      "title": "No evidence of highly virulent COVID-19 variant in T.N., says Health department",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-14T08:06:14Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of No evidence of highly virulent COVID-19 variant in T.N., says Health department from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:12Z"
+    },
+    {
+      "id": "8d0bfd42d76fd4e5",
+      "url": "https://www.thehindu.com/sci-tech/health/menstrual-pain-neither-normal-nor-unmanageable/article71220161.ece",
+      "title": "Menstrual pain: neither normal nor unmanageable",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-14T07:06:22Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Menstrual pain: neither normal nor unmanageable from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:12Z"
+    },
+    {
       "id": "0770d765f4ed2ce2",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcjJ2SFhnYVlfWDdFa3doR1VKd24yY0ZfQm1EWERUd2FaTlNIMXBUVFM0WE5qU2pqbkhxbDdCOVpnYWNWZHNMclo5eF9TWkRLdl94U25VeUllRDVxOFc4Z0VRakhBenFCTHVjd2dlaUlTQ3pSaFI5Y3F5WDRpeEZUOWtDbDFPNzBxdDJ3SjhVUmU?oc=5",
       "title": "Health sector cautiously welcomes NHS AI rollout - Home | Digital Health",
@@ -3753,6 +4259,28 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "2521c9d24ba4b3c6",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/india-setting-new-benchmarks-in-medical-research-defence-minister-rajnath-singh/article71216729.ece",
+      "title": "India setting new benchmarks in medical research: Defence Minister Rajnath Singh",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-14T05:03:35Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "India's health system has emerged as more self-reliant, accessible, affordable, modern and people-centric as compared to earlier times says Defence Minister Rajnath Singh.",
+      "ingested_at": "2026-07-17T13:49:13Z"
+    },
+    {
+      "id": "0919552391a1b1e5",
+      "url": "https://www.thehindu.com/business/clinical-investigator-associated-with-study-at-alembics-bioequivalence-unit-gets-us-fda-warning-letter/article71218088.ece",
+      "title": "Clinical investigator associated with study at Alembic’s bioequivalence unit gets U.S. FDA warning letter",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-14T04:52:32Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of Clinical investigator associated with study at Alembic’s bioequivalence unit gets U.S. FDA warning letter from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:14Z"
+    },
+    {
       "id": "4f86ab1e7bcb5508",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX2E1c3M3a0d3RE83aVpWSHhxejJsMExZbWtnYjEzbWlwcHVmWlc4XzlsZzhla1RaMnJZb0lWc3dReEtzWW82ZWpTX1N5ZFprdE5OU1lQQ0RBR0hwT3pRRVFrQ3NUcGFzeE5wQ2drRU84Nk16STJYaTJmZlNlTHlpVVZYWTJvZ3FiWGNmbTlxWlQxck9SakE5dFFRY0FSdkIyYkpqVGZmOEY?oc=5",
       "title": "Ayush And Digital Health: What The New Integration Means For Patients - NDTV",
@@ -3762,6 +4290,17 @@
       "country": "IN",
       "summary": "Ayush And Digital Health: What The New Integration Means For Patients NDTV.",
       "ingested_at": "2026-07-17T02:56:59Z"
+    },
+    {
+      "id": "78187c9f42186e98",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/warburg-bain-cvc-among-pe-firms-in-talks-to-buy-into-agappe-diagnostics/132378754",
+      "title": "Warburg, Bain, CVC among PE firms in talks to buy into Agappe Diagnostics",
+      "source": "ETHealthworld Medical Devices",
+      "published_at": "2026-07-14T01:43:15Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of Warburg, Bain, CVC among PE firms in talks to buy into Agappe Diagnostics from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:14Z"
     },
     {
       "id": "33696b79ca862c0f",
@@ -3852,6 +4391,17 @@
       "ingested_at": "2026-07-16T14:37:50Z"
     },
     {
+      "id": "73bec2a6c1558fdc",
+      "url": "https://www.thehindu.com/sci-tech/health/europe-recorded-10000-excess-deaths-during-late-june-heatwave-data-show/article71216747.ece",
+      "title": "Europe recorded 10,000 excess deaths during late-June heatwave, data show",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-13T11:19:05Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Extreme heat can kill by causing heat stroke, or aggravating cardiovascular and respiratory diseases, with ‌older people among the most vulnerable.",
+      "ingested_at": "2026-07-17T13:49:15Z"
+    },
+    {
       "id": "dcc4e8c1e21a1a77",
       "url": "https://www.who.int/news/item/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
       "title": "El Salvador validated by WHO as having eliminated trachoma as a public health problem",
@@ -3872,6 +4422,17 @@
       "country": "US",
       "summary": "Modernize evidence generation with unified strategies and AI to accelerate time to market.",
       "ingested_at": "2026-07-16T14:37:51Z"
+    },
+    {
+      "id": "04df7de9045f7b4e",
+      "url": "https://www.thehindu.com/sci-tech/technology/eu-says-age-check-app-ready-in-push-to-protect-children-online/article70867501.ece",
+      "title": "EU says age-check app 'ready' in push to protect children online",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-13T07:44:05Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Brussels has been under pressure to come up with more stringent measures to safeguard children online.",
+      "ingested_at": "2026-07-17T13:49:16Z"
     },
     {
       "id": "59cc1fa7246c4f59",
@@ -3951,6 +4512,28 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "9f57925906af1676",
+      "url": "https://www.thehindu.com/sci-tech/health/jules-bordets-nobel-winning-discovery-that-transformed-the-understanding-of-immunity/article71213408.ece",
+      "title": "Jules Bordet’s Nobel-winning discovery that transformed the understanding of immunity",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-12T13:46:19Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Jules Bordet’s Nobel-winning discovery that transformed the understanding of immunity from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:16Z"
+    },
+    {
+      "id": "5c216c330f0ea2ba",
+      "url": "https://www.thehindu.com/sci-tech/health/remodelling-of-immune-system-by-tb-vaccine-may-explain-its-link-with-lower-alzheimers-risk-study/article71213630.ece",
+      "title": "Remodelling of immune system by TB vaccine may explain its link with lower Alzheimer's risk: Study",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-12T10:10:16Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Remodelling of immune system by TB vaccine may explain its link with lower Alzheimer's risk: Study from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:17Z"
+    },
+    {
       "id": "987af0f1f351810f",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWxsVDlsMUljRDUtRHlJLXYtaTJzb256dHZGMXlhazJhOVBCM25QLWFDYVNMaVNuT055cHdidTQ1TUxRWlR1bEFEbmd0dFRWTGNQcU82MEFFLTloLVVjdUYzLUhOU0tNT0tiTTRUR1A5N2xwSW93dE9sZndOSVFfbkN2LS1LbGFPSTFmdUYyaWdhSURTRjFuTktjcjlMck5aZTF0c0lHZE9nc2l4OEdHZmxlakIxSEFxWlNKR0U5SUJLcFBxX1dZS05B0gHPAUFVX3lxTE82SWJrNkVQSGZwbFRZUDZYSGtFN3RXTWJQdm9kbFlNYXdEazRhTEJZOHFUM3dfbGM2SVRGTzVXeHJPa1ZYSzJaWDhWM0d1OHNZODNuM3hVSC1ycXZ3VHdfWDdyUzhELWlPX1ZfQWJiVE1BT3ZRRXphaS1paEIzazRuV25kV1U4Und0XzhHRUdmTXQ4d1FiSnExbW9vcTQzeUdjcTRWcURad0Y1aWVLQ2RTeElaeE5LemhwUC1JUFpfS0dheFB1RXZJRmtOS3RGYw?oc=5",
       "title": "Oscar Health Stock And 2 Digital Health Picks Tied To Quality Of Life - simplywall.st",
@@ -3982,6 +4565,94 @@
       "country": "JP",
       "summary": "Japan firm Tanita eyes PH as site for health-tech hub — DTI MSN.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "61328243db85227c",
+      "url": "https://www.thehindu.com/sci-tech/health/nine-in-ten-why-jammu-and-kashmirs-privatehospitals-have-indias-highest-c-section-rate/article71209545.ece",
+      "title": "J&K leads in rising C-section rates across private hospitals in India, NFHS-6 data shows",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-11T12:34:49Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of J&K leads in rising C-section rates across private hospitals in India, NFHS-6 data shows from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:18Z"
+    },
+    {
+      "id": "dc1d015c839f11ae",
+      "url": "https://www.thehindu.com/sci-tech/health/meta-appeals-verdict-in-social-media-addiction-lawsuit/article71209825.ece",
+      "title": "Meta appeals verdict in social media addiction lawsuit",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-11T12:15:32Z",
+      "category": "wellness-tech",
+      "country": "GLOBAL",
+      "summary": "Coverage of Meta appeals verdict in social media addiction lawsuit from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:18Z"
+    },
+    {
+      "id": "fa931a2006dfec93",
+      "url": "https://www.thehindu.com/sci-tech/health/us-citizen-working-in-congo-tests-positive-for-ebola-outbreak-still-spreading-largely-undetected-says-who-official/article71209837.ece",
+      "title": "U.S. citizen working in Congo tests positive for Ebola; outbreak still spreading largely undetected, says WHO official",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-11T09:32:02Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of U.S. citizen working in Congo tests positive for Ebola; outbreak still spreading largely undetected, says WHO official from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:19Z"
+    },
+    {
+      "id": "3d6df5f666cb5457",
+      "url": "https://www.thehindu.com/sci-tech/health/health-quiz-on-reproductive-systems/article71165147.ece",
+      "title": "Health Quiz: On reproductive systems",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-11T05:38:49Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Health Quiz: On reproductive systems from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:20Z"
+    },
+    {
+      "id": "7f4b1cbaa6f13e8f",
+      "url": "https://www.thehindu.com/sci-tech/health/national-family-health-survey-6-findings-complete-coverage-from-the-hindu/article71043935.ece",
+      "title": "National Family Health Survey-6 findings | Complete coverage from The Hindu",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-11T05:37:01Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Read the findings of the survey, from across different States, as reported by The Hindu.",
+      "ingested_at": "2026-07-17T13:49:20Z"
+    },
+    {
+      "id": "9d0ab94695a51834",
+      "url": "https://www.thehindu.com/opinion/op-ed/a-future-of-financial-health-for-every-indian/article71207562.ece",
+      "title": "A future of financial health for every Indian",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-11T05:00:46Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "India’s next leap should be to ensure financial health for all.",
+      "ingested_at": "2026-07-17T13:49:21Z"
+    },
+    {
+      "id": "bf0395f114cde3e7",
+      "url": "https://www.thehindu.com/sci-tech/eu-demands-facebook-instagram-dismantle-design-features-it-calls-addictive-for-users/article71206254.ece",
+      "title": "EU demands Facebook, Instagram dismantle design features it calls addictive for users",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-11T04:59:26Z",
+      "category": "wellness-tech",
+      "country": "GLOBAL",
+      "summary": "European Commission said Meta failed to properly assess the risks its design features pose to the physical and mental health of users, including minors.",
+      "ingested_at": "2026-07-17T13:49:22Z"
+    },
+    {
+      "id": "3f14f8500b40c283",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/aiims-patna-develops-equipment-to-make-brain-surgeries-safe/132323175",
+      "title": "AIIMS-Patna develops equipment to make brain surgeries safe",
+      "source": "ETHealthworld Medical Devices",
+      "published_at": "2026-07-11T02:13:20Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of AIIMS-Patna develops equipment to make brain surgeries safe from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:22Z"
     },
     {
       "id": "9e13f3acdd1e05b5",
@@ -4039,6 +4710,17 @@
       "ingested_at": "2026-07-16T13:01:10Z"
     },
     {
+      "id": "e4faf6f44e0c74be",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/blackstone-tpg-seek-over-4-billion-for-hologics-surgical-unit/132282834",
+      "title": "Blackstone, TPG seek over $4 billion for Hologic's surgical unit",
+      "source": "ETHealthworld Medical Devices",
+      "published_at": "2026-07-09T09:48:23Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "The ⁠two firms are working with advisers on ​a sale of the division, which makes surgical equipment used ​by gynecologists, FT reported.",
+      "ingested_at": "2026-07-17T13:49:23Z"
+    },
+    {
       "id": "77217020fee35cf2",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQejhrSkVaRkVYYVdkbzh3Ty1EWkw4WmlpTVAtNUw3T1lUSGZJSGFqa21HSHdoem9XX0ctb2swT2xYZ3FNajloeDYzSFNOYkNESE5XU3E2S2w0d0pZa1hMSmxyTVcwRkR2SHlVX0JfNEF5VlJaMlBqRzRvM2g3WlNLdV8tZ0htNEw4YmV4QjdYSlpEeHBRSWg3VUktV1R3ZWVCak1idXg1cmw1dw?oc=5",
       "title": "Digital health users worldwide 2017-2031 - Statista",
@@ -4048,6 +4730,28 @@
       "country": "GLOBAL",
       "summary": "Digital health users worldwide 2017-2031 Statista.",
       "ingested_at": "2026-07-17T02:57:03Z"
+    },
+    {
+      "id": "68c9022fcc6c426e",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/medtech-opportunities-in-india-could-reach-35-bn-by-2030-bain-report/132275024",
+      "title": "Medtech opportunities in India could reach $35 Bn by 2030: Bain Report",
+      "source": "ETHealthworld Medical Devices",
+      "published_at": "2026-07-09T01:39:21Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of Medtech opportunities in India could reach $35 Bn by 2030: Bain Report from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:23Z"
+    },
+    {
+      "id": "279b59ad29c1f6b9",
+      "url": "https://health.economictimes.indiatimes.com/news/health-it/deeptech-startup-enlife-bags-rs-6-crore-to-develop-ai-blood-test-for-alzheimers/132274975",
+      "title": "Deeptech startup Enlife bags Rs 6 crore to develop AI blood test for Alzheimer's",
+      "source": "ETHealthworld Health IT",
+      "published_at": "2026-07-09T01:29:56Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "Coverage of Deeptech startup Enlife bags Rs 6 crore to develop AI blood test for Alzheimer's from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:24Z"
     },
     {
       "id": "84ec806d15f55365",
@@ -4070,6 +4774,17 @@
       "country": "GLOBAL",
       "summary": "Coverage of WHO calls for urgent action as new cancer cases are projected to nearly double by 2050 from the health-tech news cycle.",
       "ingested_at": "2026-07-16T14:37:52Z"
+    },
+    {
+      "id": "6704df5863063e16",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/hc-asks-for-inventory-of-unused-medical-equipment/132260503",
+      "title": "Delhi HC asks for inventory of unused medical equipment",
+      "source": "ETHealthworld Medical Devices",
+      "published_at": "2026-07-08T10:24:10Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of Delhi HC asks for inventory of unused medical equipment from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:25Z"
     },
     {
       "id": "3c6789a0f5eacee4",
@@ -4103,6 +4818,17 @@
       "country": "US",
       "summary": "‘Secret shopper’ study probes GLP-1 telehealth sites STAT.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "ce3cd44732f3e620",
+      "url": "https://health.economictimes.indiatimes.com/news/health-it/ihh-healthcare-and-fortis-name-winners-of-inaugural-india-catalyst-accelerator/132215909",
+      "title": "IHH Healthcare and Fortis name winners of inaugural India catalyst accelerator",
+      "source": "ETHealthworld Health IT",
+      "published_at": "2026-07-06T11:53:37Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of IHH Healthcare and Fortis name winners of inaugural India catalyst accelerator from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:25Z"
     },
     {
       "id": "14e9ecc08f77a897",
@@ -4204,6 +4930,17 @@
       "ingested_at": "2026-07-16T14:37:54Z"
     },
     {
+      "id": "81f4a4716855af83",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/medical-device-maker-zimmer-biomet-to-hire-500-in-3-years-for-tech-centre-in-india/132138244",
+      "title": "Medical device maker Zimmer Biomet to hire 500 in 3 years for tech centre in India",
+      "source": "ETHealthworld Medical Devices",
+      "published_at": "2026-07-02T12:01:34Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of Medical device maker Zimmer Biomet to hire 500 in 3 years for tech centre in India from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:26Z"
+    },
+    {
       "id": "a3d838ad6db6cdc3",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU04zMWk0eGpfeFIzTUNxc013cWpHY0I0cE0tanV0d0IyTjR4YVFBOWtoS00ydjVpbWx1OGJWdXlWcl9iMXF6UzlzNVBqUHJ4OW9uOXVmaU5lWDQ4WG5JaDhsNDFrVE9teVZSTHRWSkdvMmZRTzdXRWxwNDlYSUdxak1XR2F3RmZWU1dVQTJYOFVyVFQ0RU9WTU9GVEplWUtxYzVudU5kQ1BJcU1LalY2MTNXVzZ1Nm8wSWlxNlJ2cUN3aDhJTlBoTGpnbW5ReVhCR3JlWE1WN0lLVVh4UGNMTVh0b1c1cXhoQTk2X0ZQMFdmQQ?oc=5",
       "title": "LY Corporation to Absorb LINE Healthcare After Ending Telemedicine Service - The Globe and Mail",
@@ -4224,6 +4961,17 @@
       "country": "US",
       "summary": "A ‘historic’ FDA clearance raises the question: Is the LLM an interface or the decision-maker? STAT.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "c9459765b5e108c6",
+      "url": "https://health.economictimes.indiatimes.com/news/health-it/anthropic-launches-claude-science-ai-research-workbench-for-scientific-research/132126971",
+      "title": "Anthropic launches ‘Claude Science’ AI ​research workbench for scientific research",
+      "source": "ETHealthworld Health IT",
+      "published_at": "2026-07-02T01:35:06Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "Coverage of Anthropic launches ‘Claude Science’ AI ​research workbench for scientific research from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:27Z"
     },
     {
       "id": "ec896e7eae685d6d",
@@ -4259,6 +5007,17 @@
       "ingested_at": "2026-07-16T14:37:55Z"
     },
     {
+      "id": "a7b135f1e701cde4",
+      "url": "https://health.economictimes.indiatimes.com/news/health-it/googles-gemma-4-powers-new-aarogya-setu-2-0-app/132091697",
+      "title": "Google's Gemma 4 powers new Aarogya Setu 2.0 app",
+      "source": "ETHealthworld Health IT",
+      "published_at": "2026-06-30T11:01:53Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Google's Gemma 4 powers new Aarogya Setu 2.0 app from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:27Z"
+    },
+    {
       "id": "f5805ca552498fcd",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPODNaTUtTT2JFVHItTmkzYmVOVkVNd1RWQlJKMWl1VVZyWHdaT1Z2aWxaR1J4aDJNMWsxVm82d2laOS1oSUp4dmoyQzhudHJrSlNjaUZSQVJwamNEQUladFl0bW9teElpZWU2NW9nLUhteXFSQTlJZzZlc2lzU0J4TVhCRDdGVExndE85aHVUNTJ1RmRycjhSbFo1MWc3ZlQ1OVNR?oc=5",
       "title": "FDA digital leader hints at coming AI policy updates - STAT",
@@ -4268,6 +5027,17 @@
       "country": "US",
       "summary": "FDA digital leader hints at coming AI policy updates STAT.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "f5b0021fdb7cac99",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/govt-invites-proposals-for-medical-device-manufacturing-offers-up-to-rs-10-crore-subsidy/132084750",
+      "title": "Govt invites proposals for medical device manufacturing; offers up to Rs 10 crore subsidy",
+      "source": "ETHealthworld Medical Devices",
+      "published_at": "2026-06-30T05:27:46Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of Govt invites proposals for medical device manufacturing; offers up to Rs 10 crore subsidy from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:28Z"
     },
     {
       "id": "fe2aae6a0fea1a50",
@@ -4292,6 +5062,39 @@
       "ingested_at": "2026-07-17T02:57:04Z"
     },
     {
+      "id": "59c741f429f5559f",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/health-ministry-proposes-faster-approvals-for-medical-device-manufacturing-licences/132060663",
+      "title": "Health ministry proposes faster approvals for medical device manufacturing licences",
+      "source": "ETHealthworld Medical Devices",
+      "published_at": "2026-06-29T01:02:16Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of Health ministry proposes faster approvals for medical device manufacturing licences from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:29Z"
+    },
+    {
+      "id": "38bd50da81be7f6f",
+      "url": "https://health.economictimes.indiatimes.com/news/health-it/ai-platform-developed-to-support-doctors-frontline-workers-with-verified-health-intelligence/132055222",
+      "title": "AI platform developed to support doctors, frontline workers with verified health intelligence",
+      "source": "ETHealthworld Health IT",
+      "published_at": "2026-06-28T17:10:41Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "Coverage of AI platform developed to support doctors, frontline workers with verified health intelligence from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:29Z"
+    },
+    {
+      "id": "149c48a13fe8c1b2",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/cdsco-restricts-supply-of-ivf-consumables-to-registered-fertility-centres/132027181",
+      "title": "CDSCO Restricts Supply Of IVF Consumables To Registered Fertility Centres",
+      "source": "ETHealthworld Medical Devices",
+      "published_at": "2026-06-27T01:52:31Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of CDSCO Restricts Supply Of IVF Consumables To Registered Fertility Centres from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:30Z"
+    },
+    {
       "id": "276cfa67d6c96e01",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-proposes-rule-would-help-hold-foreign-tobacco-product-manufacturers-accountable-protect-public",
       "title": "FDA Proposes Rule That Would Help Hold Foreign Tobacco Product Manufacturers Accountable, Protect Public Health",
@@ -4312,6 +5115,17 @@
       "country": "US",
       "summary": "AI literacy: The missing link in digital health tech Wolters Kluwer.",
       "ingested_at": "2026-07-16T19:19:07Z"
+    },
+    {
+      "id": "015dfa29238fbf57",
+      "url": "https://health.economictimes.indiatimes.com/news/health-it/seven-in-10-indians-targeted-by-health-scams-social-media-emerges-as-top-channel-study/131993730",
+      "title": "Seven in 10 Indians targeted by health scams, social media emerges as top channel: Study",
+      "source": "ETHealthworld Health IT",
+      "published_at": "2026-06-25T12:22:52Z",
+      "category": "wellness-tech",
+      "country": "IN",
+      "summary": "A study of 1,000 adults found that two in three Indians have encountered a health or wellness scam, with social media emerging as the leading platform used by scammers.",
+      "ingested_at": "2026-07-17T13:49:31Z"
     },
     {
       "id": "6a33f59867bb8e27",
@@ -4400,6 +5214,39 @@
       "country": "US",
       "summary": "Coverage of Digital Health Market Size to Reach USD 1,830.4 Billion by 2033, Driven by Rising Adoption of Telehealth, mHealth, AI-Based Solutions, and Connected Healthcare Technologies: Grand View Research, Inc. - PR Newswire from the health-tech news cycle.",
       "ingested_at": "2026-07-16T13:01:10Z"
+    },
+    {
+      "id": "463bd6bf3fa5e261",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/govt-eyes-fast-tracking-local-production-of-high-end-medical-devices/131952516",
+      "title": "Govt eyes fast-tracking local production of high-end medical devices",
+      "source": "ETHealthworld Medical Devices",
+      "published_at": "2026-06-24T01:39:41Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "The Centre has reviewed the existing data and is considering internally to create its own priority list of 8-10 devices where policy support will be most impactful.",
+      "ingested_at": "2026-07-17T13:49:31Z"
+    },
+    {
+      "id": "bd5ea4f542f12f58",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/government-invites-industry-input-on-revision-of-gte-exempt-medical-devices-list/131952492",
+      "title": "Centre seeks Industry feedback over revision of GTE-Exempt Medical device list",
+      "source": "ETHealthworld Medical Devices",
+      "published_at": "2026-06-24T01:20:01Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of Centre seeks Industry feedback over revision of GTE-Exempt Medical device list from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:32Z"
+    },
+    {
+      "id": "655285ff84b44dd5",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/healthium-medtech-ceo-anish-bafna-steps-down-moves-to-non-executive-chairman-role/131933448",
+      "title": "Healthium Medtech CEO Anish Bafna steps down, moves to non-executive chairman role",
+      "source": "ETHealthworld Medical Devices",
+      "published_at": "2026-06-23T10:13:28Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of Healthium Medtech CEO Anish Bafna steps down, moves to non-executive chairman role from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:33Z"
     },
     {
       "id": "be35548e4ba7870a",
@@ -4501,6 +5348,28 @@
       "ingested_at": "2026-07-16T19:19:13Z"
     },
     {
+      "id": "a73f2a14029f797f",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/deepinder-goyals-temple-claims-discovery-of-biomarker-that-calculates-cost-of-being-alive-heres-what-it-means/131899467",
+      "title": "Deepinder Goyal's Temple claims discovery of biomarker that calculates cost of being alive; here’s what it means",
+      "source": "ETHealthworld Medical Devices",
+      "published_at": "2026-06-22T00:45:56Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Deepinder Goyal's Temple claims discovery of biomarker that calculates cost of being alive; here’s what it means from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:33Z"
+    },
+    {
+      "id": "17b1f1d1494723e6",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/plan-in-the-works-to-let-hospitals-import-med-equipment-directly/131869055",
+      "title": "Plan in the works to let hospitals import med equipment directly",
+      "source": "ETHealthworld Medical Devices",
+      "published_at": "2026-06-20T01:10:08Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "The proposed list has 80 items, including MRI machines, CT scanners, PET-CT systems, SPECT/SPECT-CT/Gamma cameras, mammography units and high-end X-ray equipment.",
+      "ingested_at": "2026-07-17T13:49:34Z"
+    },
+    {
       "id": "bb490d37ebdad8f4",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb1VnSlJ5enFaMHpWOTVMUjNVdENRV1doUEtjVVVhRWVmanlRekF1M3JQRERNWDhNTklFdTViaHRuckpOb2tLRXFOX1F1RW4zVENOeW5BNGpEVzAyWnA2UDh6blA0QVc1NWJHN1pTV2RyT3AzZ1hzSGJ5WUY4SFZtRlozblNCMVpMc2JRYUhtbVZnaE1UaWZZTTM5VTVCaUV1RzFsVmxLby05SGZwZzNyMWN3S2tLUjdPTlVGYi1R?oc=5",
       "title": "EU draft guidelines sharpen high-risk AI classification for medtech and digital health - Osborne Clarke",
@@ -4565,6 +5434,17 @@
       "country": "US",
       "summary": "Two decades of growth and trends in the FDA authorization of digital medical devices Nature.",
       "ingested_at": "2026-07-16T19:19:14Z"
+    },
+    {
+      "id": "cc87845f20a87999",
+      "url": "https://health.economictimes.indiatimes.com/news/health-it/bihs-to-deploy-philips-data-integration-platform-for-connected-patient-care-network/131784083",
+      "title": "BIHS to deploy Philips’ data integration platform for connected patient care network",
+      "source": "ETHealthworld Health IT",
+      "published_at": "2026-06-17T01:43:16Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of BIHS to deploy Philips’ data integration platform for connected patient care network from the health-tech news cycle.",
+      "ingested_at": "2026-07-17T13:49:34Z"
     },
     {
       "id": "f52677ad030fd9c2",

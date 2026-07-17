@@ -54,6 +54,10 @@ SOURCE_COUNTRY_HINTS = {
     "fda": "US",
     "google news digital health us": "US",
     "google news digital health india": "IN",
+    "google news india": "IN",
+    "ethealthworld": "IN",
+    "express healthcare": "IN",
+    "the hindu": "IN",
     "google news digital health china": "CN",
     "google news digital health uk": "GB",
     "google news digital health germany": "DE",
@@ -399,7 +403,7 @@ def balance_candidates(
     # Featured regions get a guaranteed share; India & Global get a slight boost
     weights = {
         "GLOBAL": 2,
-        "IN": 3,
+        "IN": 4,
         "US": 2,
         "CN": 2,
         "GB": 2,

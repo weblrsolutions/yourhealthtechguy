@@ -75,6 +75,55 @@ feeds:
     group: country
     country: IN
 
+  # --- India deep coverage (dedicated sources + targeted searches) ---
+  # Dedicated Indian health-tech trade press (treated as trade → all health stories kept)
+  - name: ETHealthworld Top Stories
+    url: https://health.economictimes.indiatimes.com/rss/topstories
+    group: trade
+    country: IN
+
+  - name: ETHealthworld Health IT
+    url: https://health.economictimes.indiatimes.com/rss/health-it
+    group: trade
+    country: IN
+
+  - name: ETHealthworld Medical Devices
+    url: https://health.economictimes.indiatimes.com/rss/medical-devices
+    group: trade
+    country: IN
+
+  - name: Express Healthcare India
+    url: https://www.expresshealthcare.in/feed/
+    group: trade
+    country: IN
+
+  # General daily (country group → digital/health filter trims non-tech noise)
+  - name: The Hindu Health
+    url: https://www.thehindu.com/sci-tech/health/feeder/default.rss
+    group: country
+    country: IN
+
+  # Targeted India search angles (already tech-scoped in the query)
+  - name: Google News India Health-Tech Funding
+    url: https://news.google.com/rss/search?q=(India)+(%22health+tech%22+OR+medtech+OR+%22digital+health%22)+(funding+OR+startup+OR+raises)&hl=en-IN&gl=IN&ceid=IN:en
+    group: country
+    country: IN
+
+  - name: Google News India Digital Health Mission
+    url: https://news.google.com/rss/search?q=(India)+(ABDM+OR+%22Ayushman+Bharat%22+OR+%22health+ID%22+OR+%22digital+health+mission%22)&hl=en-IN&gl=IN&ceid=IN:en
+    group: country
+    country: IN
+
+  - name: Google News India MedTech & Regulation
+    url: https://news.google.com/rss/search?q=(India)+(CDSCO+OR+%22medical+device%22+OR+medtech+OR+NMC)+(approval+OR+regulation+OR+launch)&hl=en-IN&gl=IN&ceid=IN:en
+    group: country
+    country: IN
+
+  - name: Google News India Telemedicine & AI
+    url: https://news.google.com/rss/search?q=(India)+(telemedicine+OR+%22AI+in+healthcare%22+OR+%22remote+monitoring%22+OR+%22health+app%22)&hl=en-IN&gl=IN&ceid=IN:en
+    group: country
+    country: IN
+
   - name: Google News Digital Health US
     url: https://news.google.com/rss/search?q=%22digital+health%22+OR+medtech+OR+telehealth+OR+%22FDA%22+health+tech&hl=en-US&gl=US&ceid=US:en
     group: country

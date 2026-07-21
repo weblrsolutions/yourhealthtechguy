@@ -2,7 +2,7 @@
 
 A free, ad-free news hub for digital health, medtech, AI in healthcare, and wellness tech — the latest stories from trusted sources, aggregated in one clean place and refreshed through the day.
 
-**Live:** https://weblrsolutions.github.io/htcnews/
+**Live:** https://htcnews.is-a.dev/ (also https://weblrsolutions.github.io/htcnews/)
 
 ## What it does
 

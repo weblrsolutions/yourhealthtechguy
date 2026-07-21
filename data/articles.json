@@ -1,6 +1,424 @@
 {
-  "updated_at": "2026-07-21T08:36:25Z",
+  "updated_at": "2026-07-21T14:03:35Z",
   "articles": [
+    {
+      "id": "f8c23dc80a057370",
+      "url": "https://www.fiercebiotech.com/biotech/axiom-plans-head-nasdaq-hong-kong",
+      "title": "‘There is always a first’: Why US biotech Axiom will begin its IPO journey in Hong Kong",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-21T14:02:40Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of ‘There is always a first’: Why US biotech Axiom will begin its IPO journey in Hong Kong from the health-tech news cycle.",
+      "ingested_at": "2026-07-21T14:02:49Z"
+    },
+    {
+      "id": "d321a031a236434e",
+      "url": "https://www.fiercebiotech.com/biotech/lupin-seeds-spinout-kaveri-cash-and-clinical-phase-cancer-assets",
+      "title": "Indian generics maker Lupin seeds US spinout Kaveri with cash, clinical-phase cancer assets",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-21T14:02:40Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Indian generics maker Lupin seeds US spinout Kaveri with cash, clinical-phase cancer assets from the health-tech news cycle.",
+      "ingested_at": "2026-07-21T14:02:50Z"
+    },
+    {
+      "id": "75b6dc2f1ee98450",
+      "url": "https://www.fiercebiotech.com/biotech/agios-says-adios-sickle-cell-program-over-lackluster-phase-2-data",
+      "title": "Agios says adios to sickle cell program over lackluster phase 2 data",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-21T14:02:40Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of Agios says adios to sickle cell program over lackluster phase 2 data from the health-tech news cycle.",
+      "ingested_at": "2026-07-21T14:02:50Z"
+    },
+    {
+      "id": "2ae492c2a00ad4ee",
+      "url": "https://www.fiercebiotech.com/biotech/novartis-drops-phase-2-stage-radioligand-therapy-commitment-modality-unchanged",
+      "title": "Novartis drops phase 2 radioligand therapy, but CEO’s commitment to modality ‘unchanged’",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-21T14:02:40Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Novartis has dropped a phase 2-stage radioligand therapy after the candidate disappointed in the clinic.",
+      "ingested_at": "2026-07-21T14:02:51Z"
+    },
+    {
+      "id": "1b87fab885116fef",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGt2bkE2S05IUTVUWVk3ZVhlOWFZRlVUT0t3YVhXam5YM0JIc196Tk15STFyaVd1eTREZm02THdYaHhNOXpFNXdVOVBpZlAxYmwweHk5TGMyRkRJZmhrUGNXUmxvMDVCdDlpMzB4RnVVT0g4R0FkaDJOVlRscmhrNFN2bHhsanh0aDJkcmRCeWQ1RnBEM2pXQ0hYb2ZBcjViN2FOOXF6Rk13TzUwcmc?oc=5",
+      "title": "London patients can now start their own care plans in NHS app - Health Tech World",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-21T14:01:06Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "London patients can now start their own care plans in NHS app Health Tech World.",
+      "ingested_at": "2026-07-21T14:02:51Z"
+    },
+    {
+      "id": "dd7431c995a98794",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pREtuMS0weHA3dFpDZmUtV0N3MDdKU1RvdmxVUkF3dDNpTWN4Umw0WUh6NGd2enVpSXg1OW51RTJIZ3dGUDJ3MXdIWnU5TWJCMWFWdzBnaWc5akNwQnpzOTMtWUY0a1l0?oc=5",
+      "title": "India to Host the Sixteenth BRICS Health Ministers' Meeting in Chandigarh from 22–24 July - PIB",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-21T13:48:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "India to Host the Sixteenth BRICS Health Ministers' Meeting in Chandigarh from 22–24 July PIB.",
+      "ingested_at": "2026-07-21T14:02:52Z"
+    },
+    {
+      "id": "10779ee7abf48318",
+      "url": "https://www.statnews.com/2026/07/21/is-there-an-exodus-underway-at-epic-health-tech",
+      "title": "Is there an exodus underway at Epic?",
+      "source": "STAT News",
+      "published_at": "2026-07-21T13:43:43Z",
+      "category": "other",
+      "country": "US",
+      "summary": "In this edition of STAT Health Tech: executive departures at Epic Systems, new CEO takes over at Nabla, and more health tech news.",
+      "ingested_at": "2026-07-21T14:02:53Z"
+    },
+    {
+      "id": "3cbc8e06f6fcdda8",
+      "url": "https://www.statnews.com/2026/07/21/center-for-therapeutic-genetics-rare-disease-gene-therapies",
+      "title": "STAT+: Broad Institute, partners unveil new initiative to develop gene therapies for rare diseases",
+      "source": "STAT News",
+      "published_at": "2026-07-21T13:37:33Z",
+      "category": "other",
+      "country": "US",
+      "summary": "The Broad Institute, Boston Children’s Hospital, and Maine’s Jackson Laboratory announced a collaboration to develop rare disease gene therapies.",
+      "ingested_at": "2026-07-21T14:02:53Z"
+    },
+    {
+      "id": "57c96e0c1a595013",
+      "url": "https://www.statnews.com/2026/07/21/biotech-news-anthropic-deepens-work-with-rare-disease-drugs",
+      "title": "STAT+: Anthropic deepens work with rare disease drugs",
+      "source": "STAT News",
+      "published_at": "2026-07-21T13:36:20Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Novo Nordisk sues Eli Lilly over GLP-1s, Medicare pricing plans, and more biotech news from The Readout.",
+      "ingested_at": "2026-07-21T14:02:54Z"
+    },
+    {
+      "id": "20e79ebed00ad9b9",
+      "url": "https://www.theverge.com/tech/968551/garmin-cirqa-smart-band-fitness-tracker-wearables",
+      "title": "Garmin’s new screen-free fitness tracker doesn’t require a subscription",
+      "source": "The Verge",
+      "published_at": "2026-07-21T13:33:27Z",
+      "category": "fitness-tech",
+      "country": null,
+      "summary": "Coverage of Garmin’s new screen-free fitness tracker doesn’t require a subscription from the health-tech news cycle.",
+      "ingested_at": "2026-07-21T14:02:54Z"
+    },
+    {
+      "id": "a978cbb1b9a41b5b",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS0twTFoyWUlBaWFkWVVNR1VvaG85MzV6UGxBbTcxQU96VEFXa1J3Mlh6djVJeUlXaTBaOTFmRDk1aWhYMDBiNzNBMG9odzh3VXJZVVJFSi1WczVWclV5aGllci1SeHFZNTZzYjdqWXY0VldKNGFabzFGY0VwNzRVVlNUQUZtaFA1VlFUV29PejlLci1aMlBNSGhIcUJPZw?oc=5",
+      "title": "Macmillan and ORCHA launch app library for cancer patients - Home | Digital Health",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T13:30:45Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Macmillan and ORCHA launch app library for cancer patients Home | Digital Health.",
+      "ingested_at": "2026-07-21T14:02:55Z"
+    },
+    {
+      "id": "9a5358e56ec0c739",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaG03VG0yTjFNWUpYYXRxbk00WHJOU3VrOHNEc2I2Qkl1Z2VRLWhBbkhUVWFWMGdnbmpOTVpsX3JOQkJRV0pzQjlZZV92czhaYzdGOVZDVXBOYWtKMlVVeDBfNVFfR211N2dTUUpkV0VWZ05uM3dJSlg3VmpEZkE1ZDZ2ajVWS2NDcVVjREZCejdGajBkQVcwdDl6Zi0xRHNHN0M0NUpscHhaMzRVTGV6OGEyaU9pZ0VZR0JyMlJIUm1IZ2JzRzhHT1dIS3hmLTFkTTYyblhwc0RQUXRGX3luZnh4MWFqV0hJOHNQRDc4aw?oc=5",
+      "title": "ORASIS PHARMACEUTICALS DOUBLES DOWN ON EYE CARE PROFESSIONALS, NOT TELEHEALTH, AS QLOSI® REFILLS REACH 49%¹ - PR Newswire",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T13:15:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "ORASIS PHARMACEUTICALS DOUBLES DOWN ON EYE CARE PROFESSIONALS, NOT TELEHEALTH, AS QLOSI® REFILLS REACH 49%¹ PR Newswire.",
+      "ingested_at": "2026-07-21T14:02:55Z"
+    },
+    {
+      "id": "01b2f52fcb4062bd",
+      "url": "https://www.statnews.com/pharmalot/2026/07/21/novo-sues-lilly-alleging-deceptive-ads-fugitive-secret-life-in-biotech",
+      "title": "STAT+: Pharmalittle: We’re reading about Novo suing Lilly over ‘deceptive’ ads, a fugitive’s secret life in biotech, and more",
+      "source": "STAT News",
+      "published_at": "2026-07-21T13:08:39Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Novo Nordisk sued Eli Lilly for allegedly running “deceptive” ads to make its obesity and diabetes drugs appear more effective.",
+      "ingested_at": "2026-07-21T14:02:56Z"
+    },
+    {
+      "id": "aa68eb077e4d2c50",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObzR3SjI4WXo4VUx4SFdMTFU4c2VVTVVIb2FjcFpIdjRJYi1XLS1hcWZ4TWxTNG9ybG1xQkcxcFJ1ZW50bHJISFlGakdOaDFsbThiaVdBSDFCWGp4T2htb2xzZ081YkFYTHpBbi1jdjh5cWNsSkRRdFBXc3hvMjZyQUZLbjdvU3Mtb3BjQS1FNE5xRnZDYkloMzZfZGM?oc=5",
+      "title": "MedTech Pioneer Max Reinhardt Joins eXeX to Drive Canopus Platform Growth - Yahoo Finance",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T13:00:00Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "MedTech Pioneer Max Reinhardt Joins eXeX to Drive Canopus Platform Growth Yahoo Finance.",
+      "ingested_at": "2026-07-21T14:02:57Z"
+    },
+    {
+      "id": "06b4c25b839b51c1",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPakppV051bjg2amlvaG80UjExNUdnZC05TVQxRllfZDU5MHNjeFREdEZUQWhZeGNDUE5ySjRJdWtzbkJVdDlBb2U5TXFST3dhWEU4UHJwQlkxQlpqbG1oZ0UyZXZuS2JqMnVQVDFydTVOR1NqN3VnUTVFS20yQlNVSjY4ZnJxMkxESURXNjZDSUlJYVUtTEpCMw?oc=5",
+      "title": "MedTech Pioneer Max Reinhardt Joins eXeX to Drive Canopus Platform Growth – Company Announcement - Financial Times",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-21T13:00:00Z",
+      "category": "medical-device",
+      "country": "GB",
+      "summary": "MedTech Pioneer Max Reinhardt Joins eXeX to Drive Canopus Platform Growth – Company Announcement Financial Times.",
+      "ingested_at": "2026-07-21T14:02:57Z"
+    },
+    {
+      "id": "55919853d36d3080",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQU9pcEVGV3ZadWVCUzYyTGYyTTNvY0hRam1fTWNvbjlvdmVtOGhiZ3VVWlNLalRqZlNxaVJ0UmNxcFpyTHlraVVNdHNNQmdyQzdJTzNwVFNvTE5ZTnVHTVUtUDBxWTFKdGR5Y0RpWER6RlNhNXpHeTBkQ0NQaFRfZ2lxY3hiWmZNcmJfaDRFVS1tMlZncjJmeWcwZllEREpOOUtQTHZXeHd4VjA?oc=5",
+      "title": "Savvy Senior: Doctor visits without the drive—how Medicare covers telehealth - Henrico Citizen",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-21T12:55:52Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "Savvy Senior: Doctor visits without the drive—how Medicare covers telehealth Henrico Citizen.",
+      "ingested_at": "2026-07-21T14:02:58Z"
+    },
+    {
+      "id": "dfa74f7915ed9f16",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMFNvcGtSUDRLRzZyMTJTZG51NllXN0hYVU9YWnJBXzBRQmE3N2dnUWg4c2w2ZC12bkgyWW1aNUJ3YmR4X3lmV2Nka3AxamxFV21JOEhkQms4LUZDRHRhWHRueTFSTTJRdVdPR3N6eVY3YmRiS0lkVzY5SDc3TWd2UlNMRFljWFFQamZfdW11Ui1TSVYyU29FcWw4cVZhNjN6VmNfOWZQcnh2aXpyQjA3UlNJazZVUmNGTEZOYUREam1MaDBuSTQyUzEtMDVYbDNjQUMxRzVkM2RxTFNLZ1BwYXFlallWTmhudTR5LXNTUXFmMklpankzNlZYWDJHNU5EYjBkMTVZNndwRmhMX3UyeFlfMGxHYmExVmxV?oc=5",
+      "title": "Menopause Telehealth Leader Winona Launches Line of Supplements Specifically Formulated to Help Women Navigate the Menopause Transition - PR Newswire",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T12:43:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Menopause Telehealth Leader Winona Launches Line of Supplements Specifically Formulated to Help Women Navigate the Menopause Transition PR Newswire.",
+      "ingested_at": "2026-07-21T14:02:58Z"
+    },
+    {
+      "id": "9de85b60331bce47",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yRmVQLXJPN281QmVxdDBleE1IMkswRWFVb2dONDR0UHdEMVlmdWFOQ1Y0TUliRlFIS2NjQ1FURC1mb3ZhaTdDRXluSEs3RHBvXzZoQ1ZnRmFGVkM3ekp4dw?oc=5",
+      "title": "ConV2X Smart Technology Transformation Summit Announces Global Health Leaders Defining Next Era of AI, Digital Health, and Clinical Innovation - WebWire",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T12:36:33Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "ConV2X Smart Technology Transformation Summit Announces Global Health Leaders Defining Next Era of AI, Digital Health, and Clinical Innovation WebWire.",
+      "ingested_at": "2026-07-21T14:02:59Z"
+    },
+    {
+      "id": "c635dc11ac507880",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTI2aHVsQkV1WlFfS2xFV3ZwejBqQXFxbkwweVY2dkgxZU9nYm1ieDFmZ3Y5dlBHVzdUTm1GQUh2M0NmOEozaU94LUJGd1FULUY5R0ZHcmMwT3Jyb3hKdTNvR3AtU3h5ZU5qMVVlaVhPQktxaTF0V2NTX2x2eVRINkg2S3BHd0Q1TEdIdzdUb0JxbnktQkNxR0dHLWQxQjZEX3BKZmI5MjI?oc=5",
+      "title": "Ayushman Bharat Haryana: 17.24 Lakh Families Eligible, 1,309 Hospitals Empanelled, Govt Shares Data in Parliament - The Impressive Times",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-21T12:31:01Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Ayushman Bharat Haryana: 17.24 Lakh Families Eligible, 1,309 Hospitals Empanelled, Govt Shares Data in Parliament The Impressive Times.",
+      "ingested_at": "2026-07-21T14:02:59Z"
+    },
+    {
+      "id": "d7c9abdf8221f05b",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX1laS3R0NlRxSUFIVUxuRkdSMG9hc3BRblV2clBVaTk5UUN4YklIdE1nOXJQQXJsTlpPaU5uTUxfQWIwTmpXNEpsaWRtZ1VtcVY4RU4yb3F2Szl6MDF2V1BBSUFRS1p1aFF0ZmpRYXhhbzNPLVRmMlJBZlluTk5XZ0t2S2NPbjhuSnFVRldjd0I0T2UzR2o4YVc1ZVQ2NHRWeU9Sd1BKUE1CQmVLMk9nZ0hvN2xjeU5JYm5sWUpZZ2t1U1d4UXdVX1ktN01MVU4tcmxiVzNFTUI4Q09KdHRpTFJOSHhzckdidUR3Mm1B0gHzAUFVX3lxTE1TSE8zTUNEWmQ3aFB3YU1UNWJBdHQ0SklEX0pzVlZqbFE2NUVab1c4Y2NwekpQSW9FM0dhdUJGMS1ZWUhVMkE4OU5VSUl5cjR2dlh4UVI0Rmo2aUZlbXVNYUtLWFdLVkM3TFVoM1habzlieTVnTi1XU3RuZ3lPZks5STZMX1pzWm9iZmlLc3kteTJqbWlmWUVpakpDMzFpTDRVSkFHWkp1aEJNcHYyYkc4Z091NERGN3ZPdUt1cUhWYmVlOHZpeTNZQW1oR0N1b0I5aGN4ZlB2a0FWeElMQk1DNF9XMnM1dWRuZVI0dS1VQVhpNA?oc=5",
+      "title": "Rocket Doctor Joins National Coalition Advocating for Permanent Medicare Telehealth - The Manila Times",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T12:08:22Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Rocket Doctor Joins National Coalition Advocating for Permanent Medicare Telehealth The Manila Times.",
+      "ingested_at": "2026-07-21T14:03:00Z"
+    },
+    {
+      "id": "af4b3bb40b0c6ac9",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2JJMVVfUWdpV0JyQmxLaVNSQUcxRmFfbjM5Qk9uUWpROG5HVFlidDk2dksxYl92TUliYjVwTHEwdE9ZX2tFRld3aUlxYmdaVk5XRzhIT2F1SEFHY0JqakZpODN6NE9nYzhjTnV5a3ZWOEFJODM5dGwzYnZjX2d1R3lSUlh4cjJfSU5GMUdXY1hETDliSmg2OUVHV0ozTXpyQjRoUkNHeGszNG9NX1RWT3NB?oc=5",
+      "title": "Philippines-Based Telehealth Platform GoRocky Acquires Women’s Health Startup Kindred - Femtech Insider",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T12:06:40Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Philippines-Based Telehealth Platform GoRocky Acquires Women’s Health Startup Kindred Femtech Insider.",
+      "ingested_at": "2026-07-21T14:03:01Z"
+    },
+    {
+      "id": "0e8955c75a2286af",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeTQ5bUJRbUI5SzNYT2ZvdXNhY05QWG9FUnBkX01kb2pxUWZoc0FzQlpmNTJ2bWdMcWgtUW1SaG5yS0VqM1NybU0wNXhKSnhBNWxfMy03Zndad2FpYVItZExoMm1zcnVNSEVTdy1pTG1pTzRhcS1pQWxKVTZqSkJrN2tmajdPay1fTjlmZkQ5bElEMmF6cThvckNiZTRlUFpjNU93WmtqSm1xd3E4VlkyZE11VDRkbFh5cE9PWkx3?oc=5",
+      "title": "Six-month programme to give health tech startups direct NHS access - Health Tech World",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-21T12:00:30Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "Six-month programme to give health tech startups direct NHS access Health Tech World.",
+      "ingested_at": "2026-07-21T14:03:01Z"
+    },
+    {
+      "id": "0ec262833ce101a9",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU3B4YWlKdUp0UE1NcHRkSDRrb1JOSHhsaXNUelpMblRYWTN6UDU0S09sWkJHZXpEY2dqQU9wQWpQeHFJRVliZHVxcFhUOXNSUzM1ekhUVzVwamM5ejI3a0UxdUloNUtISy1oS2xoZXVWeElvdXBGRS1Wam5DT3BkOTB2NENhclp1Wk0tblNrcXZnOU5vRDdnU3ZlVHg3eDYzMV9EMFNhWkpZZzFRdGhtenRLMG1hWk14elQtatIBwgFBVV95cUxPTGMtZGR4ODFvYjdiQTFYcUpKTlpyNmVkQ1k1RzBPa0xQaVltMjUwUmJGVXAzTWNyZmNFWG5nbjV3RUVTdGljRktDZHhiMFVjbFRWamx6MHZaVTZ1aU43aXZIa3lLX2ptVUlrclBSLVotLTA4LVVnMEllWjJIelJGOWFVT3BpZEZxblZLUHFtTnB6SEdqVUZsMUVfelc1ZkdjZmhRbHJRbW5oWVhNUVg3c2p2b2Z4WHhPSlpkb2lWNEpfdw?oc=5",
+      "title": "NHA Slaps ₹114 Crore Fine on 2,842 Hospitals in Ayushman Bharat Fraud - Medical Dialogues",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-21T11:27:06Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "NHA Slaps ₹114 Crore Fine on 2,842 Hospitals in Ayushman Bharat Fraud Medical Dialogues.",
+      "ingested_at": "2026-07-21T14:03:02Z"
+    },
+    {
+      "id": "be898041119182d5",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPN3hRcXd4MEU5MHBnTEY0ODUyM1ctbG5YU1p5SDl4MnRrdWJjTTJuemJnU21iR2o0MUJKSHoyVGVJRTVReWhfdWZ5ZEVQSURKWlk3RVhuNll2QkFVUlJRR1pWNWdHU1NqSUlaRThiSDFleEVrR1BES0Y3cnBVVk5KRWJ2ZFRUenlsNUd4NkkzdDJIalRCcFpEbTAwemh4OG41b3FtVkFrakh3RXZTVHFjOTcxWjQ0bFhEd2NCbjZJUEs2ZlgxNmZ6Yi05ODZfQUhPVVNvZzdSTTdwblBMem9oUmlBTVA2U0JMRFNhbjRSZ0lyYWRRMk9RcTE3UHpVNW55a3VXNTk1MUZLQUQzd2pTdURqRklCN3hudk8xNG14UHBLZGJpSWI4?oc=5",
+      "title": "“As India’s FTA Landscape Accelerates, Mtai Convenes Policy Makers, Diplomatic Representatives And Industry Leaders To Chart The Future Of Medtech And Healthcare Ecosystem”. - TRIPURA STAR NEWS",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-21T11:23:12Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "Coverage of “As India’s FTA Landscape Accelerates, Mtai Convenes Policy Makers, Diplomatic Representatives And Industry Leaders To Chart The Future Of Medtech And Healthcare Ecosystem”. - TRIPURA STAR NEWS from the health-tech news cycle.",
+      "ingested_at": "2026-07-21T14:03:02Z"
+    },
+    {
+      "id": "e909ed9217fae19f",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPM3lBRkNQMU94dTFLUkJ0b011WWoydHk1ekN1NDd6emZPTDlFVnA5VzJwaGRKdEtEbXhNNWdEbEJlMElfYjRraXJSb2RfQkNmd0NGMDNTT2NxUVRibEJ5WlRmVTVSMEhSS3RHeXI3a0xSUHZHY2xyUm52VnpFb1pfTkpEeU9oZlFfamp3T1dCYnFiMk94YlM4eG92d0Q0eFhHWGRDRGliN1haeHdtYWU0R0pTTDNmOS1DTnF0VV93a3FEeGFfbERmOFotcTJHSm9ZdlQ2NUFvQkRtLW90UXU0cnNlVGdoT2wzZGhtNlNzMUtpbkY4UEJIaEl3VTV5NjZ1aTB3WEJRWE5oUzlPb3ZDVDY3N01vRmdYS3Qtb0N2dy1WMXJCcFI1UHNRU1lWakVhVlhQNEp2ZDJ0TjhSWWxv?oc=5",
+      "title": "The Precision Peptide Company Inc.: The Precision Peptide Company Activates Nationwide Direct-to-Consumer Peptide Sales with Retail Telehealth Website Launch - FinanzNachrichten.de",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-21T11:02:00Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "The Precision Peptide Company Inc.: The Precision Peptide Company Activates Nationwide Direct-to-Consumer Peptide Sales with Retail Telehealth Website Launch FinanzNachrichten.de.",
+      "ingested_at": "2026-07-21T14:03:03Z"
+    },
+    {
+      "id": "c8609e359041d0b8",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPX0ZpZmZhci0tVmZ3WUtySy13bkJLcjExZzJjYTNVSDdDbkp5eG51UHNLTS1CYlEyamVDbXhtbC1acjdvLW1WWnBpMWNnUTJ4M09CY21kRllFRVFDOXM4QVNkdEU5M2UwVy1FMWdyRlhEWnEteWFISWtYOTBEZHVlbVFXeG9DZUM3MjlOa0RUVndUem5TOTFFRm53cmZvd1l1eWZORFZLZ2pBNXQ5R0pBQ05XUUkteDdtN1F1aXVzZ3ZkUUpyOGxJcFI3VmVjX2xDaGdQRlRZaWF3a1oxZUI5V2Iwd3hqVWx0QzRkTE5PdHg2YTgxVDRJVDNLUHg3TVZSWkkzSXZ5cEVpWEU3N1VmOXpn?oc=5",
+      "title": "The Precision Peptide Company Activates Nationwide Direct-to-Consumer Peptide Sales with Retail Telehealth Website Launch - TradingView",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T11:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "The Precision Peptide Company Activates Nationwide Direct-to-Consumer Peptide Sales with Retail Telehealth Website Launch TradingView.",
+      "ingested_at": "2026-07-21T14:03:03Z"
+    },
+    {
+      "id": "f3c79b7e7a3935e0",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNLWNkcUtkM21aUzlaZjd5cFVZSGR5ZVNpRkthcXBKOVZBZlpGTUVKN3ZfN2V1cURERndSMnAyZ1hCdW9GWFV4NHowMUV3X052eHNUTC1UdHBKQlpfWTVHWmt2NFhCczVqTDJfa1VEa2tUaEhXQ1JhSndrYzZhQ2ZLXzNYZUsyeW1xTVUxTklhRXctN3h2R19LQVZNamVMZWRHVXFiNnFsaUtETmNFczFMMlVjSmVaazR3ZTIwbGc4amtuWmFSMG9ITU53SHowSGNTTm1yLXVYSThRS1JBMVVUdDlEbUNPTnBBNFpXa2l0cWVNdGhqQndPSDFDMlQ3ZWxiUEF0VG9HM3hheGNFa1RFS3g4bVJTR21mSUxxdFZYSFVYYVZ3amo4Tw?oc=5",
+      "title": "Lumeris Partners With Schmitt-Thompson Clinical Content to Advance Tom™ Symptom-Checking Capability with Evidence-Based Telehealth Triage Guidance - PR Newswire",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T11:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Lumeris Partners With Schmitt-Thompson Clinical Content to Advance Tom™ Symptom-Checking Capability with Evidence-Based Telehealth Triage Guidance PR Newswire.",
+      "ingested_at": "2026-07-21T14:03:04Z"
+    },
+    {
+      "id": "44a4eb94ba8f90d5",
+      "url": "https://health.economictimes.indiatimes.com/news/industry/48-of-docs-rely-on-ai-just-26-of-them-use-clinical-specific-ones/132533486",
+      "title": "48% Of Docs rely on AI, just 26% Of them use clinical-specific ones",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-21T10:42:11Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "This adoption accelerates, healthcare experts are raising a concern: Many clinicians are increasingly relying on generic AI chatbots that were never designed for this field.",
+      "ingested_at": "2026-07-21T14:03:04Z"
+    },
+    {
+      "id": "54f8503a4ddcbc46",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTGRNMjlwWXlpTFV5S19XWlRjVV9zd1JVbml5Q2FmMHIxU19WVlpHVUNBWkN1dGMyd1ZfRzRBRkNOVm5VcjNDenVNVDRkdEhJME9aUDk2ZnJhMkZpaXBWRVdaVTNoZS0wRkkydTZpMHk5b1NQVUhqWFkydnJtY1B6bUpZc29oSDJaWVhQZW85NUlwMGJPOUM3bDc3MGZjS05RcWJ2SVpvS2JaT0ptZGlPZzFGc3lGX19fRzFreXpHdno5Q3dEa3dtb3dOckZ0LVhM?oc=5",
+      "title": "Centre says 524 day-care cancer centres operational, treatment expanded through AIIMS and Ayushman Bharat - DD India",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-21T10:36:43Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Centre says 524 day-care cancer centres operational, treatment expanded through AIIMS and Ayushman Bharat DD India.",
+      "ingested_at": "2026-07-21T14:03:05Z"
+    },
+    {
+      "id": "7aa155256a23d5a7",
+      "url": "https://www.expresshealthcare.in/news/medi-assist-integrates-uidai-aadhaar-offline-verification-into-health-benefits-platform/454439",
+      "title": "Medi Assist integrates UIDAI Aadhaar Offline Verification into health benefits platform",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-21T09:55:45Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "Coverage of Medi Assist integrates UIDAI Aadhaar Offline Verification into health benefits platform from the health-tech news cycle.",
+      "ingested_at": "2026-07-21T14:03:06Z"
+    },
+    {
+      "id": "0d519c513781fefa",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWNjUjBoQkphcWFWNTAzY2ZhSVdUcThORlRDRGdlT2VYLXBPZlE0V3VHRkloTHUtamtwX0xjVWF1eUhlQUNZenpZZXJUZlNxVUJFMHZVUEJ1NERBYzNSbnVMYVpXb0IzT252c09OTjZuRk5BaGRXbnRBMVFQSmhwMHdKLVJEcTFqTVI2V3BGYWpkSWx2R2NyNVpIQ05rN0FyVmUwNjZOTl9oaW5mUl81UC1n?oc=5",
+      "title": "Over 1.86 Lakh Ayushman Arogya Mandirs Driving Comprehensive Primary Healthcare: Centre - DD News",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-21T09:52:25Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Over 1.86 Lakh Ayushman Arogya Mandirs Driving Comprehensive Primary Healthcare: Centre DD News.",
+      "ingested_at": "2026-07-21T14:03:06Z"
+    },
+    {
+      "id": "01bee63ecd151393",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWHpjLXBVWXJNWnJ0N192S09oWUVQRHNtdXJMM0F5Y3hXMVdpVU0td1B6VFJ6UnM5NlJab1RyRURsTkhlS0pXOXRKaDNTWWxhVG1KS2syeGdpWHNUdDFacUllV3B2YTRwZ2w4WjlFUkFxQ3dYTUhiTEJoaEtvS21xOFhFdmdramE4VkNBdkJDYXlmTWJDdGZZNEMtRDVHSXJ3Qk5hSm1DZ2pOSHZ5Nkc3cHZGT3Q4S0xIWFE?oc=5",
+      "title": "Future of Connected Healthcare: Building a Patient-Centric Digital Ecosystem in India - Digital Health News",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-21T09:50:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Future of Connected Healthcare: Building a Patient-Centric Digital Ecosystem in India Digital Health News.",
+      "ingested_at": "2026-07-21T14:03:07Z"
+    },
+    {
+      "id": "81a7d2ce213da152",
+      "url": "https://www.thehindu.com/sci-tech/health/qdenga-indias-first-approved-dengue-vaccine/article71248324.ece",
+      "title": "QDENGA: India’s first approved dengue vaccine",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-21T09:40:13Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "QDENGA, India’s first dengue vaccine, receives approval for use, marking a significant milestone in dengue prevention efforts.",
+      "ingested_at": "2026-07-21T14:03:07Z"
+    },
+    {
+      "id": "f86f6222e567e1f8",
+      "url": "https://www.thehindu.com/sci-tech/health/why-end-of-life-care-should-include-digital-assets-management/article71237153.ece",
+      "title": "Why end-of-life care should include digital assets management",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-21T09:36:21Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Why end-of-life care should include digital assets management from the health-tech news cycle.",
+      "ingested_at": "2026-07-21T14:03:08Z"
+    },
+    {
+      "id": "ad3c6d1bc4cc2ea2",
+      "url": "https://www.expresshealthcare.in/news/nit-rourkela-researchers-develop-biodegradable-antimicrobial-film-for-healthcare-applications/454435",
+      "title": "NIT Rourkela researchers develop biodegradable antimicrobial film for healthcare applications",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-21T09:28:57Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of NIT Rourkela researchers develop biodegradable antimicrobial film for healthcare applications from the health-tech news cycle.",
+      "ingested_at": "2026-07-21T14:03:08Z"
+    },
+    {
+      "id": "8633415c63a6e52a",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYVpKNnBiUDZJQ0ZKMWlnbFVLOFBUYmRqTl9LX0dmeFZmcEl3bXQ2REVVZEM4cnBzaE5vbEZWSmNGVkx3c3dBYUxzLVhBNHhqUFZaQnh6bDFCUVZpd09UVThZZFhGTnJ2XzBoR0hPTGltTHpjRGRiaWM5c21Dajk4QlgyUlNOMzZWVTFLQkNkY0pxLVhNcm55VV9tTjZKa0NBRTFZZmYtUS1nUQ?oc=5",
+      "title": "NHA pushes for AI, interoperability to accelerate digital health transformation - Medical Buyer",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-21T09:23:39Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "NHA pushes for AI, interoperability to accelerate digital health transformation Medical Buyer.",
+      "ingested_at": "2026-07-21T14:03:09Z"
+    },
+    {
+      "id": "742edeb7b3b15f45",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY0JKeWZVTU55Y0JSVFB6T2RnSVA3aGpSMWNidmZXWVJybUNtdHNSb3lodzVUZFNDXzBhR2N4d3lXUGtuQnNMeG1SdS1PN0EyZEtNVU1IcmQ5UlhGcXpIdHpSaFhEUVlDTUU1Q3RxN3ZaYXpwQl92bzdZYmZHZktIVkEwdmJvR2UxcldrY05hUmYydndQWEtxbDlWa1daUDhGTER2Mm5mLXozcnlzNlNVdGM4Qzdhb1I1TXdsU1B0QkI1REN1NVg1WU1R?oc=5",
+      "title": "Tamil Nadu Accelerates ABHA Rollout as 2.54 Cr Residents Join the State's Digital Health Network - Digital Health News",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-21T09:13:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Tamil Nadu Accelerates ABHA Rollout as 2.54 Cr Residents Join the State's Digital Health Network Digital Health News.",
+      "ingested_at": "2026-07-21T14:03:09Z"
+    },
+    {
+      "id": "4e21c588282186a8",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaFJNd2Z3WXZEb1lBY1Y1ZGY5OTFVNWU0b0FyLWVxY1k5Y0RnMG1YcmwyMVZTVlB5ZlhPZmtQS1VsazltYTRTVzRxTTZBckJrb2tHcUlLSjdvcnlyQTg2MGxUZERPQXpHZVZUMUJSY2NQNjhJTzd2N29fQmVjWkt5YmRJLUZvemd5N0ZYQl9GdnhJeUhwVnAyc2c1WkNZOUtkU25qM2RQRzh2MTlzRThUenRfS0dQWENDZDBfTFFBSDY?oc=5",
+      "title": "Maharashtra Explores Uttar Pradesh’s Digital Health Blueprint to Upgrade Public Hospitals - Digital Health News",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-21T08:44:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Maharashtra Explores Uttar Pradesh’s Digital Health Blueprint to Upgrade Public Hospitals Digital Health News.",
+      "ingested_at": "2026-07-21T14:03:10Z"
+    },
     {
       "id": "e3db00bc5f6abf36",
       "url": "https://www.expresshealthcare.in/news/rj-corp-healthcare-launches-cocoon-hospital-in-chandigarh-for-maternal-and-child-care/454433",
@@ -902,6 +1320,17 @@
       "country": "GLOBAL",
       "summary": "AI, imaging and implants: Taiwan's medtech innovators on show healthcare-in-europe.com.",
       "ingested_at": "2026-07-20T14:16:05Z"
+    },
+    {
+      "id": "0d0826ec1b7eedac",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM2ZoRlFCUjV5ODI0WUJWT0JQcDRNS2lvVTdjTjJGV3REYUlnN182aHFiQlVaQW1obWVXVllIVWFtQUhXdDI2cENoTGZILXVaUTVIVWZyN1pBVllweVV6YzRPYjNDaC1NdmZ6NTVUalVZZGxFLWFVaWJWX0h1eldIVTFvcTNteTFzcm1ra0VTU2NfZw?oc=5",
+      "title": "Egypt, Serbia to expand cooperation in digital health, MedTech - Medical Buyer",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-20T11:03:47Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Egypt, Serbia to expand cooperation in digital health, MedTech Medical Buyer.",
+      "ingested_at": "2026-07-21T14:03:11Z"
     },
     {
       "id": "d2e619b6fadc26e0",
@@ -10980,6 +11409,17 @@
       "ingested_at": "2026-07-19T08:26:25Z"
     },
     {
+      "id": "bd22dfe63018f6c6",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQTjJDa0hVa3RfTjF6ZU4xNEdlOWV1YnFzbG9NQV9DYTRxa1VtRDZFbU5PVXE4cWo3X1hXLUR2a1djNllnUVZSU1F1SFFUU2ZuaEJJamtIUlNyZEoyaTFYN2Z5N01UdG5ENWJwU2pmdzNoYnYta1JtbXF1SkFBT0pVeVZLeDVmNFpwMFBmMjFIY1E3ZFQ0YzVDQUtyNW9IbFlVNnAyWWpIdjlnTWtUdkRhN080UzZRei1YeHhGSmN5ZUNQS2h1VThQWXdmZk5NRmVuNHhYdlRhaGpzQmxXalFuSzRfRVlaNGIweEozMUNka0RUdFdlQWc0cm9RbHZqa19WLV9Ud09USXVRNno0WEFBM0lDUFlkZ1NQMU9vWTBvSDI0NTJ0RlJNRVkxR0NoTGRrTnozNUVB?oc=5",
+      "title": "MedTech Innovator Unveils 65 Startups in its 2026 Accelerator Cohort and Launches the MTI Index, the Definitive Recognition Platform for MedTech Innovation - Business Wire",
+      "source": "Google News Digital Health Germany",
+      "published_at": "2026-05-27T07:00:00Z",
+      "category": "medical-device",
+      "country": "DE",
+      "summary": "MedTech Innovator Unveils 65 Startups in its 2026 Accelerator Cohort and Launches the MTI Index, the Definitive Recognition Platform for MedTech Innovation Business Wire.",
+      "ingested_at": "2026-07-21T14:03:11Z"
+    },
+    {
       "id": "8e8c2763cab1917b",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQem53UVlJVHk3Rk5xZXI5V2M1dUplU3J1LVpYdDIyaU1TUW0wMHNMc2dtaTRsTEZxUGF6THRsZ3lrR1F6X09Oa0xnWENkX1ZGU3JIbnU5VVM2WnJHVm5SMUU2cFY0NmJtV3cxSTlSLW9faXI5Vk1Fazh2bXpEWWNNSS02WjRPR1NkNkZPaUVmNUtqZmhwVVVKZmtneTdvTzdyTWNMckJZSDhaQUZlZ0g3b3RpZFlZTVBQckpsNGx3TUtuaURNejhzemFJS0dPUdIB0wFBVV95cUxOaVFYSWkzWGlmbzNmMmx6Q2VSQlV6V2JLei0yUFp2Vng2S3VuZm1zQXZFV25CTjVQM2xpbTkxRU12aU0wcDlyR2ExcWxZQ3pJSjlldUxqeWpfV1hoazM3LW5BQVJUVFpkdXRKcEJTSG9wY3ZLTElxNC1jRGV1UXdGQXVhNWNoc2pOYTNJQVJadS1OVzJ6My1SNy1nSUZKYTVNWTdCc3V5UGNBUHRXcnQ4TVA1cW11X2lyX3hJb0RVMEJnXzhHcEVidjYyX2ZTY01pTGFV?oc=5",
       "title": "Dialysis centre faces closure over Ayushman Bharat lapses - The Times of India",
@@ -11473,6 +11913,17 @@
       "country": "US",
       "summary": "How the Academy advocates to expand telemedicine American Academy Of Family Physicians | AAFP.",
       "ingested_at": "2026-07-19T03:19:57Z"
+    },
+    {
+      "id": "e2bd9e0e4c50c921",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVl5V3VQMllzQW5NVm8wTFFVNnRfcFpXZzJZSl9hSDFqazZ2RDhUaGlwQTdkdVdTMjY5U0o5aFJfMHVNR25wWVBmZ1VVSjE0TzhPNmZpakgyc3lpdlV5T1RHeDlXbmdxUVRoRzN2ajVaWnNiVXAyRzJlV3VfSmw2d0NtMk9lY0N3RkY1NVZYV25nYzYxb2k3aFZpUDBLQQ?oc=5",
+      "title": "India & Netherlands Expands Healthcare, Pharma & Medtech Cooperation - Digital Health News",
+      "source": "Google News India Health-Tech Funding",
+      "published_at": "2026-05-18T08:01:03Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "India & Netherlands Expands Healthcare, Pharma & Medtech Cooperation Digital Health News.",
+      "ingested_at": "2026-07-21T14:03:12Z"
     },
     {
       "id": "1e5568f801a8e081",
@@ -12520,6 +12971,17 @@
       "ingested_at": "2026-07-20T03:33:44Z"
     },
     {
+      "id": "15643dc8b28914f9",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLW1Ia0w3X0ZxbUwwUmpKM2FJYlpFOVdIeXlRcTg0OE8yQ0pVUXRvVWJqWUN4VXluT0djVHY1c244bmllNlFlTDlwaFg2VGtKWFM2bHVNdkgwT29lT3JSM0lGX29TTndfei1KaEVKVU5MOGREOXpRekhEZFRpbTVHYWwyNmFUY0s5X041SDVES1FKMHBL?oc=5",
+      "title": "Medtech Supply Chains Have an Efficiency Problem - Bain & Company",
+      "source": "Google News Digital Health Germany",
+      "published_at": "2026-04-22T07:00:00Z",
+      "category": "medical-device",
+      "country": "DE",
+      "summary": "Medtech Supply Chains Have an Efficiency Problem Bain & Company.",
+      "ingested_at": "2026-07-21T14:03:12Z"
+    },
+    {
       "id": "02d757065e97f804",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0ZBWktTU2dTOUNCaWZyRWNBZVBkRWYzdDMxX2JxSHlHeEFJWkxpSEVPY212a3Nza0xWaTNFankxUEtObTByUzlhdTdlN3RuX1FEeUdyd21OSVM2UDNZa2FGUjRzeno2Q0hPaDhEaEpRSjh5UUd6NkNWYm1QWGRLVUpDX2Z3d0dF?oc=5",
       "title": "Germany Ai In Healthcare Market Size & Outlook, 2026-2033 - Grand View Research",
@@ -12936,6 +13398,17 @@
       "country": "DE",
       "summary": "MedTech M&A Trends and Predictions for 2025 Deloitte.",
       "ingested_at": "2026-07-18T19:11:07Z"
+    },
+    {
+      "id": "6ddbf9fb72a807f7",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX212eUVVcFpUNnJWXzJFTE9HWjNlam93RExhazNua0thcXFQNHQzNVVQZjdaUW9qeS1BNDBET2hNa2pfOVlCVWgxMmlpc1ZaTFNkTjMyR2FEd2FDUHZvMjJPMGdkUGg1MjhDUk5xSklLd0M0RlI4VVJ0b3lOX05NSkdxWjVUREdUdFpQTjBQTnB0Rl9iZ3pzcmZB?oc=5",
+      "title": "CMS highlights new digital health ecosystem tools - American Hospital Association",
+      "source": "Google News Digital Health Germany",
+      "published_at": "2026-04-10T07:00:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "CMS highlights new digital health ecosystem tools American Hospital Association.",
+      "ingested_at": "2026-07-21T14:03:13Z"
     },
     {
       "id": "3018f20c5dfd47ae",

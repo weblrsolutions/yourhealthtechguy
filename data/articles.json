@@ -1,6 +1,182 @@
 {
-  "updated_at": "2026-07-21T19:38:09Z",
+  "updated_at": "2026-07-22T02:58:11Z",
   "articles": [
+    {
+      "id": "3d914adb871f2372",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGdUZjlEV21fUWpxVGdjbm1uSWpLVHFEWURTdlZqLVdZcEhOT1ZjR0xQWlkyQlVwdUQxUFhUaVQ1Y2NiZllNVmQxZzk3NGlFVnd2RFl6Yjc3a19qQzRhNVpvUFNtcXQ0UWxleHdEeTB0SVl5VzJiYnZuRTVlQm1adzN1VjAtSkRfcENDb2Utc19WMlZQVEdIZzNYalplMFo4dWUxVWpOSzA?oc=5",
+      "title": "UP receives ₹500cr investment commitment in MedTech manufacturing hub - Medical Buyer",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-22T02:35:58Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "UP receives ₹500cr investment commitment in MedTech manufacturing hub Medical Buyer.",
+      "ingested_at": "2026-07-22T02:57:27Z"
+    },
+    {
+      "id": "c0f83edf60ee73e5",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVRCczIwRXlpMWlCR3A4azZCMjRKR3dzUWhCdXRhTHIybUFSWXViVW9JckJ5ZW5kNGR0TVNVUnRTRHRGU2p0aUxBMF9GdExrb1BmY3lXTGVhZGItdHR2aHhIVmxSZkk0WW9WbE50dDg5T3czVkNmUm1GbFM0cWx4eExBQWJwcC1BbjdBVndFQ0tiQ0ZUUkR5dGxlbjdJN0RCWTRoRDFOcU54YldPQWhtX2V2U3o1Z0Via1NCUElIOFlZYjhBYXc4?oc=5",
+      "title": "Model-based Systems Engineering to Tackle Medtech Complexity - Tata Consultancy Services",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-22T01:43:25Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Model-based Systems Engineering to Tackle Medtech Complexity Tata Consultancy Services.",
+      "ingested_at": "2026-07-22T02:57:27Z"
+    },
+    {
+      "id": "5a4be6a077d0015a",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMjJQcUFKYXFPNEJGSnEzTGVpR3MtR2ZNZUtnRFktOGJ2OW44Q0FHSDg4eVRpQmlJdkczNjA4dEhVX3Z4VGJtSHVrM3ItRzM5Zy1oSmNKOG5rM0dISl9Tekc5ajU5VlVRbW9SVm5lbHJ4ajVuZWdTUHFUUVBhOUVGV0VjeDZiLTlnT3pvVzR2akx6cElwUXprVVln0gGeAUFVX3lxTE5zYlBrcHUwR1cyTi1SdHUyRlk1bERLR29JeXo2UUFMZmJfem1UVXlkX3VBa2pseE5NS0RERlRHMm5qUFVmVkM1ejZsczZlNUtyR0hMazd1bER0UEVIWUxSMF9Kd2FBbDlUejFacHZaQkI2bkNIOE5QMl9XTW1UMEZsU3BZYlpEUzZXd3B3MXR6TDhTbld0RDhocjF3dWtn?oc=5",
+      "title": "Ladakh bags two national awards for digital health performance - Daily Excelsior",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-21T23:29:40Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Ladakh bags two national awards for digital health performance Daily Excelsior.",
+      "ingested_at": "2026-07-22T02:57:28Z"
+    },
+    {
+      "id": "66c43c684c8cfb99",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkFuZkhLSGZhVVpBZDd5dEsxSWVmX0JQZmJ1a1JMcFR3OXltM0RWeXZTZnZ1eG1ZOEhrVzl1bWpqSl9EMjZERkdKMFFpSVFUNFg1QjgwTlBBZWg4Yzhhdm9MQ3k2bVo2THF6UkphNHBDYUdySlhFNnQtUlNfQmkyWV9JT28?oc=5",
+      "title": "Digital health EU funding scheme open for Welsh applications - gov.wales",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T23:11:18Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Digital health EU funding scheme open for Welsh applications gov.wales.",
+      "ingested_at": "2026-07-22T02:57:28Z"
+    },
+    {
+      "id": "c24fc0bd2104434b",
+      "url": "https://www.thehindu.com/sci-tech/health/outbound-portability-of-medical-scheme-benefits-rajasthans-patients/article71250061.ece",
+      "title": "Outbound portability of medical scheme benefits Rajasthan’s patients",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-21T23:08:46Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Outbound portability of medical scheme benefits Rajasthan’s patients from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T02:57:29Z"
+    },
+    {
+      "id": "f770a466f9380813",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVlB4X1Nqc1V4WDFpRjU4Q3VDX3p3ZU9wQnlmeWl4Wk1rcmFGeTRKdnFKSnhHOFdkWC1xQnJaUkRCanZMbUI3ZEVpUHR0cGItWEV2VG1PRmExRWRETDQ4MDloejdRdWkxLU9NWmg2R01VMHBGS0dvYnJLT2J3RUJOeHFWR29zVkZ3ak5icm9YdVR2Y3JYT3ZNVFZxd0JSZ19JUjFZX0VJUVV2WWVFV3A5YXlxQ1JsUHZfVFdMZlVwcVFlVm9DNm1jcFBWOVdYQQ?oc=5",
+      "title": "MedTech segment, improving orders likely to boost QES Group’s FY26 showing - The Star",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-21T23:05:40Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "MedTech segment, improving orders likely to boost QES Group’s FY26 showing The Star.",
+      "ingested_at": "2026-07-22T02:57:29Z"
+    },
+    {
+      "id": "bbc668f0b2178e46",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEYTFzeVBfZkIwTzVBcU42ZUVtdUNvVldnVUs4SjNKWW13cEU3Sk5fLTI4cmwwYWdDNEVsWkMxYXRURHRKdHAxejdQV3dwQzZFNVNyN1JLWklQQVpoZ1VtZG1PY0Vsdw?oc=5",
+      "title": "July 20, 2026: North Carolina woman shares experience with hospitalization after telehealth prescribed weight loss drugs - Partnership for Safe Medicines",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T22:40:47Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "July 20, 2026: North Carolina woman shares experience with hospitalization after telehealth prescribed weight loss drugs Partnership for Safe Medicines.",
+      "ingested_at": "2026-07-22T02:57:30Z"
+    },
+    {
+      "id": "0015fc4a06bf2d78",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUTRSYUhib002VWFOeUwwNVFncXpQYlhicTVscFZGWVFJc0hkc0JBYl9DLTJrUlpaZHgzS3JkZ0E1bFR1UTdGTUdSOVNLeGEteWM3UlQ5WkR1dTFLOWxULTdkaXN0NmQxcVd6eXVkUGEwUF9ZYTlKYl9sbGpkVEJFcXVZNkpzaHBPVXkwS2NYaWQ4UGpGTHpiTlJINjg?oc=5",
+      "title": "Menopause Telehealth Leader Winona Launches Physician-Formulated Supplement Line for Women 35+ - HIT Consultant",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T22:37:34Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Menopause Telehealth Leader Winona Launches Physician-Formulated Supplement Line for Women 35+ HIT Consultant.",
+      "ingested_at": "2026-07-22T02:57:31Z"
+    },
+    {
+      "id": "5b4c4602c4f2ec58",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFNDNVVUbG1sVHZoVkZNWWVNM1FvQkFhc3hqSm1OOTBHR1RVbmJGaW9IWXM5UHl6aW5nR29FNWlqdGhfV0Q1eWtFcEpSeDk0THZDZEhKZk41aFVhTnZldTJTNXlGRnlZUTFjWUV4anNlMThLQU5XUUxHdFZyMW5XLURBaWRYNmhEQ19OYzFWeDhiV1FY?oc=5",
+      "title": "Poland builds its digital health capacity - Healthcare Finance News",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T22:29:23Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Poland builds its digital health capacity Healthcare Finance News.",
+      "ingested_at": "2026-07-22T02:57:31Z"
+    },
+    {
+      "id": "f7a119426e34919e",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZk9EcUZkc0N4dndqalU4X25pTDFxaDE1X0xJNEh4TFdkM0piX2FRVEJuQ2EwZndQZjBGNER5VVFmQXVYT21fLXVxZ0I5MHduTnJyQTdzamNXUVJZcDdtVDh5bmNHWXRTX01sWVJ2VTRNZTdWNXlRYjlpeV9kSUxTZDZyaU9JZkpOOHdXVm1iRDZyTHRZT3pzeWZCUHQ1Q1J1VzNFNlN3X1o3ZW9qS3NmUVBiRkttVjBQcW9Tall0amEyaUZ4VGNTRVZ5SVB2eFBQWXk1WVJYR2F4RzNSeklTT3dPRVlmdW5tTmQ4cTZKX2Nzc3BxcnhPRTEzdVJ2VlN6LWlv?oc=5",
+      "title": "Ability Neurotech Moves Implantable, Batteryless BCI Into First-In-Human Trial - insights.citeline.com",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-21T22:14:36Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Ability Neurotech Moves Implantable, Batteryless BCI Into First-In-Human Trial insights.citeline.com.",
+      "ingested_at": "2026-07-22T02:57:32Z"
+    },
+    {
+      "id": "85e10363140fc087",
+      "url": "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec",
+      "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
+      "source": "Ars Technica",
+      "published_at": "2026-07-21T22:04:56Z",
+      "category": "other",
+      "country": null,
+      "summary": "Ronald Fischer, aka Richard Graydon, was arrested in New York last week.",
+      "ingested_at": "2026-07-22T02:57:32Z"
+    },
+    {
+      "id": "6ef4965e68350d2c",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeUhyd0FmTDN3bG1OTVJQRmVKX25waEpfa2tJWVp0RGs1aWFwUWRKQ0xFTExNMjhHM2NvUkx6UUVYaWdtdlc0ZnhGVUMxcWI5ekp3TTVmWTE3TDVFVkZERERFSjNsbHZZUl8tcVlUeWFpTlU2T2RIN205dVk5WHlpOXl5RzJZeFNZQzduTVAxR2Z4aHFLSGY5aGZxWlFkaTV1eGhKNm9SSlN2MGxzb1Z5VTRTSWNKYmx3ZFFMTmQ5aFRGd3ZodFVHc3FIbTRKeGV3RFJNWGtXZ3ZxU01fTWlvekQ1NFhLR0tFOVZWc1ZFNWI4MEh2emcwd3Zja0hHWmc?oc=5",
+      "title": "Danaher Posts Strong Q2 Results Driven By Life Sciences And Masimo Acquisition - insights.citeline.com",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-21T20:59:57Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Danaher Posts Strong Q2 Results Driven By Life Sciences And Masimo Acquisition insights.citeline.com.",
+      "ingested_at": "2026-07-22T02:57:33Z"
+    },
+    {
+      "id": "37bb3d86574d3bf9",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWh4UGg4a3E5dTJTLXpvWTFLSUh5ZG5Kbk4yUzdzVUIwa2RDQzJBYURhWVhKMkVURGxESGpyRWh5TEN1b2tQX1ZEQ2J2YWh2SVA3bnZuck9FeHlQQWxiTUVVWTJuTDBpMEt0Sm96dm9JSUpGQ0tsdTlYSThwdzhrX09NbWh1bFIzMzZURFZJU21xWEJu?oc=5",
+      "title": "Philips wins FDA clearance for new pulse oximeter - MedTech Dive",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T20:46:00Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Philips wins FDA clearance for new pulse oximeter MedTech Dive.",
+      "ingested_at": "2026-07-22T02:57:33Z"
+    },
+    {
+      "id": "8fc554e85c697e32",
+      "url": "https://www.medtechdive.com/news/philips-wins-fda-clearance-for-new-pulse-oximeter/825848",
+      "title": "Philips wins FDA clearance for new pulse oximeter",
+      "source": "MedTech Dive",
+      "published_at": "2026-07-21T20:30:57Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Coverage of Philips wins FDA clearance for new pulse oximeter from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T02:57:34Z"
+    },
+    {
+      "id": "864999cd4e8eade4",
+      "url": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota",
+      "title": "Trump administration says it’s deferring $1B in Medicaid payments to California and Minnesota",
+      "source": "STAT News",
+      "published_at": "2026-07-21T20:10:43Z",
+      "category": "other",
+      "country": "US",
+      "summary": "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”.",
+      "ingested_at": "2026-07-22T02:57:35Z"
+    },
+    {
+      "id": "42469bb63564a5ce",
+      "url": "https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms",
+      "title": "Confusion swirls on source of diarrhea outbreak, but it’s still Taylor Farms",
+      "source": "Ars Technica",
+      "published_at": "2026-07-21T19:39:10Z",
+      "category": "medical-device",
+      "country": null,
+      "summary": "Taylor Farms stirred confusion on FDA test and provided a vague recall list.",
+      "ingested_at": "2026-07-22T02:57:35Z"
+    },
     {
       "id": "03dcd0eea4542d6c",
       "url": "https://www.fiercebiotech.com/biotech/why-novartis-ceo-ended-his-adc-holdout-15b-myricx-deal",
@@ -321,6 +497,17 @@
       "ingested_at": "2026-07-21T14:02:54Z"
     },
     {
+      "id": "1231fd68711eb1dc",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQVh5cXpScXptdnlXcGJlX05zSi1DU3A1NUVCcFp5c0xjM2NHdERSVjgzUVNoXzFUV3U4UjhVQnZGcGtmSDBXWXB6VkxjTmdxQkM1cVBXZ0ZITDkwVXY2YzdYcURqLVdxaHRLOFg5R3h3aElBWHo4UHdLVi13blN0RWFobXBoQThURkJST0tEQ0s5b2x3dC16dm1uTUxiTGtRWUg1bUdGVGFLR2k3dzcxUE1FRFlBdzdwTURnSDc1WTVxaFllX1ZMNjMzeks5UWtXVlYwQTZRWmRDd2NmYXJwWTF0QjZqUkF5WUU5V253?oc=5",
+      "title": "eXeX Taps MedTech Veteran Max Reinhardt and Unveils Canopus Command to Accelerate Surgery Intelligence Growth - TipRanks",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T13:30:57Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "eXeX Taps MedTech Veteran Max Reinhardt and Unveils Canopus Command to Accelerate Surgery Intelligence Growth TipRanks.",
+      "ingested_at": "2026-07-22T02:57:36Z"
+    },
+    {
       "id": "a978cbb1b9a41b5b",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS0twTFoyWUlBaWFkWVVNR1VvaG85MzV6UGxBbTcxQU96VEFXa1J3Mlh6djVJeUlXaTBaOTFmRDk1aWhYMDBiNzNBMG9odzh3VXJZVVJFSi1WczVWclV5aGllci1SeHFZNTZzYjdqWXY0VldKNGFabzFGY0VwNzRVVlNUQUZtaFA1VlFUV29PejlLci1aMlBNSGhIcUJPZw?oc=5",
       "title": "Macmillan and ORCHA launch app library for cancer patients - Home | Digital Health",
@@ -398,6 +585,17 @@
       "ingested_at": "2026-07-21T14:02:58Z"
     },
     {
+      "id": "f6e0734f8cce82d9",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaHQyLThLSTFjV2NXWkYxdElQVi1tRklwdGNkZnh3Y3lndDNNQzR2R1R4SmJkZkVrdzRHczY5b1JuOHo4NVRablROVF9RTXBaejBtVG9DaTNlYjNkZU9DenBDQlRlaFpWRzdkcjVuaTlkMmZkb2Z2RVpHV2RrYkRyVFJVRzhBX2w3cWlOZ1lEdTM?oc=5",
+      "title": "How to Scale a Telehealth Company Responsibly in 2026 - streamlinefeed.co.ke",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T12:44:07Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "How to Scale a Telehealth Company Responsibly in 2026 streamlinefeed.co.ke.",
+      "ingested_at": "2026-07-22T02:57:36Z"
+    },
+    {
       "id": "dfa74f7915ed9f16",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMFNvcGtSUDRLRzZyMTJTZG51NllXN0hYVU9YWnJBXzBRQmE3N2dnUWg4c2w2ZC12bkgyWW1aNUJ3YmR4X3lmV2Nka3AxamxFV21JOEhkQms4LUZDRHRhWHRueTFSTTJRdVdPR3N6eVY3YmRiS0lkVzY5SDc3TWd2UlNMRFljWFFQamZfdW11Ui1TSVYyU29FcWw4cVZhNjN6VmNfOWZQcnh2aXpyQjA3UlNJazZVUmNGTEZOYUREam1MaDBuSTQyUzEtMDVYbDNjQUMxRzVkM2RxTFNLZ1BwYXFlallWTmhudTR5LXNTUXFmMklpankzNlZYWDJHNU5EYjBkMTVZNndwRmhMX3UyeFlfMGxHYmExVmxV?oc=5",
       "title": "Menopause Telehealth Leader Winona Launches Line of Supplements Specifically Formulated to Help Women Navigate the Menopause Transition - PR Newswire",
@@ -464,6 +662,17 @@
       "ingested_at": "2026-07-21T14:03:01Z"
     },
     {
+      "id": "d36a815aab64cfea",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSUZJc09OWXlobnFzQVlzYngtRlZsQWUxaVE2amhudGVUeUYxeHJxTUFZWnpteFcxdmx0S1YyakpJaWowXzlxNVFJbjZBU25YT20tTkc2ZTJyRVhfLUdqbnV6Vzh0TUVVWW5MdE1ma29KcG9zbDMzckNmNkFRVXh6WlRScXN6M3EybVE?oc=5",
+      "title": "Nabla’s new CEO on plan to gain market share in a competitive AI scribe environment - STAT",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-21T12:01:28Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "Nabla’s new CEO on plan to gain market share in a competitive AI scribe environment STAT.",
+      "ingested_at": "2026-07-22T02:57:37Z"
+    },
+    {
       "id": "0e8955c75a2286af",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeTQ5bUJRbUI5SzNYT2ZvdXNhY05QWG9FUnBkX01kb2pxUWZoc0FzQlpmNTJ2bWdMcWgtUW1SaG5yS0VqM1NybU0wNXhKSnhBNWxfMy03Zndad2FpYVItZExoMm1zcnVNSEVTdy1pTG1pTzRhcS1pQWxKVTZqSkJrN2tmajdPay1fTjlmZkQ5bElEMmF6cThvckNiZTRlUFpjNU93WmtqSm1xd3E4VlkyZE11VDRkbFh5cE9PWkx3?oc=5",
       "title": "Six-month programme to give health tech startups direct NHS access - Health Tech World",
@@ -473,6 +682,17 @@
       "country": "GB",
       "summary": "Six-month programme to give health tech startups direct NHS access Health Tech World.",
       "ingested_at": "2026-07-21T14:03:01Z"
+    },
+    {
+      "id": "b18060935e7064e6",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONFdWbGx4XzJwb0JpbnpuMUNoTVQ1RXM1V1k3YUpzalh6UkpCRTdDUTlMV0F3S2JSWkFSbUItVG5MOEVfb1E4NEh0R3dhakE1eUUzQzJ1WjhmSzE3OTlJWEZaa3hGWnk2RC1xY2luMWZKRDk5RGliTkdBazBNMk1qWTVoVGkyWG9YR1ZBdHBiczRsOVQ4bHl3OWlLeEtkUldIMDBFeGhibnBjdUo1Z3AxM0lNSmxQUHBEUTh0WFlGOEFNNU1ZUy15TERudXdnTWxjSE1WZS1rZHpSaFYtSi1zdUtYN1NMZ1JodExBQ1BNSFc0a3hFZ25RMVJ6elVjVWRE?oc=5",
+      "title": "Rocket Doctor Joins National Coalition Advocating for Permanent Medicare Telehealth - Toronto Star",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T12:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Rocket Doctor Joins National Coalition Advocating for Permanent Medicare Telehealth Toronto Star.",
+      "ingested_at": "2026-07-22T02:57:38Z"
     },
     {
       "id": "c1dcc733a24b71b7",
@@ -715,6 +935,17 @@
       "country": "GB",
       "summary": "NHS App AI triage cut phone queues 29% in pilot Resultsense.",
       "ingested_at": "2026-07-21T16:06:38Z"
+    },
+    {
+      "id": "eb8d4344cef69ac6",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaGVqME1MZUtfaEhnM1dEa3Y1cDZNZE93bmowckRSSk14Q1VMU1hEcVFjWC13Z2twN24yVTNaUURJRHZkZ3QwRGFXREtHWUlKdEY0TGtxTHRJRVNfOTVoUktTUkZ4NjhFOXpjZlREQXJEV2ZiWlZrWnQ1cHBFc01qN1NjWVBfSDRQNzNJLVJtTEYwRmFEdjVFRGVkOA?oc=5",
+      "title": "MedTech & Biopharma Device CMO/CDMO Market 2026- 2033 Overview: - openPR.com",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-21T09:04:05Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "MedTech & Biopharma Device CMO/CDMO Market 2026- 2033 Overview: openPR.com.",
+      "ingested_at": "2026-07-22T02:57:38Z"
     },
     {
       "id": "4e21c588282186a8",
@@ -981,6 +1212,83 @@
       "ingested_at": "2026-07-21T08:35:54Z"
     },
     {
+      "id": "3028756e64fa33ba",
+      "url": "https://arxiv.org/abs/2607.17639",
+      "title": "Direct Clinical Joint Angle Extraction from Parametric Body Model Rotation Matrices",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-21T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Direct Clinical Joint Angle Extraction from Parametric Body Model Rotation Matrices from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T02:57:39Z"
+    },
+    {
+      "id": "99511393eff6e0d8",
+      "url": "https://arxiv.org/abs/2607.17664",
+      "title": "Graph-Induced Tensor Liftings for Networked SEIR Models: Dimensional Reduction and Residual Analysis",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-21T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Graph-Induced Tensor Liftings for Networked SEIR Models: Dimensional Reduction and Residual Analysis from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T02:57:39Z"
+    },
+    {
+      "id": "274c8eceaab905eb",
+      "url": "https://arxiv.org/abs/2607.17743",
+      "title": "Feedback-mediated circulation and persistence of stochastic fluctuations in gene regulatory circuits",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-21T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Feedback-mediated circulation and persistence of stochastic fluctuations in gene regulatory circuits from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T02:57:40Z"
+    },
+    {
+      "id": "47394bec501b9813",
+      "url": "https://arxiv.org/abs/2607.18056",
+      "title": "An Early Warning of Emerging Biosecurity Risks in Frontier LLMs",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-21T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of An Early Warning of Emerging Biosecurity Risks in Frontier LLMs from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T02:57:40Z"
+    },
+    {
+      "id": "c168a0d84fb536ea",
+      "url": "https://arxiv.org/abs/2607.18140",
+      "title": "A Mathematical Model of Dengue Transmission Incorporating Hospital Capacity and Threshold-Based Fogging Interventions",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-21T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of A Mathematical Model of Dengue Transmission Incorporating Hospital Capacity and Threshold-Based Fogging Interventions from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T02:57:41Z"
+    },
+    {
+      "id": "59e434384464b3fe",
+      "url": "https://arxiv.org/abs/2412.18613",
+      "title": "The Illusion-Illusion: Vision Language Models See Illusions Where There Are None",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-21T04:00:00Z",
+      "category": "medical-device",
+      "country": null,
+      "summary": "Coverage of The Illusion-Illusion: Vision Language Models See Illusions Where There Are None from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T02:57:41Z"
+    },
+    {
+      "id": "82d3644f3e519af1",
+      "url": "https://arxiv.org/abs/2507.09251",
+      "title": "Reshaping Biomolecular Structure Prediction through Strategic Conformational Exploration with HelixFold-S1",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-21T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Reshaping Biomolecular Structure Prediction through Strategic Conformational Exploration with HelixFold-S1 from the health-tech news cycle.",
+      "ingested_at": "2026-07-22T02:57:42Z"
+    },
+    {
       "id": "2a54888e79649aa2",
       "url": "https://arxiv.org/abs/2607.17405",
       "title": "Evaluating Conformal Reliability of Pathway-Level Transcriptomic Signatures Under Cross-Cohort Shift in Sepsis Mortality Prediction",
@@ -1232,6 +1540,17 @@
       "country": null,
       "summary": "Coverage of Evolutionary dynamics in public goods games with general frequency-dependent returns from the health-tech news cycle.",
       "ingested_at": "2026-07-21T08:36:00Z"
+    },
+    {
+      "id": "bb32dfdf4c957c67",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjJtVVdMNHVzdkRaanhIUEJvSU9PRUJsSmZYbmZBNTJmWTZxT3FkRmRERFJkOVk5Y09kdzZ3dERjMjY5dERPWkNSQ256LXozb19CdDZJYjBhVmZLRW9tUEpmcUo2U2NiVWl4VzExLThoQnhGSXRkYjl3dkpTajZrZk9KZHJSV0cyT0l0NTBsVXlpOGtqazBCRUdveVhrVjFuam5qNGgxeXN6ckI5dXpFaE5ydHA?oc=5",
+      "title": "Emcure Pharma Gets CDSCO Nod to Expand Poviztra Use for MASH Treatment in India - scanx.trade",
+      "source": "Google News India MedTech & Regulation",
+      "published_at": "2026-07-21T02:03:26Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Emcure Pharma Gets CDSCO Nod to Expand Poviztra Use for MASH Treatment in India scanx.trade.",
+      "ingested_at": "2026-07-22T02:57:43Z"
     },
     {
       "id": "7c977adba50f9282",
@@ -13750,6 +14069,17 @@
       "country": "IN",
       "summary": "Coverage of Medical information presented by chatbots inaccurate, incomplete: Study from the health-tech news cycle.",
       "ingested_at": "2026-07-20T19:48:31Z"
+    },
+    {
+      "id": "f9d0fe91541c90fd",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1M4UzhqeWp1RnpYdHMzbVNONUpQYjMzNVI4WXlUeWJSM3YzMjJQZFBfQXh2Rm9lUE5lYW92emZuZExCd0NaUE9RUDlvWXJBUDhYSjBrR1FHVXF2ZzRYRTFZUktXMXVmTTByOFUzSkdpTW1qc1l3aWRqTXJieU9WTEFvNDh5dXFNdUwyZ3JGOWh1S0h3bzdrbU1oYlBDLXN0RTczSTBEZ19qMW04RjdIdGtXNnVsUU3SAb4BQVVfeXFMUGRySS1ueHhYbnJHclZaSTdXa1hHQ3pyQzQ5My1rWUM3ejlYNmFnRlhkUS1wSUQ3OXRKa1hTZWpFT2RWMGlTMHNfMjNJMVFhU2EtX0xCMFBObnBlMnZ5ZlYzdldFcklselZJUDhiQXM5SnZzMkZrZnhyWm90SldZODcyazZPVlVoXzAyUzkzZGRVVmlVTzlma3FrNGp4c3hZSDlrTUV5TkJoZEY1QWZ0eXk4OGdoSmlTZDBYdmRTQQ?oc=5",
+      "title": "CDSCO invites bids for next-gen Digital Drugs Regulatory System - Indian Pharma Post",
+      "source": "Google News India MedTech & Regulation",
+      "published_at": "2026-04-15T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "CDSCO invites bids for next-gen Digital Drugs Regulatory System Indian Pharma Post.",
+      "ingested_at": "2026-07-22T02:57:43Z"
     },
     {
       "id": "7e86f83d362448eb",

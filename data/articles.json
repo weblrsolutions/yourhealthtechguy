@@ -1,6 +1,424 @@
 {
-  "updated_at": "2026-07-23T08:37:25Z",
+  "updated_at": "2026-07-23T14:11:48Z",
   "articles": [
+    {
+      "id": "fafb5fab1dd37736",
+      "url": "https://www.fiercebiotech.com/biotech/australian-biopharma-clinuvel-shed-20-workforce-move-us",
+      "title": "Australian biopharma Clinuvel to shed up to 20% of workforce in move to US",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-23T14:10:53Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Australian biopharma Clinuvel Pharmaceuticals is moving its headquarters to the U.S.— but up to a fifth of the company’s workforce won’t be staying for the trans-Pacific pivot.",
+      "ingested_at": "2026-07-23T14:11:03Z"
+    },
+    {
+      "id": "77846c87572857cc",
+      "url": "https://www.fiercebiotech.com/biotech/substantially-better-new-report-highlights-indias-opportunity-seize-string-recent",
+      "title": "‘Substantially better than before’: Why India has golden opportunity to build on innovative R&D wins",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-23T14:10:53Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "A string of recent wins on the frontiers of novel drug development could mean that a homegrown innovation industry is within reach.",
+      "ingested_at": "2026-07-23T14:11:03Z"
+    },
+    {
+      "id": "c7cfcbd948057920",
+      "url": "https://www.fiercebiotech.com/biotech/lillys-triple-g-drug-hits-226-weight-loss-cardio-risk-impact-disappoints",
+      "title": "Lilly’s triple-G drug hits 22.6% weight loss, but impact on reducing cardio risk is less clear",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-23T14:10:53Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of Lilly’s triple-G drug hits 22.6% weight loss, but impact on reducing cardio risk is less clear from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T14:11:04Z"
+    },
+    {
+      "id": "14253e7a5ba8042e",
+      "url": "https://www.fiercebiotech.com/biotech/roche-drops-tce-lupus-hasnt-given-autoimmune-cell-therapies",
+      "title": "Roche drops TCE for lupus, but hasn’t given up on autoimmune cell therapies",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-23T14:10:53Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of Roche drops TCE for lupus, but hasn’t given up on autoimmune cell therapies from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T14:11:04Z"
+    },
+    {
+      "id": "8b48810e1188e2d5",
+      "url": "https://www.fiercebiotech.com/medtech/fda-clears-johnson-johnsons-surgical-robot-next-era-surgery",
+      "title": "FDA clears Johnson & Johnson’s surgical robot for ‘the next era in surgery’",
+      "source": "Fierce MedTech",
+      "published_at": "2026-07-23T14:10:53Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "The FDA has authorized Johnson & Johnson’s Ottava Robotic Surgical System as the company looks to compete with Intuitive Surgical and Medtronic.",
+      "ingested_at": "2026-07-23T14:11:05Z"
+    },
+    {
+      "id": "b8077a3122c9a3bf",
+      "url": "https://www.statnews.com/2026/07/23/sean-kaufman-aspr-nomination-confirmation-vote-postponed-senate-committee",
+      "title": "Vote on key federal health nominee delayed amid questions over vaccine views",
+      "source": "STAT News",
+      "published_at": "2026-07-23T14:03:04Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Sean Kaufman, nominated to run ASPR, has a track record of questioning the safety of vaccines.",
+      "ingested_at": "2026-07-23T14:11:06Z"
+    },
+    {
+      "id": "65426bb50fb6af54",
+      "url": "https://www.statnews.com/2026/07/23/trump-nominates-timothy-westlake-samhsa",
+      "title": "STAT+: Trump administration quietly picks Timothy Westlake to lead mental health agency",
+      "source": "STAT News",
+      "published_at": "2026-07-23T13:55:51Z",
+      "category": "wellness-tech",
+      "country": "US",
+      "summary": "Timothy Westlake, an emergency doctor nominated to head SAMHSA, has been active in addiction policy in Wisconsin.",
+      "ingested_at": "2026-07-23T14:11:06Z"
+    },
+    {
+      "id": "fa0186eb94fcdbd9",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNajdkV1JnMTU3YzVTUHVZaDlGbXFPeWRPLVVIZExkQ08yeW50TFZyRkJPckxWZnhxU0t1M2JDWVR2UmhSTnBHUUZlVWJOSWM4UE1iZ3JlVFBEOGRUbnA3bkZyeHI4dXo1bG1PY25rLUt6dHZHUVptZnlOWmxjVWQ4WGllWXFjQW1WanZIb29qcE16YmpyUGtoRzhOZUprNEd6VkJkOGJfWQ?oc=5",
+      "title": "What This 'Standout Performance' Means For Broader Medtech - Investor's Business Daily",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T13:42:00Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "What This 'Standout Performance' Means For Broader Medtech Investor's Business Daily.",
+      "ingested_at": "2026-07-23T14:11:07Z"
+    },
+    {
+      "id": "0636ae0d9bcdf575",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMnBBQUkzMTRvVUY3MVRobmxoTnhBOG50bnMwVU16Um5yVXBwdWtxSXp6M2pjRy03ZDhoN3Qzc0tHRDNRQXpEakk0Y3JfbXF5WUxFZ2Yxa3FGUnRUWHdOOHVfdnZDOUpCS0dvUy0zb2VCUGRKdVFWNWtiaVRsam5wR3ZWSXh0NWwtcHVaNndjbFI?oc=5",
+      "title": "Dexcom Kicks Off FDA’s TEMPO Digital Health Device Pilot - Medical Product Outsourcing",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T13:41:42Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Dexcom Kicks Off FDA’s TEMPO Digital Health Device Pilot Medical Product Outsourcing.",
+      "ingested_at": "2026-07-23T14:11:07Z"
+    },
+    {
+      "id": "c13321669b0a5a89",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcm9tT3JXRWpYdjYzN3RVbEV0N3ZMYm8zWkRPTUkzbXRpQkVZWlNLazhyU0xYZXVnQlpsT3hfTl9kblI2Z1ZSYk1sd1NXOG1CamZjN2RqZ04wS0FOSXZMakJWc2hhbWZHeFZrUkM2SkJQajRsNEhsNzlLaVFNVmxYWVA4VE5KQTJt?oc=5",
+      "title": "How telehealth is fueling a surge in ADHD scripts in a business model that benefits the rich - Medical Xpress",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T13:40:03Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "How telehealth is fueling a surge in ADHD scripts in a business model that benefits the rich Medical Xpress.",
+      "ingested_at": "2026-07-23T14:11:08Z"
+    },
+    {
+      "id": "2d2f5a42a1b5e49d",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPM0tvem11UDgzRG9GcEtLZ1dreUlUS2xnR1E5YVhZYnhmdmI0cFpqQWdpQkVxdnR5QkNnWGFjUUlia2wxR0xtdW1RZUJDb2drVFRrYkRwX1N5NEpFN0JSZVhDOWs0NXVISGNpTm1mQVlQbHR6RmE3dHUzMURTYzNuZTFYRktobGozMHdpbVh1STlPNWpRWGc5NDFsWVhwLUxTQ05SNjRNQU9uekprQmtLcF9QN3Q1b29sOFo5VjdBMDFNMDRTUDhwMVlpTUF3UFlKZlh1ZFhHRjZ3dE5XZF9uc2JnUVdDWDFqVERTaFlGb2pnU2JxZWVTV0dzNjM3T1JtN1dBVDNqcWdaSVRWM2JMMVNqbm5OV1BjN0o2TVk1NmpUT2phVUVCMlJLX3FSa0JNU0VyVnJsQ1DSAb4CQVVfeXFMTkFQdXpHMFZPV1NqLXQzRVVmelZyTWhsT0NyNWZrNUdseXVKTHFhakdmbUhfT1dDYlN2LXJDUHdtbTQzSkdQeE45TjB0VUdxdFhyWWs1ZmVHa2EyLWZ0MjhFWm5MT3liN1cyME5yeUdKZy1hcWZwUXBOdU05eWhocFNseGg3dTNNYkZZM05mRGZoT1YwbW5UWWRpQjRqSjd6UFZSMFE1V0xBc2o1bF9nNjRITDJDTXJEVWljWlk2X2lfb2FmakRWcG54Y0NZLTFiLThvSFcxSmMteXpSWmtCejhtUE9scDM1RFVCMXplaEtfcWE3Y1o5Y2w5ZXdnbW94SU9PWXZhQlY5SFZMM1REWlJxVGFIel9ucGFWMUZXU2dkblYzeW5OS3praWVnMjZPQ3RlX1RkSm9KbTlmR253?oc=5",
+      "title": "SINTX Technologies Engages Veteran MedTech Executive Chris Lyons and Southern Metrics to Establish Strategic Opportunity Management Program - The Manila Times",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T13:21:48Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "SINTX Technologies Engages Veteran MedTech Executive Chris Lyons and Southern Metrics to Establish Strategic Opportunity Management Program The Manila Times.",
+      "ingested_at": "2026-07-23T14:11:08Z"
+    },
+    {
+      "id": "3118e0ab1623ed1c",
+      "url": "https://www.statnews.com/pharmalot/2026/07/23/lilly-obesity-drug-data-fda-asked-to-ban-dtc-ads",
+      "title": "STAT+: Pharmalittle: We’re reading about Lilly obesity drug data, a push for FDA to ban DTC ads, and more",
+      "source": "STAT News",
+      "published_at": "2026-07-23T13:21:05Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "A study of Lilly's retatrutide weight loss drug in people with heart disease did not answer a crucial question — whether it reduces cardiovascular risk.",
+      "ingested_at": "2026-07-23T14:11:09Z"
+    },
+    {
+      "id": "8d14b72cc3651d5e",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ0UwUkZnbUVwcTBqeU9TdnFMUEdwZU5wc1U2NXpTNHl3b3ZpSWF0OEtBaTJoTzF2Ui0tNlhKQk5XRjRRc3V5RFBJcmJwUVJlRzJnMVdLZWswSlJqSnBxVFdMV0tZVXhablN4cUt1TVFJQ3hzYWZrOEU4VUE0R3psSC1xUnFITnJmSUUxeQ?oc=5",
+      "title": "HHS to convene experts on standards for clinical AI - STAT",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T13:08:42Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "HHS to convene experts on standards for clinical AI STAT.",
+      "ingested_at": "2026-07-23T14:11:10Z"
+    },
+    {
+      "id": "041f2172f5df6a92",
+      "url": "https://www.statnews.com/2026/07/23/hhs-convenes-experts-on-clinical-ai-health-tech",
+      "title": "STAT+: HHS to convene experts on standards for clinical AI",
+      "source": "STAT News",
+      "published_at": "2026-07-23T13:06:12Z",
+      "category": "ai-in-health",
+      "country": "US",
+      "summary": "In this edition of STAT Health Tech: HHS is inviting experts to shape policy on clinical AI, Whoop's new CMO, news about brain implants, and more.",
+      "ingested_at": "2026-07-23T14:11:10Z"
+    },
+    {
+      "id": "b76544e366c71fba",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa0I5Z0JQSjN5R3JZdTFHTkJtTjJNbmZLaUN6aTdBbUlhcFhfTnlrUUliZGtrMXVYdVk3YnQ5R1JvQ0dqa19TMFdScDNxYjJYSkl0LWVJMkFYQmx3ekd4TnlCOW5JRTU1RndMV3ZfV3V1U3V3X3M4VFpjTXlrTWttYWZsbHFpV3hHd0h3YVZ2dEdQV2pqSjNwRTl1Z1YtT0FxaEJmWWRXQlNPNGwwb3labGI5VnBDU19HRzlLTEZuRkhFcW8xX2p0cjlWdXhYRlVWUVBjNHo0NEhSYlR0V09qdUlkRkVScERW?oc=5",
+      "title": "SINTX Technologies Engages Veteran MedTech Executive Chris Lyons and Southern Metrics to Establish Strategic Opportunity Management Program - marketscreener.com",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T13:01:35Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "SINTX Technologies Engages Veteran MedTech Executive Chris Lyons and Southern Metrics to Establish Strategic Opportunity Management Program marketscreener.com.",
+      "ingested_at": "2026-07-23T14:11:11Z"
+    },
+    {
+      "id": "de59921ee28c9243",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZll1QWUxeko3MVJHemctb3l3M0FfNDFMd2g4UzFvMXkwNlNsOWZWV0hyTXMxLVVxVmUyQ3IxRDlvNUFXU0J2VkxDWHVoTGhJajF6ckllelRWRzg5cVdsUmdVRXM3Z0hUeXNIbWVfSnQ2QnYxTy1MMzNkbmRlb2Q5QVRLMDlfWkVNeHI2TTJ6cWgtbUFVdmNzVDRSSE9sYlJncmpDT3MyaGtLUTRLSkRZWjE0eXVYSkFxb3ltMUY0TXRsUXpfRHVza0w1bU9vaEdxemlLZGl0WHc4ZW9wNHQ5RHJfWEJ2QkR0QmFZMWxkSk12T0lRaXc?oc=5",
+      "title": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain - Business Wire",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T13:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "LegitScript Healthcare Merchant Certification Now Recognized by Google for Telemedicine Providers in Spain Business Wire.",
+      "ingested_at": "2026-07-23T14:11:11Z"
+    },
+    {
+      "id": "30331c68ed709e9f",
+      "url": "https://www.statnews.com/pharmalot/2026/07/23/fda-urged-by-advocacy-group-to-ban-dtc-prescription-drug-ads",
+      "title": "STAT+: FDA is urged by advocacy group to ban DTC prescription drug ads",
+      "source": "STAT News",
+      "published_at": "2026-07-23T13:00:00Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "A leading advocacy group petitioned the FDA to ban direct-to-consumer advertising of prescription medicines.",
+      "ingested_at": "2026-07-23T14:11:12Z"
+    },
+    {
+      "id": "42250162656fc460",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ1o4QVFkbVgxaTEtOHR0MVE5NUYwMXo0SE5uRGRQZ0dPWWhTeDAzTFNld3NsY1dtMkwtRW5HTHlEYlBkU21TTGNHY1VUOE05dEprOWhfQzA5N3dlT21uUHV6aTlvbGJCRUFLc1JHeDlrb29GRlo5NC1nQlBURktwSDdBY2VkUDJCVDgzelhGT0cwYlYxOEs3azNHZ1ExNGM1VV9jck9JRGVyWHY4U2RERg?oc=5",
+      "title": "Proactive telehealth program helps cancer patients quit smoking - News-Medical",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T12:47:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Proactive telehealth program helps cancer patients quit smoking News-Medical.",
+      "ingested_at": "2026-07-23T14:11:12Z"
+    },
+    {
+      "id": "dbf88d748d6efa4d",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT1lWOGlvRklfNGt5ZjNwVFZiSjZuMjZ0QnBSZzZ0NFIzMEEzX25LSmxLakZWMnZfemF1d0V0TVNOOENHTjNxNDNkaW5fWmc2aS1YS2wzeU16QlhEampmM2tlYll6VWpIc0tQU04wam4yRmRfd2F1WjN1dDZhcHRCOElyUXZrOUFPdmdZWURETjlNekowM3FIbUdEaE9wY0wzeVdwVFZqRzY?oc=5",
+      "title": "King’s Fund calls for national strategy to unlock NHS AVT potential - Home | Digital Health",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T12:31:31Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "King’s Fund calls for national strategy to unlock NHS AVT potential Home | Digital Health.",
+      "ingested_at": "2026-07-23T14:11:13Z"
+    },
+    {
+      "id": "d69849e7a150488f",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "source": "MIT Technology Review",
+      "published_at": "2026-07-23T12:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of How AI helps scientists design the next generation of medicines from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T14:11:14Z"
+    },
+    {
+      "id": "a4beac830025b2b5",
+      "url": "https://www.thehindu.com/news/international/india-sends-45-tonnes-of-medical-aid-to-kenya-to-boost-ebola-preparedness/article71257607.ece",
+      "title": "India sends 4.5 tonnes of medical aid to Kenya to boost Ebola preparedness",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-23T11:49:43Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "India has been among the first responders during Kenya’s public health emergencies.",
+      "ingested_at": "2026-07-23T14:11:14Z"
+    },
+    {
+      "id": "bdc8712cf0db898a",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUGZDdi1KOXU4WjNBUXhuaTBnYmZSb3dtZl9YdXlneWlzT0RzbmNVUWR3enB3N1dJNThPWC1TS2VKT1JPcEE4RlhMSnMtU3NBeE5WMWF5dnR4WW9VdnlJdWNBLWFUdG42YWE1clJxZHBxaWFTNEtvcFM0ZVU4SmRtRWQ1RmtXSEt0b0dEQXJndTRIdl9PeU95WnJjLWN3ZW5qeTdNcTRlejAyWW52QTFEelNsRkg2QXFBYnF3LVVqM0hUZ3RtYng3Z25EN0IwUXB2Y1BaUVBB?oc=5",
+      "title": "Nanosonics (ASX:NAN) Slips Marginally — What Investors Should Know About the Infection Prevention Medtech - Kalkine",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T11:38:00Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Nanosonics (ASX:NAN) Slips Marginally — What Investors Should Know About the Infection Prevention Medtech Kalkine.",
+      "ingested_at": "2026-07-23T14:11:15Z"
+    },
+    {
+      "id": "ff8164c7ecfd33bc",
+      "url": "https://www.statnews.com/2026/07/23/health-news-expect-a-clash-at-today-fda-peptide-panel",
+      "title": "Expect a clash at today’s FDA peptide panel",
+      "source": "STAT News",
+      "published_at": "2026-07-23T11:34:25Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "The service members who refused the Covid vaccine, the fastest-growing Ebola outbreak in history, and other health news from Morning Rounds.",
+      "ingested_at": "2026-07-23T14:11:15Z"
+    },
+    {
+      "id": "eb28896d60e9d725",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGlnN0JyTVp0NEJuRmN6d3BpdUVQMVVOTjJhTDlrbDlmVTdqSEpmekVUVmNCYmJkTHkxaFhwXzFET0JOVHY0Nmc1VjBoZGVnVUNtcUp1YzJSamhIN1ozZDJDcDZfNm8ybGlTY1NsUFFvWGNZeEdwSjB0Z283dWp3LTVkNXlJLV9EZFZubkM3TQ?oc=5",
+      "title": "ABDM: Transforming India’s Healthcare - Brighter Kashmir",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-07-23T11:33:21Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "ABDM: Transforming India’s Healthcare Brighter Kashmir.",
+      "ingested_at": "2026-07-23T14:11:16Z"
+    },
+    {
+      "id": "af286005691e8e03",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNXNaV1IxcmlhYUhFbzh4WThKaFF3MUlYV2FsTWJKLThiV0w4dWxITmV1UUt6Z3NYUXJtR0w5QU4ySF9MRGNJRnltR1RQYmJkbVJrM2cwTGN3RjdkemZwdzZEc3RkOWZ2QXh5MmZqY3dOSkJ0a3F2bVV0UmZGNFduclJsdU1BVmsyN1Jpdmdxa2pXWm5LbzJMY0ZWRHZhNk1UQnF4M0VNRnRKZTNvVGluSmlEWjRjUk5OZi1qSGtWU25kSndUbXRPYm1hTzY1cGYyUzNQSThqVXRRQQ?oc=5",
+      "title": "Ayushman Arogya Shivir held at Kartavya Bhawan-I, 491 beneficiaries receive health screening - livemint.com",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T11:12:18Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Ayushman Arogya Shivir held at Kartavya Bhawan-I, 491 beneficiaries receive health screening livemint.com.",
+      "ingested_at": "2026-07-23T14:11:16Z"
+    },
+    {
+      "id": "b87eb85bb4118e60",
+      "url": "https://www.expresshealthcare.in/news/monsoon-infections-experts-call-for-early-laboratory-testing-to-improve-diagnosis-and-treatment/454479",
+      "title": "Monsoon infections: Experts call for early laboratory testing to improve diagnosis and treatment",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-23T10:50:22Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of Monsoon infections: Experts call for early laboratory testing to improve diagnosis and treatment from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T14:11:17Z"
+    },
+    {
+      "id": "9f40ca9acefd8bd2",
+      "url": "https://www.thehindu.com/sci-tech/health/pfizers-prostate-cancer-drug-combination-gets-us-fda-priority-review/article71257145.ece",
+      "title": "Pfizer's prostate cancer drug combination gets U.S. FDA priority review",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-23T10:45:26Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "For the combination drug, ​Pfizer said the FDA had set ⁠a target decision date in ⁠the last quarter of 2026.",
+      "ingested_at": "2026-07-23T14:11:18Z"
+    },
+    {
+      "id": "a7f30e7af859519b",
+      "url": "https://www.statnews.com/2026/07/23/new-data-on-eli-lilly-triple-g-drug-retatrutide-leave-open-questions-on-heart-benefit",
+      "title": "STAT+: New data on Eli Lilly’s ‘triple-G’ drug leave open questions on heart benefit",
+      "source": "STAT News",
+      "published_at": "2026-07-23T10:45:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "On analyses that looked at major cardiovascular events, those taking retatrutide did not have a significant lower risk of death, heart attack, or stroke.",
+      "ingested_at": "2026-07-23T14:11:18Z"
+    },
+    {
+      "id": "6968129abb783a8e",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tMzZobHZ6dWtDS0J4SWpydEozXzRQYWRvZEhKS1ZmYVNxOE9qSU5rQ0plVk9aZlVkLXFPeFJBaE5ZbzBlQkpfMmpnNjJMTkVCS2Y4WEp1TE1YODRrTUFzdXQzU0taMlJpb2ZyZThjN3hKNEZLLUJPWEdiR3BCdw?oc=5",
+      "title": "Venus Medtech completes enrollment in self-expanding TAVR trial - MassDevice",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T10:38:22Z",
+      "category": "ai-in-health",
+      "country": "GLOBAL",
+      "summary": "Venus Medtech completes enrollment in self-expanding TAVR trial MassDevice.",
+      "ingested_at": "2026-07-23T14:11:19Z"
+    },
+    {
+      "id": "67fcd4cadfa1cd44",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzVrdlB4WVQ2MkxGckV5NWRWckFmXzJBRFlXNnNob2E5b2J6S2dCRjNaZ2E5aHFSRlRJWk16Z3JJUDRZeHBCbnVVeEFMX0tNVEZ2RlFrZ2w3aFh4c3lBcDMxS1JaMEZWRGFULURWWFdCMllZVGZja0VyZGJtdU9VZWJwOTY1cDV3d3QwOGRQaTNjNHZnWC1UQ2FRT0dFalQ0MHRfREhmRVdPeTZrZ3JJ?oc=5",
+      "title": "Health tech firm gets a healthy dose of £520m funding - TheBusinessDesk.com",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T10:33:58Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Health tech firm gets a healthy dose of £520m funding TheBusinessDesk.com.",
+      "ingested_at": "2026-07-23T14:11:20Z"
+    },
+    {
+      "id": "042527721180abfd",
+      "url": "https://www.statnews.com/2026/07/23/federal-office-mens-health-bipartisan-bill-filed-momentum-grows",
+      "title": "Filing of bipartisan Senate bill boosts momentum for office of men’s health",
+      "source": "STAT News",
+      "published_at": "2026-07-23T10:00:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Mirroring the bipartisan bill introduced in the House, the measure would require a study from the GAO on the state of men’s health in the U.S. to be presented within….",
+      "ingested_at": "2026-07-23T14:11:20Z"
+    },
+    {
+      "id": "5757edff6549a001",
+      "url": "https://www.thehindu.com/sci-tech/health/self-medication-may-be-temptingly-easy-but-it-can-have-serious-consequences/article71220267.ece",
+      "title": "Self-medication may be temptingly easy. But it can have serious consequences",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-23T09:53:30Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Self-medication may be temptingly easy. But it can have serious consequences from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T14:11:21Z"
+    },
+    {
+      "id": "22859370ee229d2b",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzZnd3N3N0RXNWoxYVZwczRqN2NVc05fSnJDNHlFQ3ZCcHVmLXhic0xPbjFQcnRjVXZIcFpUbVAwa1lGVV9HQVpyeF9WYWU3a2ZYZFA5ekE2Sk8wc0lZbkZBNmg4R1Frc0VxRzdJQjBlcVcxdnZESk1SU3hRTm9hN3VHWTJyTkRlZXRzbjBDUjliZXNDd3phY2syblM3WHk1Rkd3RllnRQ?oc=5",
+      "title": "Over 1.86 Lakh Ayushman Arogya Mandirs Operational Across India : Centre - Digital Health News",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T09:39:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Over 1.86 Lakh Ayushman Arogya Mandirs Operational Across India : Centre Digital Health News.",
+      "ingested_at": "2026-07-23T14:11:21Z"
+    },
+    {
+      "id": "7fbabae89f310133",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaU5iZ0NjTmZPNFdOMllLYjRwT2p1aG1LbkdpWHlBMjZjMjVoTWtQaElmYnFfLUtxbi0zWEJDS0tHSmhmSWMyOXJVXzlJdmdhYWUtcUNzUWM2cXYwOTlHWmp3YVo3Qm9jUFBvbkhrbnJiVnN6MnFsb2FMNkFhcUxNTno4OS0xeHg2Qm10dU53YWZ3UmFTN3dOdUlkY1QzT09hOTBaMVVMUUxwNHg2LVVfVnFiTVFjRGJmalJRQzRhZG1wNVlHWnM5c25EVFcwSGtqTUMwQTJ3MXIwWHJJ?oc=5",
+      "title": "Andhra Pradesh Advances Statewide Sanjeevani Rollout, Enabling Digitally Connected Healthcare for 5 Cr Citizens - Digital Health News",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T09:13:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Andhra Pradesh Advances Statewide Sanjeevani Rollout, Enabling Digitally Connected Healthcare for 5 Cr Citizens Digital Health News.",
+      "ingested_at": "2026-07-23T14:11:22Z"
+    },
+    {
+      "id": "6be4203d69aaf3ef",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMHNPbFNKZmI2VUM1ZjNnTkUwZnlsNXJzeFM1cWw1MVdBRmtkUEFmalBYa0M3WEhRTXZscHV5Q3dabUdaVVQ3V1dmWThjeGFCcVdjVUd0OVc1dEQ4Vl9kMUxsajJ3bEtycnZSTUkyNVNMckVaaVBMQVJHS1RoNkJmQmNrRk1nTkdhc1BUMjV3OUt3OWhoUVdLbUdQbGJjRUM2RUFQUnpFTnJFTWQ1N2NDbHFwWEVaZjF1NW40eFhsbHBjU1RvRWR4NkN6ckYzdW1fUW8wR21zV2JsNkZSRTVUMnhiRE1qb2c?oc=5",
+      "title": "CDSCO Issues Final Medical Device Software Guidance to Strengthen MDSW Regulation - Digital Health News",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T09:07:00Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "CDSCO Issues Final Medical Device Software Guidance to Strengthen MDSW Regulation Digital Health News.",
+      "ingested_at": "2026-07-23T14:11:22Z"
+    },
+    {
+      "id": "e19fd651b5306354",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSTVlaTlqU3RuWnVoQzhibUUyUlh0cG9sdmJhZmxyWjJJOXlBblQ2TE05SGJDVldZS3RacDJiUnJFU1JQNDN1eGlqNlJHUHY1YzczZW5NZXQtS2hqTkxKYUZST1FSVklqT1IwUHBZVjJhcm9ua1VGZjA4UktvZWRnSnpNSlRGeno2M29JVTJnRmFiZ1hXV0dYczBua04yZGJmTzZYSUFxeS1DYTFWb2REVUNRRDEwN19ac25jdXYtck1rdGViYWg4U3dxNl82Zw?oc=5",
+      "title": "Wales Secures GBP 700,000 EU Funding to Expand Digital Healthcare Innovation Through Horizon Europe - Digital Health News",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T09:05:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Wales Secures GBP 700,000 EU Funding to Expand Digital Healthcare Innovation Through Horizon Europe Digital Health News.",
+      "ingested_at": "2026-07-23T14:11:23Z"
+    },
+    {
+      "id": "39245e30b16e021a",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTkFMaXV5VnhuY09HYTVsWkExV1JkblVRMThqdUZXUVlxcl81akhQX0Y0NnI0VVVXNUkxVlhzU3lSdUsxYTJSUXdXTmtiQTF6MU5QMWZjc3BGazRJMS0zZjVPVXp0aElQQ1p6LTB4QkZoZjZzbmdaeFY4c3ljZUJGZmg4RV93NndOTVRkTFk1eVh0Qm5MQ0RqVDB4QWlOcnNvOVVNZ3VkUlBzYk82VHgwbTREdjJPM00zeHB5N0FQUHo5LXRMVWtPY2xMRUE0N1VnOW80cFJTV2M?oc=5",
+      "title": "Centre Announces Expansion of Cancer Care Network with 524 Day Care Centres - Digital Health News",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T08:59:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Centre Announces Expansion of Cancer Care Network with 524 Day Care Centres Digital Health News.",
+      "ingested_at": "2026-07-23T14:11:24Z"
+    },
+    {
+      "id": "adc0d9b9a7431fe1",
+      "url": "https://www.expresshealthcare.in/news/eplane-company-apollo-hospitals-partner-to-introduce-electric-air-ambulances-and-medical-drones-in-india/454477",
+      "title": "ePlane Company, Apollo Hospitals partner to introduce electric air ambulances and medical drones in India",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-23T08:58:26Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of ePlane Company, Apollo Hospitals partner to introduce electric air ambulances and medical drones in India from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T14:11:24Z"
+    },
     {
       "id": "fe9c5ce4f0f3ee4f",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2VFN1dJNXFXZUQ5cUxNa2NIQ2gzTkdZX1VHaEQzRExqTG41cXQtWjRORGFsMmVkNmV2UVVOYkpET1ZYcXhoNkhPVHhaYmwyNjNObjJ5aEs3cENQNkc0TExOeXpYYUdNcGtFVzJuX2tNLXMxNFoyOHprUm9VekNLMGNrdV9Fc3RNYUNaN2V5QjJaYlBrZi11ZW9mMDBDQXdIdzRYYkF3?oc=5",
@@ -57,13 +475,24 @@
       "ingested_at": "2026-07-23T08:36:42Z"
     },
     {
+      "id": "6092ee76d52ed70a",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON2hVVVlqMWNBaGJwN0tFTzRaY2dDUVBDWm9mbnJFZ0FzVHp3U0pBMXhrYngwSC1nZDYtVXo3YzFYRmNLdHNOSUdkaFJMMmVOUkNraHZlZUtKc0RfWWdBajlBYVc5QmNrMUthQzBGNWZ0SUJHZjdzTFFlTmgzOE9wWnJCdHJvS0ZUQ1BQQV9HODdsUnQ5NGcwb3EzZGwwY0FtTHEycHd6U0Q2S0RYdDZRa1NCQkZpSmRSbGgyakRyaXRXQ0RCcGZxT2oxS0w?oc=5",
+      "title": "RIMS Ranchi Rolls Out e-Sushrut App, Sets Stage for Robotic Surgery & Digital Hospital Transformation - Digital Health News",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T08:19:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "RIMS Ranchi Rolls Out e-Sushrut App, Sets Stage for Robotic Surgery & Digital Hospital Transformation Digital Health News.",
+      "ingested_at": "2026-07-23T14:11:25Z"
+    },
+    {
       "id": "0bbda2d563a22344",
       "url": "https://www.expresshealthcare.in/news/brics-senior-officials-meet-in-chandigarh-to-advance-health-ministerial-agenda/454475",
       "title": "BRICS Senior Officials meet in Chandigarh to advance Health Ministerial agenda",
       "source": "Express Healthcare India",
       "published_at": "2026-07-23T08:08:46Z",
       "category": "other",
-      "country": "IN",
+      "country": "DE",
       "summary": "Coverage of BRICS Senior Officials meet in Chandigarh to advance Health Ministerial agenda from the health-tech news cycle.",
       "ingested_at": "2026-07-23T08:36:43Z"
     },
@@ -132,6 +561,17 @@
       "country": "GLOBAL",
       "summary": "Venus Medtech Completes Enrollment in PREVAILS TAVR Trial for Venus-PowerX The Clinical Trial Vanguard.",
       "ingested_at": "2026-07-23T08:36:46Z"
+    },
+    {
+      "id": "29680af90e0d4073",
+      "url": "https://health.economictimes.indiatimes.com/news/policy/delhi-hc-seeks-centres-response-to-plea-against-hpv-vaccination/132573615",
+      "title": "Delhi HC seeks Centre's response to plea against HPV vaccination",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-23T06:45:36Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Delhi HC seeks Centre's response to plea against HPV vaccination from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T14:11:25Z"
     },
     {
       "id": "4db38a4267a046e3",
@@ -286,6 +726,39 @@
       "country": "IN",
       "summary": "The total case load in the State rises to 32, while the death toll stands at four, says Health Department.",
       "ingested_at": "2026-07-23T08:36:54Z"
+    },
+    {
+      "id": "8bf8828a74e27e61",
+      "url": "https://arxiv.org/abs/2607.20310",
+      "title": "Capturing Inner Experience At Scale: An AI Interviewer Co-Developed with the Founder of a Landmark Phenomenological Method",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of Capturing Inner Experience At Scale: An AI Interviewer Co-Developed with the Founder of a Landmark Phenomenological Method from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T14:11:26Z"
+    },
+    {
+      "id": "06e052a5592f8fd5",
+      "url": "https://arxiv.org/abs/2607.19372",
+      "title": "Beyond Confidence in AI-Assisted Colonoscopy: A Spatial, Temporal and Quality-Aware Audit Framework for Endoscopic AI Review",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of Beyond Confidence in AI-Assisted Colonoscopy: A Spatial, Temporal and Quality-Aware Audit Framework for Endoscopic AI Review from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T14:11:26Z"
+    },
+    {
+      "id": "7680e071f14dcfb7",
+      "url": "https://arxiv.org/abs/2607.19400",
+      "title": "Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T14:11:27Z"
     },
     {
       "id": "ba09b3972b99ffd6",
@@ -1078,6 +1551,17 @@
       "country": "US",
       "summary": "Coverage of FDA Takes Further Steps to Remove Outdated Authorizations for Color Additives in Food from the health-tech news cycle.",
       "ingested_at": "2026-07-22T14:05:35Z"
+    },
+    {
+      "id": "1ebb035708a9bd03",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXZBLXZ4TGN5c0ZUU1dIcV9hdEVESlhtajBYbExnSXlDVkxzQ3VpWjFKMEZnV3MtVDN2QU14YndyVkVaUFF6Ymw3R3BkdUpwYnZXLVItMWlIX204ZXY0R3VxYlhHeUlpd3Q5MWQwaFRRVGhyWW01VkxrMFNueG1kS29PaWRkWnRlYmtLMWM0WFpqa0t0UWlHc0x1c1JKQUdnUnJkZg?oc=5",
+      "title": "Health sector reacts to Cooper’s appointment as health secretary - Home | Digital Health",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-22T12:31:55Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "Health sector reacts to Cooper’s appointment as health secretary Home | Digital Health.",
+      "ingested_at": "2026-07-23T14:11:28Z"
     },
     {
       "id": "307440d0e925526a",

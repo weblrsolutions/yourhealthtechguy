@@ -1,6 +1,457 @@
 {
-  "updated_at": "2026-07-23T03:20:09Z",
+  "updated_at": "2026-07-23T08:37:25Z",
   "articles": [
+    {
+      "id": "fe9c5ce4f0f3ee4f",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2VFN1dJNXFXZUQ5cUxNa2NIQ2gzTkdZX1VHaEQzRExqTG41cXQtWjRORGFsMmVkNmV2UVVOYkpET1ZYcXhoNkhPVHhaYmwyNjNObjJ5aEs3cENQNkc0TExOeXpYYUdNcGtFVzJuX2tNLXMxNFoyOHprUm9VekNLMGNrdV9Fc3RNYUNaN2V5QjJaYlBrZi11ZW9mMDBDQXdIdzRYYkF3?oc=5",
+      "title": "PLI scheme pushes MedTech; 22 units start operations; 55 devices commissioned - Medical Buyer",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T08:32:08Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "PLI scheme pushes MedTech; 22 units start operations; 55 devices commissioned Medical Buyer.",
+      "ingested_at": "2026-07-23T08:36:40Z"
+    },
+    {
+      "id": "7c6ef33b879aa999",
+      "url": "https://www.statnews.com/2026/07/23/global-maternity-care-billing-acog-explains",
+      "title": "Opinion: Good riddance to bundled ‘global’ maternal care billing",
+      "source": "STAT News",
+      "published_at": "2026-07-23T08:30:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "New maternal billing codes should create a transparent system where both patients and clinicians can thrive, ACOG writes.",
+      "ingested_at": "2026-07-23T08:36:40Z"
+    },
+    {
+      "id": "4ccde602e4fc9365",
+      "url": "https://www.statnews.com/2026/07/23/veterans-face-long-covid-vaccine-reinstatement-process",
+      "title": "STAT+: Trump promised redemption for troops who refused Covid shots. A year later, many are still waiting",
+      "source": "STAT News",
+      "published_at": "2026-07-23T08:30:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Veterans who want to rejoin the military are often bogged down in bureaucratic red tape.",
+      "ingested_at": "2026-07-23T08:36:41Z"
+    },
+    {
+      "id": "0ed9bc51d940a72d",
+      "url": "https://www.statnews.com/2026/07/23/fda-advisory-panel-peptide-safety-compounding-pharmacies",
+      "title": "STAT+: FDA staff and peptide enthusiasts set to clash at advisory panel",
+      "source": "STAT News",
+      "published_at": "2026-07-23T08:30:00Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "FDA advisers are set to consider whether allowing compounding pharmacies to offer largely unproven peptides is a safer bet than the gray-market versions now in use.",
+      "ingested_at": "2026-07-23T08:36:42Z"
+    },
+    {
+      "id": "409866724d35dae8",
+      "url": "https://www.statnews.com/2026/07/23/global-billing-maternity-care-mistake",
+      "title": "Opinion: New billing codes likely to raise maternity care costs",
+      "source": "STAT News",
+      "published_at": "2026-07-23T08:30:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of Opinion: New billing codes likely to raise maternity care costs from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:36:42Z"
+    },
+    {
+      "id": "0bbda2d563a22344",
+      "url": "https://www.expresshealthcare.in/news/brics-senior-officials-meet-in-chandigarh-to-advance-health-ministerial-agenda/454475",
+      "title": "BRICS Senior Officials meet in Chandigarh to advance Health Ministerial agenda",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-23T08:08:46Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of BRICS Senior Officials meet in Chandigarh to advance Health Ministerial agenda from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:36:43Z"
+    },
+    {
+      "id": "993184e3ea6f897a",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFRKdERTOC0zdkxORmRLUVdLUVY5R1o5ZmZZYl9IM0xoXzlaQzVUVWtRd2hIeldYMGJzTXZWQ3I3TkVyanNFOFhRR3Q3SkRkRkdsOW1xNlY1dll1LUdUNWhfcmNyRkJoNldmRlk5WHVJUDc5aTIyRVFCMk9BTVdQeGlRZXFFdXRXZUdIQWgtRm9WREhwb29Vcy03WDBwSjlEZm90SHE0MzhwbTRpZWpxdERhUDlNdGdObXhqVzM4LU9LRl9QNHB3bE9oblkzUkk?oc=5",
+      "title": "Digital health innovators urged to move fast as awards deadline looms - Health Tech World",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T08:02:38Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Digital health innovators urged to move fast as awards deadline looms Health Tech World.",
+      "ingested_at": "2026-07-23T08:36:43Z"
+    },
+    {
+      "id": "d62723aaf5bf6500",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQmw4c0tIUnFpWWFFLXFXLVJtV0E4Znc2X2NNajdpZURCOUFRU2RydWkyU3N6RGNnLUJRYWlnQUN1aHVhVzVJVzd4bTd5NE5ILWxIQnpucU16ZldyeEtKRnpmNDhLQ0thNm4wdXdFVWJnS1dMZ1JWYWFnQjJpNzVSM1BVa3BFbWxLbF9xaGtNZk1Cc0ZwVThUZVRtZEdoRkQxSGxuV3Z0RQ?oc=5",
+      "title": "Samsung Launches Beta Version of AI-Powered Health Assistant Across US - Digital Health News",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T08:02:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Samsung Launches Beta Version of AI-Powered Health Assistant Across US Digital Health News.",
+      "ingested_at": "2026-07-23T08:36:44Z"
+    },
+    {
+      "id": "430113ed9f476675",
+      "url": "https://www.thehindu.com/sci-tech/health/whats-the-deal-with-peptides-the-hyped-market-under-us-review/article71256908.ece",
+      "title": "What's the deal with peptides? The hyped market under U.S. review",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-23T07:57:35Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of What's the deal with peptides? The hyped market under U.S. review from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:36:45Z"
+    },
+    {
+      "id": "96c9b3cd51210efa",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aQXdITmdOaVp6bXdBelhrMlJwUjBMRGVHZk9RSmF6ZmdVb0wtU1J2OXNmRWtaT2J4SDR0MkJRckdDM2Izem1fTEN5S3A0SzBicWo1SXBkOFFwVnMxU1h6MzluekdlV05rQ1pTcUtZaC0ybHpIWlFWcQ?oc=5",
+      "title": "Inside the Company Showcase at MedTech World Asia 2026 - MedTech World",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T07:41:15Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Inside the Company Showcase at MedTech World Asia 2026 MedTech World.",
+      "ingested_at": "2026-07-23T08:36:45Z"
+    },
+    {
+      "id": "1caf0e8fb1d980b2",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MVGdPcHd0MV8zRHB3cUIwejVxWmZ2VzZUSVRsNWJZYVl1WVBBSk5fdmdZUlVSLUMwWXZ0REJySGE3T2RvU0JrSV9rd1Z4TzRRalZ3MUNwWDB3TnZTb010V2pjTkNZd2FmMEtTSGRkWGdQMzlGdzFubHZWTVU3QQ?oc=5",
+      "title": "WIC digital health working group to balance innovation protection and diffusion - China Daily",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T06:56:12Z",
+      "category": "other",
+      "country": "CN",
+      "summary": "WIC digital health working group to balance innovation protection and diffusion China Daily.",
+      "ingested_at": "2026-07-23T08:36:46Z"
+    },
+    {
+      "id": "92ebb8cb154deaed",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUjhudTBDYkItblg1TjZVZDBGSU1OM0RFZEVHYndvS0lsMnk2LTRONDVRby1yRFU3WmhiNXhhSW1NZTdFT1JHem9iQ2s1MGdPVXJ5eVRMZVFjY0JncE40eDNGYzd4bXlMZ1dObW5JVkdudi10VmJxZ0JqTi1zOHdtMkpOWEYxMmFLU196d0RLR0lMakpPRy1hbFdiY0FBZGl3V2l6ZEtaRTRIbTBNeHVUUXRmYVdmSUZCamc?oc=5",
+      "title": "Venus Medtech Completes Enrollment in PREVAILS TAVR Trial for Venus-PowerX - The Clinical Trial Vanguard",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T06:55:05Z",
+      "category": "ai-in-health",
+      "country": "GLOBAL",
+      "summary": "Venus Medtech Completes Enrollment in PREVAILS TAVR Trial for Venus-PowerX The Clinical Trial Vanguard.",
+      "ingested_at": "2026-07-23T08:36:46Z"
+    },
+    {
+      "id": "4db38a4267a046e3",
+      "url": "https://health.economictimes.indiatimes.com/news/policy/mental-wellness-and-healthy-lifestyles-are-indias-new-priorities-at-16th-brics-health-meet-health-secretary-srivastava/132572878",
+      "title": "Mental wellness, healthy lifestyles are India's new priorities: Health Secy at BRICS meet",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-23T06:42:35Z",
+      "category": "wellness-tech",
+      "country": "IN",
+      "summary": "Coverage of Mental wellness, healthy lifestyles are India's new priorities: Health Secy at BRICS meet from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:36:47Z"
+    },
+    {
+      "id": "fb54961688c64fd2",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXpiVFBzSkdXN1dmbnc5elNBdm1aTDZWcTBScFQ1VmU1SFZvN2tZMG4zZ1h3Qi1ZZm1aU1hwT2FYYzhSN3ZURHlrOF9OOXBFa3BlU0pBWXpNZ21sZXBBeTZDR1NycEZPR3RfOUVYck16MUtiYzVpekI2XzA3M3JGcjVBM1VHMVhYOXFhcU1aR2Nod2t3MGcxWWJGem5KUjA?oc=5",
+      "title": "National CLEAR Programme launches NHS pilot to evaluate AVT - Home | Digital Health",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T06:31:32Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "National CLEAR Programme launches NHS pilot to evaluate AVT Home | Digital Health.",
+      "ingested_at": "2026-07-23T08:36:48Z"
+    },
+    {
+      "id": "765a9a14e7334185",
+      "url": "https://www.expresshealthcare.in/news/aiims-nagpur-signs-mou-for-800-bed-vishram-gruh-bsl-iii-lab/454473",
+      "title": "AIIMS Nagpur signs MoU for 800-bed Vishram Gruh, BSL-III lab",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-23T06:30:36Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of AIIMS Nagpur signs MoU for 800-bed Vishram Gruh, BSL-III lab from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:36:48Z"
+    },
+    {
+      "id": "f10cac5a8ef3f3ed",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUXJTenVEbU91T0otMVFHV1pxekR2ZUtwdDRfT194SVktRUs5UkI2NXo0T3o5WFRKa01LXzhRZEJyQUN6MGlTUlZxWGR6NTkxNEhxZG5hSFdIYnJEdnc5VmtEbzhkLU5CNEkzM0dRZU8yelJuTHNQeXR2VFdmUTFyVFg3V0E0MDJGWkItbjJFOWwwd0dEcVhZM2JkRkRzVGZwMHp4N0llWXRYMlRvRXBZcDJEMkNhLThfTmdjdjdaSklKZ3RjR1dn?oc=5",
+      "title": "Ayushman Arogya Shivir screens 491 beneficiaries at Kartavya Bhawan-I - Hindustan Times",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T06:29:46Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Ayushman Arogya Shivir screens 491 beneficiaries at Kartavya Bhawan-I Hindustan Times.",
+      "ingested_at": "2026-07-23T08:36:49Z"
+    },
+    {
+      "id": "3f213022f2853141",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1J5c0NydWFubjdCdWRFRXk0dEQ0Vk9aWEI3R1l2SjdnMF93YlNSejhSb1RrWGtlbGR0QlB0TkFtMldRMVN6YUJoQlczWHF6dTJvYUFsZXlZVEZRbkVDX2Q1bl9jLW12Mi02X0JvN1JmWEo3YmYyRVAzX2ZTQ0pmRjhCdVQxVlpYcUJNQUpPNXk4UnNHS0g0MkRuWktodllqZnF6eG8waFBGclhJZGxpSHprVDg4OW9vNHkzWTN1X2tRXzZC?oc=5",
+      "title": "Why Smart MedTech Companies Treat Compliance as an Innovation Springboard | Laurie Rowe - Med-Tech Insights",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T06:16:54Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Why Smart MedTech Companies Treat Compliance as an Innovation Springboard | Laurie Rowe Med-Tech Insights.",
+      "ingested_at": "2026-07-23T08:36:49Z"
+    },
+    {
+      "id": "fb160496bfea103c",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fYURLaEMyUEJ6dzNPTVZKbkl6Y3ZiZ0JVamV3ZVZfMEhsN1E2VDBORS1DazB5anQxOHhxc091dFpxazVVWDlsZW5RcG44Wl9JcjZmTEp3LWhoN2pkUTl1bmNVQ3VmNTBVTDl4ajRNeEx5Q3pnajJMNUVn?oc=5",
+      "title": "UCPs on the NHS App for Londoners - UKAuthority",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-23T06:13:34Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "UCPs on the NHS App for Londoners UKAuthority.",
+      "ingested_at": "2026-07-23T08:36:50Z"
+    },
+    {
+      "id": "055b3a42b37c7094",
+      "url": "https://www.expresshealthcare.in/news/ayush-minister-proposes-expansion-of-ayush-services-in-military-and-field-hospitals/454471",
+      "title": "Ayush Minister proposes expansion of Ayush services in Military and Field Hospitals",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-23T05:43:44Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Ayush Minister proposes expansion of Ayush services in Military and Field Hospitals from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:36:50Z"
+    },
+    {
+      "id": "7d54853d10052105",
+      "url": "https://www.expresshealthcare.in/news/international-trauma-care-launches-hyderabad-chapter-to-strengthen-telanganas-trauma-care-ecosystem/454469",
+      "title": "International Trauma Care launches Hyderabad Chapter to strengthen Telangana’s trauma care ecosystem",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-23T05:27:01Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of International Trauma Care launches Hyderabad Chapter to strengthen Telangana’s trauma care ecosystem from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:36:51Z"
+    },
+    {
+      "id": "f5be915885feeb81",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWVowX0ZOZ1hMa3JZbVE3SkxNcGNTbHM2RW1uQ2FUaTJaaHRid2ZOLW9DSnljV1d0ek9OTnFQd2M5VUpmclU5dE5RY01MYkthM0lZZGQyN2l3b3J5WUllSFNkZFAzMUFFVmRQSWVwS3R0QzRHaW5FNXllT29Ed1l0bkFOQ2NzT0JxR2lZVm9IQ3FCVXJYek1tbTVfV1Z3b2RKT1NkNnRrbUM3UzczU29iMTM5a3pCaUpBanJseDFHclRDWmp1VklPLW5pTHRBNE9jektj?oc=5",
+      "title": "Bioscan Research Raises $1 Million To Expand AI-powered Brain Injury Detection Technology - BW Healthcare World",
+      "source": "Google News India Health-Tech Funding",
+      "published_at": "2026-07-23T04:53:49Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Bioscan Research Raises $1 Million To Expand AI-powered Brain Injury Detection Technology BW Healthcare World.",
+      "ingested_at": "2026-07-23T08:36:51Z"
+    },
+    {
+      "id": "2407336c34a4e548",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSjgtMXM0RW92SnJGUTZkX0NMRkdmVmJJenJlVGw0Sy1TOXBMenRXZElJOU5IbE80WkpWSnpZZjlOZnQtODhJSFpuTmxoSEJULVVRRVFQVjMtbWJzX0ZMZWxQZ1pYNG84R3lVQlBzMXlkaklNOHFFblVkWDRzU2wxVkpqeTQwaEV0QVBTNUt4RHhkNzN6b3BaU1M0dUtBb3BBOGRLbg?oc=5",
+      "title": "Not Just Telehealth: A Community-Led Shift in After-Hours Care - New Zealand Doctor",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T04:50:45Z",
+      "category": "other",
+      "country": "NZ",
+      "summary": "Not Just Telehealth: A Community-Led Shift in After-Hours Care New Zealand Doctor.",
+      "ingested_at": "2026-07-23T08:36:52Z"
+    },
+    {
+      "id": "69cf9b75479b214a",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObnp0bW5VeTMxa0Q0Z2VuSG0zc1hGWmVoUHFua1lvd0FlT05PdHZCMW1QaTBoUzh5dXdob0pyWDVRRmxhUjJRUTFSRmJONGZhR1hYcXB4cjdRdUgxbDRKT0YtbHo3Q0lTZDdUM01ERmh1LVJuN1FOUTVQeTV5ajJXWnR5N3ZLZGQyY2ljcGhOVUpLZ3pUSmVQbGxrWFhrQQ?oc=5",
+      "title": "Updated: Every African Country’s National Digital Health Strategy in 2026 - ICTworks",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T04:40:04Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Updated: Every African Country’s National Digital Health Strategy in 2026 ICTworks.",
+      "ingested_at": "2026-07-23T08:36:52Z"
+    },
+    {
+      "id": "bf0f90a850479c3e",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2xiTHpGc2dtc2RpcnRwNFF5VllOUVppcWFaVkJlMnVYNkxlMENCRlNkZWFvcHJrWlpWQlFVV3BNVGRzd2tEZ0tpMUp0eFhTelRCZEIwTVhocmsyTjh2Z1h6OXFPNDdjZU52bDh4clFIa0c5TVVZbEg1alVNMnBxSVQ4aUhGYkdRUnV4SVhleTNWN1F1d3hZM1NzbkNMRmVudXdjcA?oc=5",
+      "title": "Medtech braces for shift away from one-and-done products - Healthcare Asia Magazine",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T04:28:22Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Medtech braces for shift away from one-and-done products Healthcare Asia Magazine.",
+      "ingested_at": "2026-07-23T08:36:53Z"
+    },
+    {
+      "id": "baf8a5f90e7d92b6",
+      "url": "https://www.thehindu.com/news/national/gujarat/gujarat-approves-de-addiction-centres-in-all-district-hospitals/article71252313.ece",
+      "title": "Gujarat approves de-addiction centres in all district hospitals",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-23T04:27:16Z",
+      "category": "wellness-tech",
+      "country": "IN",
+      "summary": "According to the government, each centre will provide scientific detoxification, de-addiction therapy, mental healthcare, family counselling and rehabilitation services.",
+      "ingested_at": "2026-07-23T08:36:54Z"
+    },
+    {
+      "id": "f06deafb8e49ad79",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-registers-three-new-covid-cases-all-from-east-godavari-district/article71254142.ece",
+      "title": "Andhra Pradesh registers six new COVID cases, three each from East Godavari, Vizag districts",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-23T04:26:49Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "The total case load in the State rises to 32, while the death toll stands at four, says Health Department.",
+      "ingested_at": "2026-07-23T08:36:54Z"
+    },
+    {
+      "id": "ba09b3972b99ffd6",
+      "url": "https://arxiv.org/abs/2607.19618",
+      "title": "Causal dictionary learning reveals and validates transcription-factor binding features in genomic language models",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of Causal dictionary learning reveals and validates transcription-factor binding features in genomic language models from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:36:55Z"
+    },
+    {
+      "id": "061f0c14f0025549",
+      "url": "https://arxiv.org/abs/2607.19982",
+      "title": "Stability and feasibility of Microbial Consumer-Resource Model",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of Stability and feasibility of Microbial Consumer-Resource Model from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:36:55Z"
+    },
+    {
+      "id": "30c1f1b837a4769c",
+      "url": "https://arxiv.org/abs/2607.19376",
+      "title": "Refnd: Preventing Data Leakage in Relational Datasets",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of Refnd: Preventing Data Leakage in Relational Datasets from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:36:56Z"
+    },
+    {
+      "id": "8b6beeb119ccded4",
+      "url": "https://arxiv.org/abs/2607.19415",
+      "title": "Auditing Retrieval-Augmented LLM Hypotheses for Longitudinal Cell Painting Morphology",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of Auditing Retrieval-Augmented LLM Hypotheses for Longitudinal Cell Painting Morphology from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:36:56Z"
+    },
+    {
+      "id": "42e471f4472c5058",
+      "url": "https://arxiv.org/abs/2607.19417",
+      "title": "Enabling Rapid Calibration of BCI Systems that Detect Movement-Related Cortical Potentials in Children with Cerebral Palsy",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Enabling Rapid Calibration of BCI Systems that Detect Movement-Related Cortical Potentials in Children with Cerebral Palsy from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:36:57Z"
+    },
+    {
+      "id": "9569d5b53d017614",
+      "url": "https://arxiv.org/abs/2607.19426",
+      "title": "Making Single-Cell Data Distillation Auditable: Traceable Real-Cell Coresets via Discrete Min-Max Selection",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Making Single-Cell Data Distillation Auditable: Traceable Real-Cell Coresets via Discrete Min-Max Selection from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:36:58Z"
+    },
+    {
+      "id": "bb0828cecb79baa0",
+      "url": "https://arxiv.org/abs/2607.19681",
+      "title": "Perceived vertical and eye level as one orientation order parameter: a closed-form account of the Li-Matin rules for egocentric space",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Perceived vertical and eye level as one orientation order parameter: a closed-form account of the Li-Matin rules for egocentric space from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:36:58Z"
+    },
+    {
+      "id": "49d2222aaeec7c43",
+      "url": "https://arxiv.org/abs/2607.19990",
+      "title": "Why I don't like the logistic equation",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Why I don't like the logistic equation from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:36:59Z"
+    },
+    {
+      "id": "c2504d72cfc65d10",
+      "url": "https://arxiv.org/abs/2607.20044",
+      "title": "A Hybrid Framework for Uncertainty Quantification in Partially Observed Dynamic Biological Systems",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of A Hybrid Framework for Uncertainty Quantification in Partially Observed Dynamic Biological Systems from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:37:00Z"
+    },
+    {
+      "id": "1df278722f1d1fbb",
+      "url": "https://arxiv.org/abs/2607.20057",
+      "title": "Antigen-specific Antibody Multi-modal Foundation Model for Functional Antibody Design",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Antigen-specific Antibody Multi-modal Foundation Model for Functional Antibody Design from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:37:00Z"
+    },
+    {
+      "id": "24caca3cb7f53949",
+      "url": "https://arxiv.org/abs/2607.20163",
+      "title": "Plausibility-Driven Prioritization of Candidate Biomedical Annotations",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of Plausibility-Driven Prioritization of Candidate Biomedical Annotations from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:37:01Z"
+    },
+    {
+      "id": "e8b5d1fb164249c7",
+      "url": "https://arxiv.org/abs/2607.20215",
+      "title": "Tensor analysis for lipid transport",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "fitness-tech",
+      "country": null,
+      "summary": "Coverage of Tensor analysis for lipid transport from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:37:01Z"
+    },
+    {
+      "id": "70b8065c8031eab7",
+      "url": "https://arxiv.org/abs/2607.20306",
+      "title": "State-Dependent Observation Noise Reintroduces Epistemic Value in Linear-Gaussian Active Inference",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of State-Dependent Observation Noise Reintroduces Epistemic Value in Linear-Gaussian Active Inference from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:37:02Z"
+    },
+    {
+      "id": "88599484769eea79",
+      "url": "https://arxiv.org/abs/2607.20307",
+      "title": "When to Smell in Stereo",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of When to Smell in Stereo from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:37:02Z"
+    },
+    {
+      "id": "d1a62d6800f4fe70",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVThlMTMyNDVhTWYzQThkNUIzTVd4NHJNQnEta0l2enljajdkU0Z3aHVGNWNjUTFud0k1MUV6TDFXZkFjeDlWN0pibWE0WXlnc1oybjVYcEVrT0dqRXpiTzJwbFljLTdTVlNrOHliQkR3b3pWcGJoV1JmaEIxNHpCaHdrWS1BT05VSUdMcmNoZUdoa0dSdUVVazYyRnpEMVc2Z1Q1SkUzZVNOaGVKU0dELVBwZ0dtalRMWGtzSjNrV09HcFlwcG5YTENJUkU?oc=5",
+      "title": "MedTech startup Bioscan Research raises $1 million in seed round led by Unicorn India Ventures - Passionate In Marketing",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T03:22:17Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "MedTech startup Bioscan Research raises $1 million in seed round led by Unicorn India Ventures Passionate In Marketing.",
+      "ingested_at": "2026-07-23T08:37:03Z"
+    },
     {
       "id": "418efd5e785c5314",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2hLcExyYXBaY0UxT2g0X0xSbk5TUmhxUm5QNjNmOFZRd3JMbWE1ME40aUdDWEhJVUhQalZpS0JMdUZyWXZ3cm5JMWY4VENMUjNFOE1qVWRLM1ZFZU1ibDZxR0JyRkk5dGoxYzd6QnNYV0RqcmZEdXFFc2QtczNva2lYanhNalhKRjU1ejIwMllKZ1UxNC1Kb1NGblNfYUUwVGw3WVlzcjlMN0VTNlRRRDItcw?oc=5",
@@ -11,6 +462,28 @@
       "country": "GLOBAL",
       "summary": "Polynovo (ASX:PNV) Slides Lower: Medtech Name Pulls Back Despite Broader Gains Kalkine.",
       "ingested_at": "2026-07-23T03:19:22Z"
+    },
+    {
+      "id": "d0370fad82f1e0f6",
+      "url": "https://health.economictimes.indiatimes.com/news/industry/healthcare-sector-contests-ustr-claim-on-excess-capacity/132570335",
+      "title": "Healthcare sector contests USTR claim on excess capacity",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-23T02:04:51Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of Healthcare sector contests USTR claim on excess capacity from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:37:03Z"
+    },
+    {
+      "id": "517a25637b2f0760",
+      "url": "https://health.economictimes.indiatimes.com/news/industry/brain-disorders-associated-with-increased-brain-ageing-study/132570305",
+      "title": "Brain disorders associated with increased brain ageing: Study",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-23T01:53:35Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Brain disorders associated with increased brain ageing: Study from the health-tech news cycle.",
+      "ingested_at": "2026-07-23T08:37:04Z"
     },
     {
       "id": "1390ee7416f7b0a5",
@@ -11409,6 +11882,17 @@
       "ingested_at": "2026-07-17T13:49:23Z"
     },
     {
+      "id": "b2c56fe8852a85a0",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcHNUeElTX210NUZTR0hFZ2dySWIyVkc0RUpiaXk2OFBxcTE1NFNSTDI4RC1zWVF2SmQ0YVZHanRESG5ZTl9RNXFiN3Z2S1B1aTJmWDk5QUVveHVWU2g0X0NWcFBuNGY1am5fTUREb0dNSk1xQ3R0RGt2UzN6OFpXdUh0cEgzYVhmQ2hBWGl1anVHSXp6cjBIZ2lWZlg3bTZFOENkVlNIN3pfcTdBNHBaaml0QUVhZXZDbTlCY01reUdibkluOU1RUUtoTl9penZvNXdwUmhZdllNMk9RZEdRcXItVQ?oc=5",
+      "title": "Madhya Pradesh Accelerates Ayushman Bharat Digital Mission to Bring Digital Healthcare to Every Corner of the State - Digital Health News",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-07-09T09:11:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Madhya Pradesh Accelerates Ayushman Bharat Digital Mission to Bring Digital Healthcare to Every Corner of the State Digital Health News.",
+      "ingested_at": "2026-07-23T08:37:04Z"
+    },
+    {
       "id": "3e768bb59a1aa32b",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPajkxSnUyTzFoTVNOdGdtNFZqQlA3bW5SWDJiT18ybWEzR3dZMUJiS1N3dzNSclU2NFkwNC0tcUVxRTFCVFlpVFl4TWctSVdrZ25DaUh5MnR1VTdwUXA4NW9LOWc3T3Y1SzFDR0ZreFl6Y2M2WnJwTU9OcGFWMXpWZ2tXS2VBcTZSaGd2SzdPQmhjaUU5alE?oc=5",
       "title": "Augmented intelligence in medicine - American Medical Association | AMA",
@@ -13565,6 +14049,17 @@
       "ingested_at": "2026-07-16T14:38:03Z"
     },
     {
+      "id": "a6fd0a13efe2c826",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQmFVQkcyMFRkR1JlX2hpcjZ4Tktrdm9Sb1Rrd28teEJQTG9DaUJaNFQyQzhjdnlRSlFWVjB3T1dhYlpweC1lbXhWdVMyMEg0NjZsRVdxSDBDLUFHTTlrWDE4eE52WGs3SXdieHhRMFI4dmhIRHVVSWlraWx4eXFzc3dIQmJMdGlYTG94cEVaRC1ueHhoQlRNM1BTbk1tdXh1aDJXWnBsVE5tRTZleXJkWFNUQlp6QWdsSTlLX0psa2Z4X2dka3U1QWxHMnJxV1Jqd2hQd9IB2AFBVV95cUxNcnRIYW1ZU25fYU1iemtibk04aUx0aUxRQjNHSWdkRjFqQV9fa1pjNHplbVQyNDdPQjJrS2lFWkF3VlQ0V1JlS0VQM1JQdkNwRmE3eS1DRE1RUlpQSG9tY3ZReGFRdUl5UXppMC1xVFJsYUgzVmxNaEtlVk11RmtpQkZrZkFYWU5aVnJPOVJQZVplRENwbXZJdGUyQXR3Wm00NFp3X3Mxd2NSTkw5LWFMbHZXYkF1c0FwbE1vUFRVdXRibGUtdGRrWk96WG9FRmw4MWFXZkdGb3M?oc=5",
+      "title": "IMA Haryana defers suspension of Ayushman Bharat services after ‘positive’ talks with authorities - The Tribune",
+      "source": "Google News India Digital Health Mission",
+      "published_at": "2026-06-04T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "IMA Haryana defers suspension of Ayushman Bharat services after ‘positive’ talks with authorities The Tribune.",
+      "ingested_at": "2026-07-23T08:37:05Z"
+    },
+    {
       "id": "2af3b8f0f04f21bf",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0pDRFpId19oRDdlb0dqakFfanEzSWluUjhLcDR4TTJLSXBmVHRmdnkxM2JyelEtS2NON3Vjb3NYT1oxN1hqMExIYmkybGthWE1rcTJ0ZTF3SVhQY3FTTjBINXhFTWd1WnlyVlpUdklRQVJTdDlabGhENElqR1pOOGpiVVV6Ujk0dkc5ZHhkZ1lPT2xFVXE2WjNHam9URkx0Z1h3dDlvZjNsdl9BVF9aLTBTM2JDN2pxZHJwaFBPZ2Q5bmk3?oc=5",
       "title": "Euro Roundup: MedTech Europe welcomes IVDR proposals, calls for strengthening of some changes - RAPS",
@@ -13937,6 +14432,17 @@
       "country": "GLOBAL",
       "summary": "Coverage of Message by the WHO Director-General to the people of the Democratic Republic of the Congo from the health-tech news cycle.",
       "ingested_at": "2026-07-16T14:38:07Z"
+    },
+    {
+      "id": "684a8e052b5806de",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYjFmLVF1eEhvNkRYSC15dWJaa0Z3Sm96WUEyRTJ6TmZWV2RQVndqb3hYU25hSmlRdEl3V3lZdzJNTGdCMEpMX051ZDhyb1NmNmphZENTU1BKOUVWSUhOdmRfTXBaaXdoUzRMU21ZNkwxLXk5UHJMclNzNl9tVzNyeWd3aFY1UWc0QTluV0sxV1pzOTNvckFQcy10ektGZzlBWk5B?oc=5",
+      "title": "Blood pressure tech floods the market after FDA relaxes wearables oversight - STAT",
+      "source": "Google News Digital Health US",
+      "published_at": "2026-05-28T07:00:00Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "Blood pressure tech floods the market after FDA relaxes wearables oversight STAT.",
+      "ingested_at": "2026-07-23T08:37:06Z"
     },
     {
       "id": "d32bb759e0fdac6b",
@@ -15202,6 +15708,17 @@
       "country": "IN",
       "summary": "Coverage of What is Mark Zuckerberg’s AI Biohub: Inside the $500 million effort to analyse human cells with artificial intelligence from the health-tech news cycle.",
       "ingested_at": "2026-07-20T03:33:36Z"
+    },
+    {
+      "id": "290c9e2d503c70c4",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWnhia1R6N1RIQjRjVmg3ZHhSNjkzYk1XcFc0U1g1MjBodmhXNjMxV3hCdXY1ZEFsaEtvTXFpMUZ4T3pJRWRWbEVPNVhmeC14OFFOSVR2bW5PWUxQeE42c0F3bDBXNUV3aGxlaGhkOTRiV19hZGNfVWRKVjVrT1NYMDJjNTZTc0c2SGt5WG1ac2JqSWJNZ2hFX2pvamVaM00zbVJ3MWZETmdxdUNuVlE3TFlpalhiRk51MUt4bFdIcEo?oc=5",
+      "title": "Technology’s role in making Indian healthcare truly patient-centric - Healthcare Asia Magazine",
+      "source": "Google News India Telemedicine & AI",
+      "published_at": "2026-05-05T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Technology’s role in making Indian healthcare truly patient-centric Healthcare Asia Magazine.",
+      "ingested_at": "2026-07-23T08:37:06Z"
     },
     {
       "id": "d7e4f11020f0ad95",
@@ -16555,39 +17072,6 @@
       "country": "GB",
       "summary": "Digital health staff will be expected to gain professional registration Home | Digital Health.",
       "ingested_at": "2026-07-18T13:25:05Z"
-    },
-    {
-      "id": "3e685e0f854c907b",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CLTBLdHVYSDZWQkN2QnRJZ3o2ejViRkJRVWVWRWNudHkwSUt6WUQzV1JoeUIzd1ZIc3o2aE1IWnlORnFXRXFkVldYQXFFc09DYUlNYmZLeVhUdUp6Q0R5VXFDalhhdWtrZTBuTXlzOHI5TUVQSUk4?oc=5",
-      "title": "Drug Regulation in India, Organizations, Legal Framework, Challenges - Vajiram & Ravi",
-      "source": "Google News India MedTech & Regulation",
-      "published_at": "2026-03-25T07:00:00Z",
-      "category": "other",
-      "country": "IN",
-      "summary": "Drug Regulation in India, Organizations, Legal Framework, Challenges Vajiram & Ravi.",
-      "ingested_at": "2026-07-21T16:06:51Z"
-    },
-    {
-      "id": "97124942612be893",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNalhRRW13MmpHRDROR3FYUmozeHhna1pKZzdVZVJmcGxYUS1TUVlkaEhpVXp2aVdNUEZ2M0tFY2YxUXJ5dFloX1JlWS1CUE9aczhUOHpid1gzLVVxdHZKdWRDNXlaQVFRMzZMYUt2QWlhcmFya05sOG1vb3ZVZG54SjBrQzNEMU9DeTZ2UDd3UzhtZmhNb0E?oc=5",
-      "title": "India witnesses massive investments in agentic AI in healthcare - Medical Buyer",
-      "source": "Google News India Telemedicine & AI",
-      "published_at": "2026-03-25T07:00:00Z",
-      "category": "ai-in-health",
-      "country": "IN",
-      "summary": "India witnesses massive investments in agentic AI in healthcare Medical Buyer.",
-      "ingested_at": "2026-07-21T16:06:52Z"
-    },
-    {
-      "id": "f1d757343a07ecdc",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ3VLcTB2c1doclp6Y2M3ekRTd1pzSkkzWFBKT21iS3g3cjZJMm1tVmZfMm9wbVE5dkpMbV9CbnV5UHJMM00takZrNHdSazJEb1p4LVUtU0JPdk1McXdBcEpZX3VBXzNiSUpjVFQ4d1NhRFcwMFhBNkdhT0I5RlhySHQ0anprdDVQLWVZ?oc=5",
-      "title": "NHS App to move from ‘front door’ to ‘companion’ - Home | Digital Health",
-      "source": "Google News Digital Health UK",
-      "published_at": "2026-03-25T07:00:00Z",
-      "category": "other",
-      "country": "GB",
-      "summary": "NHS App to move from ‘front door’ to ‘companion’ Home | Digital Health.",
-      "ingested_at": "2026-07-17T08:17:29Z"
     }
   ]
 }

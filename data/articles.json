@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-07-23T19:24:50Z",
+  "updated_at": "2026-07-24T02:58:36Z",
   "articles": [
+    {
+      "id": "e45f37ca37375581",
+      "url": "https://health.economictimes.indiatimes.com/news/industry/asg-shareholder-approaches-nclt-against-co-founder-alleges-oppression/132594393",
+      "title": "ASG shareholder approaches NCLT against co-founder, alleges oppression",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-24T01:51:43Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "Coverage of ASG shareholder approaches NCLT against co-founder, alleges oppression from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T02:57:51Z"
+    },
+    {
+      "id": "afc841b17b16cc27",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeHNZLXM2NlFvaUFqeWszLUlRS1FxLXo1UmdiMm5pUGt6c0NYSmlsVGRrSzFBZjRGRXVOYkJ0ckpKblIwbnNjQjItMnp6NExJUnhtZlVPZXhRd09jV056NDhKaE1MMnJ0MWlJQVRNb3l6Ti1mMzRtV3V4MHV4WFZGYk5QWW9hYkxHRm1ibGJ3N2l5TGZXNUdPMXM4dUhnRDRmQjg3bVRQWmRKYldLUldLTHRvUW1ZSkRRTE1zVEJOSUpyMUU4TXhQdDhhOVlFYm00Znc?oc=5",
+      "title": "Chemung County DA Warns Seniors of Telehealth Medicare Scams - WENY News",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-24T01:20:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Chemung County DA Warns Seniors of Telehealth Medicare Scams WENY News.",
+      "ingested_at": "2026-07-24T02:57:52Z"
+    },
+    {
+      "id": "fb2f4b70979902be",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHJwZVN4UGg2SmJmdld0VWNOb3JqeGdQdG5XNmZXZjdwWldkX2FPZmRHc0sxejFCZ1FPNVpXUC1zcFhXdlY0cDBTMG14bWcwTzBtSTU2MHJhZDFFNWdWUkItZVdHYkV0N0RZQTNZZ0xyTXhPVWFHdE9uUy0wWjlsQnNDRVh1ZTBTMndZeWdOSnp6bWVjaE1oc3lvV29vSHhmYXdwWE1UN0hJVGtmYWxvdFQ4b1E?oc=5",
+      "title": "Conneqt Posts Record Pulse Sales as Recurring Digital-Health Revenue Surges - Kalkine",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-24T01:09:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Conneqt Posts Record Pulse Sales as Recurring Digital-Health Revenue Surges Kalkine.",
+      "ingested_at": "2026-07-24T02:57:52Z"
+    },
+    {
+      "id": "e3a1229e9e70701c",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Ra0EzbGozRWdlaDUtVUtNc3FvaTJ3a29DMWtFa2lSUmpkaWg0cUsxSXNnNDJfaGZvVFVPbnlRN2R3akxfVk93dTd6TmhiVXZFZm4xLXhtaDJmN3dZQWlCTmNTcElCX3I5RmpfU2NUZzRNbWtpMGM0RFZmWTBwdw?oc=5",
+      "title": "New Zealand medtech firm Wellumio raises $9.8m - Tech in Asia",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-24T00:55:00Z",
+      "category": "medical-device",
+      "country": "NZ",
+      "summary": "New Zealand medtech firm Wellumio raises $9.8m Tech in Asia.",
+      "ingested_at": "2026-07-24T02:57:53Z"
+    },
+    {
+      "id": "51ed2f3f8e5ff106",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcjBZb1hfQklSSmVvUXJLZFVkdW9VS2lwb3RkSGVUZzlHMEZyaHdzR2EwNHFrMFljbDJDVmFxR0hwMWc1SVdGZFBrMnptMXRHa0l3elJMcDNNWWlaSVRuOG1ObERld0xMYmtwTmNLWTBWeWpWWV85NU9JSlJfaW5fMWQ5bS1JRFZEcXFWek5sRm5jUmVZYi1QYTFvR3ZReTRfOUstZWEwd0J2aDdiLWp3b1hIYXpRTUhOazlrb2tpWUFVOThFM2RDTGs5RlRqTDBxV2owdA?oc=5",
+      "title": "Armenian Doctor Becomes First Armenian Citizen Elected to Global Telemedicine Board, Will Help Shape Digital Health Policy - The Armenian Report",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T20:57:09Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Armenian Doctor Becomes First Armenian Citizen Elected to Global Telemedicine Board, Will Help Shape Digital Health Policy The Armenian Report.",
+      "ingested_at": "2026-07-24T02:57:53Z"
+    },
+    {
+      "id": "d6c4424f789c12de",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTHFjWDlKcHppUkV2V0gxQnN5a0FRZEdNOUZYcTZweE53R0Jubm15eV9vRmVpNzJRZ1RZMW96WTg2alg2aUFrTHZXbm9sQnJyMEtXUzhFeC1zczNnVG9mNFZUOV9PX2VSOG1aRmI2UlRyV1BMbFMxTTc2ZWlkVVZndmwwQUs?oc=5",
+      "title": "GE HealthCare CFO resigns for role outside medtech - MassDevice",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T20:52:45Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "GE HealthCare CFO resigns for role outside medtech MassDevice.",
+      "ingested_at": "2026-07-24T02:57:54Z"
+    },
+    {
+      "id": "3eab7cdc29f05537",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa0R1LVpHZnZNSVRvR19ycWhHLWRtRkNNbXVlakhLdmttUXM0Sm5hNG1oNmZqaU43UnJmcXJCS3BXNEpndkZxMzBTckxIN29SYTl5R0ZSckxVdmo0aEpaUzNtM3huQmhCZnNuU0Y0UlZqdmJDOW1PZEZ4SmJtalZZeWg5US0wQ3A2ZUZxNVM2cmg?oc=5",
+      "title": "What the FDA’s Peptide Decision Means for Hims & Hers’ Long-Term Telehealth Strategy - Barron's",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T20:31:00Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "What the FDA’s Peptide Decision Means for Hims & Hers’ Long-Term Telehealth Strategy Barron's.",
+      "ingested_at": "2026-07-24T02:57:55Z"
+    },
+    {
+      "id": "c6f3db8cbfc97893",
+      "url": "https://www.statnews.com/2026/07/23/fda-panel-okays-peptides-compound-pharmacies-bpc-157-kpv",
+      "title": "STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides",
+      "source": "STAT News",
+      "published_at": "2026-07-23T20:08:56Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "The panel recommended allowing compounding pharmacies to produce popular but unproven BPC-157 and KPV peptides.",
+      "ingested_at": "2026-07-24T02:57:55Z"
+    },
+    {
+      "id": "56c69a6db74ab37e",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wdi13SXE2ZGhMS21rcWNsRUhnRHpIaHc0bkxGaUZYMmk3Q0t6Z01ZOTNockI1X1hFeGRERGFrNzNwOEdtYlgtcUhVckhYTmI4bndOLVdNMThBVWdIWF9J?oc=5",
+      "title": "Pia Banerjee Joins Freenome as Vice President of Digital Health - Oncodaily",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T19:48:23Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Pia Banerjee Joins Freenome as Vice President of Digital Health Oncodaily.",
+      "ingested_at": "2026-07-24T02:57:56Z"
+    },
     {
       "id": "404d3e0995a4a113",
       "url": "https://www.fiercebiotech.com/medtech/roche-diagnostics-see-3-growth-china-near-patient-care-unit-dragging-sales",
@@ -35,6 +134,28 @@
       "ingested_at": "2026-07-23T19:24:05Z"
     },
     {
+      "id": "16df07ff820b449f",
+      "url": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified",
+      "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
+      "source": "Ars Technica",
+      "published_at": "2026-07-23T19:22:36Z",
+      "category": "medical-device",
+      "country": null,
+      "summary": "The FDA hasn't said where the cases are or how they're linked.",
+      "ingested_at": "2026-07-24T02:57:56Z"
+    },
+    {
+      "id": "83cf8192b6a2fab3",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2VsNXpERkZSRkVKS05xaFNGbXk3dEc3Z3hpMy1MX2tQNEhuSDNWaHA3NFlJblMwWUJSWFEweWZhSG5RcUVmM0JXV1ZvUGJ1SkdRQXd2d3I5a2lWbzRMSjY5RWJ1LWp0YkpHWXFEUmtUNU9UaWdfTS1JeC1mM0hMdUJySlhqZkl5Tm14MUZ2TQ?oc=5",
+      "title": "Explainer: India’s Digital Health Backbone–ABDM - thekashmirimages.com",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T18:52:22Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Explainer: India’s Digital Health Backbone–ABDM thekashmirimages.com.",
+      "ingested_at": "2026-07-24T02:57:57Z"
+    },
+    {
       "id": "1d8d735ef327be86",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU1dmV0F1SURDb29KY29tMXhGZ0RRS0Y0eGUxRzlpRGFDbFlBVHJmTnBIM2pPSmlGQUU3Sllwc2h5T2tDMXd3WTkyV0FPbV9XWFMxVFFUVGRId3JVeGlhUF84ZGRoV0k0QXVZUmtBYW9MY2E3U1ZTNm1pUU1hdjV2akRsdVJGVVViM2JHMVhuZFU0amhNOVd1Vjl6ZlBualhCZFBNcFVmOWZVd2FCUS1QVmUtY29iaXpkS1ZOYXVRNHMwU2NNdVlDclR0UXdnbnJYdGZlNGR30gHbAUFVX3lxTE8tUHctcnMwNUZHVUxvV29Fc3E2MVdpeWgzUi0tRHppQ3pKMnU1RXBhYkFwaUM1Y3c2ZjJXQnY5UTFraFlmeXItM1hrWnRDb3FCc3BpRE1NakdYRzVIYW03aEtLWEoyRjBTYW8wUmFiNDExR1lVRVhaSWhYekEydGtFQnhVak1iMFJZRVV2Q3YtdDJ1T2ZJMG1lNWI5XzZIMERXZ3U4SFJnUE5iT1pSMUZQUlAzLUlaWkc2SFhscExIRkljTWRoZkh6aE54VFZHWUF4Z2c2dUtHUzZiVQ?oc=5",
       "title": "DC calls for special camps to maximise Ayushman Card coverage - The Times of India",
@@ -55,6 +176,17 @@
       "country": "US",
       "summary": "FDA adcomm votes in favor of lifting restrictions on popular wellness peptide BPC-157 Endpoints News.",
       "ingested_at": "2026-07-23T19:24:07Z"
+    },
+    {
+      "id": "3172436e61c36d24",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObkM3UG1OYXJ1ZVQtcGRXakVhQXM3LXp6UUhSa0RwTzFYanVBWHk5NGNQR3lLT3ZKRnFMQ3Q2MDMzRHhYakpXekpWQ2M2NV9fWDdJOXA0Qk1kUWpheC1vcDU5ZzF3emNabjYzOGRxZ21JWGlLOGRnUnZxbUpCLWYxSEJGN2dTSWpRZVh6REN0QXZCUEpRUnhydnptaTVpaVk0VEwxQkQyUHJlVDdVY1FNWHd3ZzhpaG55bHg2Y1NHbmV3SkxOSGxORDdBLWlqSzhG?oc=5",
+      "title": "iSchool Professor Appointed to NIH Clinical Informatics and Digital Health Study Section - Florida State University",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T18:24:37Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "iSchool Professor Appointed to NIH Clinical Informatics and Digital Health Study Section Florida State University.",
+      "ingested_at": "2026-07-24T02:57:57Z"
     },
     {
       "id": "77cdfd69ae77ac3a",
@@ -211,6 +343,17 @@
       "ingested_at": "2026-07-23T19:24:15Z"
     },
     {
+      "id": "dcb8046bbeb9e2c4",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVF9HSGlFdmNQRUFWQi1nSEVYYURMVGtxbVo2ZDVnWGNvQUh5d2xQTm5fSUptdVBNLXlUMGRqOXJPMkVCN1RLVnNYWlJxc1pJRnVkR1ltOEtlYWpEaENGekdpb1NPNTk2ZC1YMWduZDNLV0NaM0V2WnN0NVRlZFUzb0g2cVRSWVNKdzA3N0QzRHBSUW4zTEFXeTViMEI5SU5Yc3FJbzRBaHVBeHp1NGZvOE90cGpIaU5ONWtKTVAyRjJocmRZNTAzcGpjUlVBcm0yQ2M0RmtfSFjSAd8BQVVfeXFMT280RGJyNnFiWWVhWHFkLTV4c1JyaEtWSlAyMHFtQmZLX25OWHJkTkxOb1FrSzVOalFuLVhwV2NyU3FXdWJfWnBoX1F0WEgtRWhKTHp0aWplNjVEdDRsX3M0S1B1QUEwSVdfV0k2UXY0bWRhM3NaN2I4a0lqVWFUVjdnTm9SaTd5RFFxY2oxT2MtSlg3OENMYmJDTnBac3BVVDBfcUxTbl9kdTVFMC1lS2plUEZoUkpwSmJEVko1UFA4MzFmTzBRTjB6Qi04ZjlZMEZZdTdtUzhFNHVST01OQQ?oc=5",
+      "title": "CM Ayushman Arogya Scheme Rajasthan 2026: Eligibility, Benefits and How to Apply - Jagran Josh",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T15:31:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "CM Ayushman Arogya Scheme Rajasthan 2026: Eligibility, Benefits and How to Apply Jagran Josh.",
+      "ingested_at": "2026-07-24T02:57:58Z"
+    },
+    {
       "id": "9a36ee96ae85bfab",
       "url": "https://www.statnews.com/2026/07/23/health-policy-news-today-dc-diagnosis-newsletter-john-wilkerson-3",
       "title": "STAT+: What’s in the last-minute flurry of health care bills?",
@@ -330,6 +473,17 @@
       "country": "US",
       "summary": "The FDA has authorized Johnson & Johnson’s Ottava Robotic Surgical System as the company looks to compete with Intuitive Surgical and Medtronic.",
       "ingested_at": "2026-07-23T14:11:05Z"
+    },
+    {
+      "id": "3baf300bbaeb20b2",
+      "url": "https://www.thehindu.com/sci-tech/health/nature-prescriptions-can-time-outdoors-become-part-of-healthcare/article71249955.ece",
+      "title": "Nature prescriptions: Can time outdoors become part of healthcare?",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-23T14:05:56Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Nature prescriptions: Can time outdoors become part of healthcare? from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T02:57:58Z"
     },
     {
       "id": "b8077a3122c9a3bf",
@@ -1003,6 +1157,17 @@
       "ingested_at": "2026-07-23T08:36:50Z"
     },
     {
+      "id": "af1d3975b317af8a",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdGx4Qkgyc2VONTI1VG5qLXFDbTFYd2k5SEtYb2ludzh1WXRUX3oyT25UZk9aNFdkczd4NnBiRTljbjFsOF9pNjlLdjBidklLYlQxVnFfMkFCSW5lWHNXLV9vekJqODczb2xNRXJhR3F1NVNvaTN4Q3BWUjJadGhPeENubFhLT1FDMXYwNEE4c3pJbUE3eXJxeGtwdlF1TlRwU1pzV0UxdUJtN2VTc2lDWjVjMGRmeGFwNHlNQVRPMDJROU9XTVBFTjdMbzhxZm42V1Z3SE1ud1BFczRhb2RmMFhFZzdTbnJfTXhUZDJmcnM3REk4dmNxSWZkZ2o?oc=5",
+      "title": "Inspiration Healthcare Achieves 24% Revenue Surge and Sharpens Focus on Neonatal Medtech After Divesting Infusion Business - Kalkine Media",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-23T06:01:09Z",
+      "category": "medical-device",
+      "country": "GB",
+      "summary": "Inspiration Healthcare Achieves 24% Revenue Surge and Sharpens Focus on Neonatal Medtech After Divesting Infusion Business Kalkine Media.",
+      "ingested_at": "2026-07-24T02:57:59Z"
+    },
+    {
       "id": "055b3a42b37c7094",
       "url": "https://www.expresshealthcare.in/news/ayush-minister-proposes-expansion-of-ayush-services-in-military-and-field-hospitals/454471",
       "title": "Ayush Minister proposes expansion of Ayush services in Military and Field Hospitals",
@@ -1089,6 +1254,171 @@
       "country": "IN",
       "summary": "The total case load in the State rises to 32, while the death toll stands at four, says Health Department.",
       "ingested_at": "2026-07-23T08:36:54Z"
+    },
+    {
+      "id": "14e9a70ec6ab2071",
+      "url": "https://arxiv.org/abs/2607.19452",
+      "title": "Markov state models revisited: Principles and algorithms for unbiased observables",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of Markov state models revisited: Principles and algorithms for unbiased observables from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T02:58:00Z"
+    },
+    {
+      "id": "c15657a2f5ae189f",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYVJkNFBiZVNlXzJZcmlEUkU0Q2dmV0Z3NVp4QlZvdnltLUxsZUM1MDkyV25TRTJ0U2drN0JVVERoQ09odWF2WlozR1FzWFBFUnhNYjFzWnRfQVoxeDNoZUFSVjFKN1l1TjhwckZ4cGZMSjJ3RkRnTnNRc1VwbjB0U05OZEljVkVUZmQxQ0pSUzZnYlpBZGFjeU4xdkhKVGRfY1FjMFBRRGVCUnR2TG1ORlZpVE5tUGFUMGxsTmI3UnRFRG1CM1E?oc=5",
+      "title": "Extending telehealth options to pet owners - warwickonline.com",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Extending telehealth options to pet owners warwickonline.com.",
+      "ingested_at": "2026-07-24T02:58:00Z"
+    },
+    {
+      "id": "f868c9ba359a3acb",
+      "url": "https://arxiv.org/abs/2607.20274",
+      "title": "Self-supervision drives representational convergence in medical foundation models more than clinical supervision",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of Self-supervision drives representational convergence in medical foundation models more than clinical supervision from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T02:58:01Z"
+    },
+    {
+      "id": "c7f0cb541da8af69",
+      "url": "https://arxiv.org/abs/2607.19600",
+      "title": "Deep Shape Regression for Planar Curves with Multimodal Covariates",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Deep Shape Regression for Planar Curves with Multimodal Covariates from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T02:58:01Z"
+    },
+    {
+      "id": "415a2e3311dcc5e4",
+      "url": "https://arxiv.org/abs/2607.19973",
+      "title": "The Giant Hippocampus: From Structural Monoculture to a System of Systems",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of The Giant Hippocampus: From Structural Monoculture to a System of Systems from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T02:58:02Z"
+    },
+    {
+      "id": "d2600046280d0a3f",
+      "url": "https://arxiv.org/abs/2607.20250",
+      "title": "A ProbLog program to infer individual genotypes from familial phenotypes in autosomal, X-linked, and Y-linked Mendelian disorders",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of A ProbLog program to infer individual genotypes from familial phenotypes in autosomal, X-linked, and Y-linked Mendelian disorders from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T02:58:02Z"
+    },
+    {
+      "id": "a06ddbaeee4f8a53",
+      "url": "https://arxiv.org/abs/2607.20323",
+      "title": "Multi-modal transformer for signal classification in nanopore blockade experiments",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of Multi-modal transformer for signal classification in nanopore blockade experiments from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T02:58:03Z"
+    },
+    {
+      "id": "a1fadf8dcbaa5380",
+      "url": "https://arxiv.org/abs/2607.20382",
+      "title": "FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T02:58:04Z"
+    },
+    {
+      "id": "0d4afc581104115d",
+      "url": "https://arxiv.org/abs/2511.04539",
+      "title": "Geometry-Guided Generative Representation for Functional Brain Graphs",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of Geometry-Guided Generative Representation for Functional Brain Graphs from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T02:58:04Z"
+    },
+    {
+      "id": "0fcc6d290a4a01c8",
+      "url": "https://arxiv.org/abs/2512.14171",
+      "title": "Spatiotemporal Moran dynamics in continuous media",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "fitness-tech",
+      "country": null,
+      "summary": "Coverage of Spatiotemporal Moran dynamics in continuous media from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T02:58:05Z"
+    },
+    {
+      "id": "1b490bd3b97ff3ae",
+      "url": "https://arxiv.org/abs/2405.12410",
+      "title": "Local search for valued constraint satisfaction parameterized by treedepth",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "fitness-tech",
+      "country": null,
+      "summary": "Coverage of Local search for valued constraint satisfaction parameterized by treedepth from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T02:58:05Z"
+    },
+    {
+      "id": "de0089f12c03ce5d",
+      "url": "https://arxiv.org/abs/2508.08714",
+      "title": "Identifiability of linear stochastic state-space models with application to ecology",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Identifiability of linear stochastic state-space models with application to ecology from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T02:58:06Z"
+    },
+    {
+      "id": "ae337c99f5d33a00",
+      "url": "https://arxiv.org/abs/2512.05462",
+      "title": "Model Gateway: Management Platform for Model-Driven Drug Discovery",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of Model Gateway: Management Platform for Model-Driven Drug Discovery from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T02:58:06Z"
+    },
+    {
+      "id": "36f9f11fc45f33b1",
+      "url": "https://arxiv.org/abs/2606.25826",
+      "title": "Weight geometry governs functional memory in complex systems",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Weight geometry governs functional memory in complex systems from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T02:58:07Z"
+    },
+    {
+      "id": "5db6649696b97f63",
+      "url": "https://arxiv.org/abs/2607.19403",
+      "title": "Recovering Clinical Utility Under Differential Privacy: Empirical Validation of Adaptive Federated Aggregation on Heterogeneous Cardiovascular Datasets",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-23T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Recovering Clinical Utility Under Differential Privacy: Empirical Validation of Adaptive Federated Aggregation on Heterogeneous Cardiovascular Datasets from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T02:58:07Z"
     },
     {
       "id": "1682fac434797611",
@@ -11948,6 +12278,17 @@
       "ingested_at": "2026-07-17T13:49:12Z"
     },
     {
+      "id": "951513963265666a",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVzFrOF8taV9WX2h6M0RDcllNS1hxQktRRjZCMnVYRklsZFVETXNheDNMZ1FtTHQ2X19kVzRPMVZQWll1YnMzLXJaTFRfUlhNRlNIaGpTNllLRjNCYzhqT0tzMWhfWWxYc3V4a2tzTVBzUHFXQ3NEQkNUdjB5SWRJU1hLMEI1MTVPbjNBaUZuczR5aEdrc09lanBoUkNxTDBPcnZ4OUFHdC1hb0c2WEpVeGlQWFNDaUFSUzBFM2YtQkZ5Ynp0VEVROEJzbW7SAdIBQVVfeXFMTWhNdFdjSmVnWUxaNy11eUxHaHowSUZxQ2RtUmRxcWZWdi0yU3NQdVRqRVZYdV9FTVlFclRvMHI5UFNkTDR0U0xWNGZuZWxVN0hIVDdLX2h4aXJTb3Bka0hKaHpCblJfUWl2R0RTb3ZrRXJHNnZLSjV0RlJ1TWduQ0d6Vk5LN0pOcHhRTzVUQTMzT2tCRFcxQ2tsTnhVRUlDQU5mUFphWERBZXZTa2pBRU14RndhbnZMWjBvRTNSV1hJenFpeFpZb3lxeDdxMzBSODFn?oc=5",
+      "title": "NMC plans ban on medical seat hike if buildings not yet complete - The Times of India",
+      "source": "Google News India MedTech & Regulation",
+      "published_at": "2026-07-14T07:00:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "NMC plans ban on medical seat hike if buildings not yet complete The Times of India.",
+      "ingested_at": "2026-07-24T02:58:08Z"
+    },
+    {
       "id": "bb33cd6aeec07f15",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mWE8tVFpUX25maC04am9ZNWQ0RUlqVHJZOV94cTlJU01ZVzVHYk5DVVN4czlva2JBOGx0TUd5RU5XRTYtX3YxR3dtaFZKcnBvRVdsYmNWT044SHRDWXB6THJXX29LLTdxVGpXcElLTWltZ0Y4eEh3?oc=5",
       "title": "Care Between Visits | My Telehealth | Stories | July 14, 2026 - South Carolina ETV",
@@ -12672,6 +13013,17 @@
       "country": "DE",
       "summary": "Is Intuitive Surgical (ISRG) One Of MedTech’s Best AI Stock To Buy? Yahoo Finance.",
       "ingested_at": "2026-07-17T08:17:19Z"
+    },
+    {
+      "id": "ef56a8effb8cb6a4",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejdEWXZSNjVQQzdLVjh2R0JmNlZJYzNib3RjVld2Y1FEd1hXTkxNdG9BeThCUFJtMGtocDZrZjhUcHJzc0JiNGpHUjU4TzBnSk51WnhUSHIzWldzT2lDaXd3WmxWcm5xU0hmWVVhQVh3UWZ1WTVra2M5RGZkQTU0QzhmbXIwQzFKRjlLRkpEYmJTTUp1ZHk2dFdWdHA5NUtyTVpuLWZWU09wbEtXb3EyVzNlNjNGV0F0X2J6dVF3?oc=5",
+      "title": "Linux Foundation to launch new AI initiative for open source digital health transformation - Healthcare IT News",
+      "source": "Google News Digital Health Germany",
+      "published_at": "2026-07-10T13:47:38Z",
+      "category": "ai-in-health",
+      "country": "DE",
+      "summary": "Linux Foundation to launch new AI initiative for open source digital health transformation Healthcare IT News.",
+      "ingested_at": "2026-07-24T02:58:09Z"
     },
     {
       "id": "1a0d05749a56ac9d",

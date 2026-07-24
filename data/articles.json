@@ -1,6 +1,413 @@
 {
-  "updated_at": "2026-07-24T02:58:36Z",
+  "updated_at": "2026-07-24T08:33:53Z",
   "articles": [
+    {
+      "id": "18db5f8af72d4112",
+      "url": "https://www.fiercebiotech.com/biotech/scribe-records-upsized-129m-ipo-latest-biotech-stock-market-debut",
+      "title": "Scribe records upsized $129M IPO to bankroll lipid-lowering genetic meds",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-24T08:32:57Z",
+      "category": "other",
+      "country": "US",
+      "summary": "In vivo gene editing outfit Scribe Therapeutics has priced its IPO at $128.7 million, surpassing the $96 million goal set out earlier this week.",
+      "ingested_at": "2026-07-24T08:33:08Z"
+    },
+    {
+      "id": "a68044783a0ac95d",
+      "url": "https://www.statnews.com/2026/07/24/pharmaceutical-supply-chain-resilience-china",
+      "title": "Opinion: The U.S. pharmaceutical supply chain problem is not about China",
+      "source": "STAT News",
+      "published_at": "2026-07-24T08:30:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "The national security framing of the discussion around pharmaceutical supply chain vulnerabilities is a distraction, writes Pooja Yerramilli.",
+      "ingested_at": "2026-07-24T08:33:09Z"
+    },
+    {
+      "id": "d88cac613daa72d1",
+      "url": "https://www.statnews.com/2026/07/24/medical-school-federal-student-loan-changes",
+      "title": "Opinion: I may be one of the last middle-class medical students who could afford to become a doctor",
+      "source": "STAT News",
+      "published_at": "2026-07-24T08:30:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "A federal loan program made it possible for Gauri Gurumurthy to pursue medicine. Now that program is changing.",
+      "ingested_at": "2026-07-24T08:33:10Z"
+    },
+    {
+      "id": "63e8f0b73c6ad795",
+      "url": "https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction",
+      "title": "STAT+: White House offers its science blueprint: More AI, less life sciences",
+      "source": "STAT News",
+      "published_at": "2026-07-24T08:30:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "The Trump administration released its blueprint for U.S. science, calling for shifting hundreds of billions of research dollars from universities to industry.",
+      "ingested_at": "2026-07-24T08:33:10Z"
+    },
+    {
+      "id": "0ec6d16a3cb631a6",
+      "url": "https://www.statnews.com/2026/07/24/ultraprocessed-food-warning-label-bill-clears-senate-committee-bipartisan-vote",
+      "title": "Senate advances MAHA-friendly bill for food warning labels and junk food ad bans",
+      "source": "STAT News",
+      "published_at": "2026-07-24T08:30:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Unexpected alliances among Republicans and Democrats were on display over a bill meant to rein in ultra-processed foods.",
+      "ingested_at": "2026-07-24T08:33:11Z"
+    },
+    {
+      "id": "f886ff8322fefcc4",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPNFpHR1B2SWx0LXhwS0dOS3RIZ3NDS0ZmN0hKT1FqTTNrT3BZZnpkS2RXTi12ek5tMVJCQkdpaVBjVU1CNTR5TTUzUEwtaXk3Z2s4ZW9UY25aa2tvVmN3aHFvb3JZems1S3NnT3hIazZtRWpGZU5NbVl1SVMteExXNTFXNDlWTzFrSGMtUzVMVmtFb3pLVGZ0dHFxY3BxRVNXd011Z2s1ZEpoSXR2QjM0SkpaWWVuMHZ0N3NVSmQyczA4QWFKdndoUHZTcERXd1RRY1lOWTcyb3d2SHl6RGVUWTVwN19iM2l1QzdLQjJvWUFzNHlhREFMZUp4UkE2ZkdvanppVEVGa1IzTmp4dVJRZDNHLTlybEd4Vmgxd2FDSTdsYm1uZTZF?oc=5",
+      "title": "Dexcom Gets First Slot In FDA-CMS Pilot That Rewards Real-World Data At Scale - insights.citeline.com",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-24T07:07:22Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Dexcom Gets First Slot In FDA-CMS Pilot That Rewards Real-World Data At Scale insights.citeline.com.",
+      "ingested_at": "2026-07-24T08:33:11Z"
+    },
+    {
+      "id": "ca3c1ec82f390469",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVFJQcUItZUtPaFVIWVkwMndabFZsVjB1ejF4TDhFWVBtY1BiZXBWaDdxalBCbzdDdlFYUF9xTGVzMEcxX0liUy1IZWpFeUxvUTBMb1Vmc2p5dUpYUEwtQWRERmduUC04M2hXVG5qdGdrcDdYTGJ2TFZVZklNaXlJWEw2LUdVd0xzOFJmZjVUcl9ncTROTkwwVA?oc=5",
+      "title": "“AI nurse” supporting remote monitoring at Barts Health NHS Trust - HTN Health Tech News",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-24T06:48:51Z",
+      "category": "ai-in-health",
+      "country": "GB",
+      "summary": "“AI nurse” supporting remote monitoring at Barts Health NHS Trust HTN Health Tech News.",
+      "ingested_at": "2026-07-24T08:33:12Z"
+    },
+    {
+      "id": "443f5cc988facb68",
+      "url": "https://health.economictimes.indiatimes.com/news/industry/researchers-unveil-new-cancer-strategy-that-can-stop-tumors-before-resistance-takes-hold/132597961",
+      "title": "Researchers unveil new cancer strategy that can stop tumors before resistance takes hold",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-24T06:25:28Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Researchers unveil new cancer strategy that can stop tumors before resistance takes hold from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:13Z"
+    },
+    {
+      "id": "9dd5adb37dfd8a62",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdUwxMGw4U0lKdGlfOGZYcWxhejJ0cnlxX20tUVRRdl9pOE5uX2N5T1FfdVVqak9PRnAtQkRNcGpWOEIxZ0wzeENSQXlaTHpwYnluLTNabUpOMjZlUHBJOER1RTJ6VjZFX2hFcWZ5VGR6eVlaNjV2bS1FU240RGUxZkxKQjNsS0FXWTF3UlIxWVJXR1BNQkhjckpnaGZUTzJqRDgyUWdZZWlmcXpGZEdkdWpLMmFkVG1WZnc?oc=5",
+      "title": "Bioscan Research Raises $1 Mn to Advance AI-Powered Brain Injury Detection Technology - Digital Health News",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-24T06:21:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Bioscan Research Raises $1 Mn to Advance AI-Powered Brain Injury Detection Technology Digital Health News.",
+      "ingested_at": "2026-07-24T08:33:13Z"
+    },
+    {
+      "id": "49b5be9fff49e641",
+      "url": "https://www.expresshealthcare.in/news/ipc-signs-mous-with-dsmnru-and-csir-cimap-to-strengthen-healthcare-quality-and-scientific-innovation/454485",
+      "title": "IPC signs MoUs with DSMNRU and CSIR-CIMAP to strengthen healthcare quality and scientific innovation",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-24T06:15:57Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of IPC signs MoUs with DSMNRU and CSIR-CIMAP to strengthen healthcare quality and scientific innovation from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:14Z"
+    },
+    {
+      "id": "69cbd57d5057916b",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTWlMNnh1cV9uVnpxQ1FsZ21xc2F2X2hQNGhoWUc5TjF2VG9XN2NSZTNVYk5leE1tdlNOWFhwTkNWQTZWbFBxWm8xTTJrX19fODJ6VTRzSGFmLTYtTlRXLS1YRUlKbngwWVJScVBoMVg3X09aOE1SSVI2LW16cmtCYm04ZFRpd1hqSjVhbE1RMnBpWmIwMmxBV0NpRTFlUQ?oc=5",
+      "title": "NEWS: Londoners Can Now Create Universal Care Plans Through NHS App - Practice Business",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-24T06:04:45Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "NEWS: Londoners Can Now Create Universal Care Plans Through NHS App Practice Business.",
+      "ingested_at": "2026-07-24T08:33:14Z"
+    },
+    {
+      "id": "3fd86b191a6ebd74",
+      "url": "https://www.expresshealthcare.in/news/16th-brics-health-ministers-meeting-adopts-declaration-to-strengthen-global-health-cooperation/454483",
+      "title": "16th BRICS Health Ministers’ Meeting adopts declaration to strengthen global health cooperation",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-24T05:41:28Z",
+      "category": "wellness-tech",
+      "country": "IN",
+      "summary": "Coverage of 16th BRICS Health Ministers’ Meeting adopts declaration to strengthen global health cooperation from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:15Z"
+    },
+    {
+      "id": "0ac73566c0ae9b4a",
+      "url": "https://www.expresshealthcare.in/news/carpl-ai-raises-10-million-in-series-a-funding-led-by-ifc/454481",
+      "title": "CARPL.ai raises $10 million in Series A funding led by IFC",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-24T04:48:03Z",
+      "category": "ai-in-health",
+      "country": "GLOBAL",
+      "summary": "Coverage of CARPL.ai raises $10 million in Series A funding led by IFC from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:15Z"
+    },
+    {
+      "id": "9ee875af1309b765",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMkJsLVBmeUtxSzFUX1pJSjVZQng5cktubXU0QWpod2t6Z0xFU3kyNWdsRHhGQlhGNU5PSlVmV1V5M3ZadEFmdVFmdy1qSjZIREh2X2ZiLVMzTnBoWnlxUWtJa0ZqWVRiMkNoZ2d6RDVkcTUyMkxZX2F4dGFSR0p6RVB3NWRGNkxCVWRBNjYzTjgtN0FzQlh4bVhQbHN5QW1u?oc=5",
+      "title": "Labor backs telehealth for voluntary assisted dying - The Canberra Times",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-24T04:26:07Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Labor backs telehealth for voluntary assisted dying The Canberra Times.",
+      "ingested_at": "2026-07-24T08:33:16Z"
+    },
+    {
+      "id": "100a43a75f71e2d4",
+      "url": "https://arxiv.org/abs/2607.21249",
+      "title": "From Berg-Purcell precision bounds to clock-limited information capacity",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of From Berg-Purcell precision bounds to clock-limited information capacity from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:17Z"
+    },
+    {
+      "id": "820c78ebe9da47f6",
+      "url": "https://arxiv.org/abs/2607.21214",
+      "title": "A Kuramoto phase model to explore the synchronisation of a network of circadian clocks",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of A Kuramoto phase model to explore the synchronisation of a network of circadian clocks from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:17Z"
+    },
+    {
+      "id": "d63cb0dff50dfe57",
+      "url": "https://arxiv.org/abs/2602.13368",
+      "title": "The Influence of Width Ratios on Structural Beauty in Male Faces",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of The Influence of Width Ratios on Structural Beauty in Male Faces from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:18Z"
+    },
+    {
+      "id": "e3cc44a4f5d6a67b",
+      "url": "https://arxiv.org/abs/2607.09516",
+      "title": "A multi-ensemble mean-field reduction method for networks of globally coupled phase oscillators with arbitrary parameter distributions",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of A multi-ensemble mean-field reduction method for networks of globally coupled phase oscillators with arbitrary parameter distributions from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:18Z"
+    },
+    {
+      "id": "1ef134d9dbd2af03",
+      "url": "https://arxiv.org/abs/2607.20708",
+      "title": "Perspective Latents as an Architectural Condition for Causal Emergence in Active Inference Agents",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of Perspective Latents as an Architectural Condition for Causal Emergence in Active Inference Agents from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:19Z"
+    },
+    {
+      "id": "6ad0f61be7c6f4df",
+      "url": "https://arxiv.org/abs/2607.21233",
+      "title": "Logic Programming Semantics for Causal Processes",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of Logic Programming Semantics for Causal Processes from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:20Z"
+    },
+    {
+      "id": "61cd2f4017021214",
+      "url": "https://arxiv.org/abs/2607.20523",
+      "title": "FISHER: Gradient-Decoupled Hierarchical Multi-Task Learning for Fine-Grained Aquatic Species Recognition",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of FISHER: Gradient-Decoupled Hierarchical Multi-Task Learning for Fine-Grained Aquatic Species Recognition from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:20Z"
+    },
+    {
+      "id": "a8320b2838bebf41",
+      "url": "https://arxiv.org/abs/2607.20572",
+      "title": "Auditing pretraining contamination in single-cell foundation model benchmarks",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Auditing pretraining contamination in single-cell foundation model benchmarks from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:21Z"
+    },
+    {
+      "id": "4e90e8789557111c",
+      "url": "https://arxiv.org/abs/2607.20583",
+      "title": "Foundation-model-guided radiogenomic discovery linking cancer genomes to cancer scans",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Foundation-model-guided radiogenomic discovery linking cancer genomes to cancer scans from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:21Z"
+    },
+    {
+      "id": "d50e32ca4b75e3da",
+      "url": "https://arxiv.org/abs/2607.20699",
+      "title": "Spectral theory for population density dynamics of spiking neurons with refractoriness",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Spectral theory for population density dynamics of spiking neurons with refractoriness from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:22Z"
+    },
+    {
+      "id": "26c7db7d2e220a53",
+      "url": "https://arxiv.org/abs/2607.20720",
+      "title": "Transition-Related Potentials as Markers of Narrative Comprehension in Continuous EEG",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Transition-Related Potentials as Markers of Narrative Comprehension in Continuous EEG from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:22Z"
+    },
+    {
+      "id": "4b05994613f1409c",
+      "url": "https://arxiv.org/abs/2607.20744",
+      "title": "Analyzing \\b{eta}-Lactamase Evolution from the Principle of Least Action Perspective",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Analyzing \\b{eta}-Lactamase Evolution from the Principle of Least Action Perspective from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:23Z"
+    },
+    {
+      "id": "7bdbc07ff5a6781c",
+      "url": "https://arxiv.org/abs/2607.20782",
+      "title": "A Bayesian-optimization framework coupling a multiphase PDE tumor model to efficiently design combination therapy schedules",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of A Bayesian-optimization framework coupling a multiphase PDE tumor model to efficiently design combination therapy schedules from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:23Z"
+    },
+    {
+      "id": "8721d896aa7d0dcd",
+      "url": "https://arxiv.org/abs/2607.20915",
+      "title": "Evolutionary Le Chatelier's Principle: Phenotypic Plasticity and Genetic Assimilation via Timescale Separation in the Price Equation",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Evolutionary Le Chatelier's Principle: Phenotypic Plasticity and Genetic Assimilation via Timescale Separation in the Price Equation from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:24Z"
+    },
+    {
+      "id": "193f12b3262ea734",
+      "url": "https://arxiv.org/abs/2607.21442",
+      "title": "Local intercellular coupling is sufficient for long-range calcium signaling",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Local intercellular coupling is sufficient for long-range calcium signaling from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:25Z"
+    },
+    {
+      "id": "9329d39f5897517d",
+      "url": "https://arxiv.org/abs/2607.20513",
+      "title": "Magnetosensitivity of amphibian morphological pigmentation is light- and eye-dependent and consistent with the radical pair mechanism",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Magnetosensitivity of amphibian morphological pigmentation is light- and eye-dependent and consistent with the radical pair mechanism from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:25Z"
+    },
+    {
+      "id": "a650580b63f080ab",
+      "url": "https://arxiv.org/abs/2607.20551",
+      "title": "SenCos-GEM: SENet-Calibrated and Law-of-Cosines-Constrained Geometry-Enhanced Molecular Representation for Property Prediction",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of SenCos-GEM: SENet-Calibrated and Law-of-Cosines-Constrained Geometry-Enhanced Molecular Representation for Property Prediction from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:26Z"
+    },
+    {
+      "id": "1a4ba3743bc1892f",
+      "url": "https://arxiv.org/abs/2607.20585",
+      "title": "Machine-Learned Compact Subspace Generation for Quantum Selected Configuration Interaction within Density Matrix Embedding Framework",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Machine-Learned Compact Subspace Generation for Quantum Selected Configuration Interaction within Density Matrix Embedding Framework from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:26Z"
+    },
+    {
+      "id": "fd3a392fbdd8e940",
+      "url": "https://arxiv.org/abs/2607.20766",
+      "title": "Importance-Sampling Estimation of Gaussian Molecular Shape Overlap: Exact Union Volumes and Confidence-Bounded Virtual Screening",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Importance-Sampling Estimation of Gaussian Molecular Shape Overlap: Exact Union Volumes and Confidence-Bounded Virtual Screening from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:27Z"
+    },
+    {
+      "id": "ba3a341ab119972b",
+      "url": "https://arxiv.org/abs/2607.20823",
+      "title": "Fluctuation impossibility results for stochastic burst networks",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Fluctuation impossibility results for stochastic burst networks from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:28Z"
+    },
+    {
+      "id": "f090b8680bbbd181",
+      "url": "https://arxiv.org/abs/2607.20896",
+      "title": "HierarchicalDAEW: Domain-Aware Edge-Weighted Graph Convolution with Evidential Uncertainty for Multi-Section Spatial Gene Expression Prediction from H&E Histology",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of HierarchicalDAEW: Domain-Aware Edge-Weighted Graph Convolution with Evidential Uncertainty for Multi-Section Spatial Gene Expression Prediction from H&E Histology from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:28Z"
+    },
+    {
+      "id": "621ffb5f355b21e6",
+      "url": "https://arxiv.org/abs/2607.21561",
+      "title": "Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:29Z"
+    },
+    {
+      "id": "2c45ff9033dbece6",
+      "url": "https://health.economictimes.indiatimes.com/news/policy/fssai-must-finalise-notify-front-of-pack-nutrition-labelling-norms-in-a-time-bound-manner-par-panel/132594666",
+      "title": "FSSAI must notify front-of-pack nutrition labelling norms: Par Panel",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-24T02:01:33Z",
+      "category": "ai-in-health",
+      "country": "IN",
+      "summary": "Coverage of FSSAI must notify front-of-pack nutrition labelling norms: Par Panel from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:29Z"
+    },
     {
       "id": "e45f37ca37375581",
       "url": "https://health.economictimes.indiatimes.com/news/industry/asg-shareholder-approaches-nclt-against-co-founder-alleges-oppression/132594393",
@@ -1036,6 +1443,17 @@
       "ingested_at": "2026-07-23T08:36:44Z"
     },
     {
+      "id": "bd86b224802d05d2",
+      "url": "https://www.who.int/news/item/23-07-2026-who-launches-seven-strategies-to-prevent-drowning",
+      "title": "WHO launches seven strategies to prevent drowning",
+      "source": "WHO News",
+      "published_at": "2026-07-23T08:00:24Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Coverage of WHO launches seven strategies to prevent drowning from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T08:33:30Z"
+    },
+    {
       "id": "430113ed9f476675",
       "url": "https://www.thehindu.com/sci-tech/health/whats-the-deal-with-peptides-the-hyped-market-under-us-review/article71256908.ece",
       "title": "What's the deal with peptides? The hyped market under U.S. review",
@@ -1705,6 +2123,17 @@
       "country": "GLOBAL",
       "summary": "Q2 2026 Medtech Public Comp Sheet: Market Rally Leaves the Sector Behind PitchBook.",
       "ingested_at": "2026-07-23T03:19:24Z"
+    },
+    {
+      "id": "4652607c67620aa2",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1FtcWhaQ3MwZEJGLVdLRDFTODBjRUJCTHBidG05Q2ZaY2JOeVdmZ3lyd1Vfb1oxRWJNekxNRnRWY1FPZDBWVGpBMVZnNm02RmRtVVZVaTFQU1dvdXhUVU9wYWNMTWUzX2thSU8tUGkxU0szSU5acjFqLUplZGxJaDRYdjRod3o3eE1MQjRxbk5hUTJsMFZqS3VkRE1MMm9GaXdFeGdWQXZOU2pNWUV6MHlsZnQ?oc=5",
+      "title": "GLP-1 Telehealth — From The Access Boom To Regulatory Reckoning - Forbes",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-22T22:06:01Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "GLP-1 Telehealth — From The Access Boom To Regulatory Reckoning Forbes.",
+      "ingested_at": "2026-07-24T08:33:30Z"
     },
     {
       "id": "0b664c2c969d6d6d",
@@ -13356,6 +13785,17 @@
       "ingested_at": "2026-07-18T07:59:07Z"
     },
     {
+      "id": "702b3f61dbecee5c",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhajV6NTJIbzI4dDZFQkRMY21wMF9qaVZENUFSczFEVE4yZzRiYWJvNkU1bFJmNTh1NTJMOWpDeTZYaVBDb25ldkM5c0thdVQyblV5bi1qeGpWSUVlSXln?oc=5",
+      "title": "Large language models are powerful electronic health record encoders | npj Digital Medicine - Nature",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-06T07:00:00Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "Large language models are powerful electronic health record encoders | npj Digital Medicine Nature.",
+      "ingested_at": "2026-07-24T08:33:31Z"
+    },
+    {
       "id": "0d028f914efc97d7",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR096TFE5ZU1ROG5vN3ROTHYwU3ZsXzAxc19tZEt3ODNzcjZNdzJ6MlFmZklYMjFtb2ZtWjRsX0FTdWRvT2psYTYxZ0ZmQ1Z2Y1hIZ1VXYVhTa0dSeTRJekNfTEZERDAxV1U1WU13VmlEZ0p5ajVDR1BCdHYzdlVWd1ItYmhrQkNkMU5Hb2JLWQ?oc=5",
       "title": "J&J's MedTech Segment Eyes Another Strong Quarter in Q2 - Yahoo Finance",
@@ -18293,28 +18733,6 @@
       "country": "GB",
       "summary": "Only 30% of trusts with EPRs have integrated data flows, finds DMA Home | Digital Health.",
       "ingested_at": "2026-07-19T08:26:29Z"
-    },
-    {
-      "id": "504cae9246e1d1a9",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTBuVjhKQUZNc3AzbzBGNnpvcWlVdUsxWHktY2JkNEJLeTZwb0gwOHdTNVNFYUtQa2s2M0xvTmRXRkFnT1VNYXZyRjh6NVl1Y09pVjRjSEFvS0tDOC00Nml1VE00YlNtN1dqaUVWalNDc2lpSno3bks0SERqT3A4UGtBMFBYb0RpUWpiS0pwMXhfMGpLODZ3eXFhV3VTalVhem1DRVozdkdkV1BFZHJBN0xscXE2QQ?oc=5",
-      "title": "CDSCO Launches National Crackdown On Unapproved Medicines - Health and Me",
-      "source": "Google News India MedTech & Regulation",
-      "published_at": "2026-03-26T07:00:00Z",
-      "category": "other",
-      "country": "IN",
-      "summary": "CDSCO Launches National Crackdown On Unapproved Medicines Health and Me.",
-      "ingested_at": "2026-07-21T16:06:50Z"
-    },
-    {
-      "id": "3d3d9d488aad48df",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZkhGRkNycVpKNTVENzdsclktekp5YUJqZm5vSWh3VmtiS3FCc3JzY3VuaEthMHJtWVIwR3FjeVZQOTd6MlhNaC16YU1SVFRWd0l3UmR3S2JCWGRjMmp6UkZMa3c4U1EwSDJ6dk1Rb2QzNEtoOWpmMVNFeUQ5WWJod01SaXJJQ2kzT3lCV1NnS0RIa3RkN1RrXy00RDZ1ZFI2b0VpdXhtSXVuTlh5eERn?oc=5",
-      "title": "Digital health staff will be expected to gain professional registration - Home | Digital Health",
-      "source": "Google News Digital Health UK",
-      "published_at": "2026-03-26T07:00:00Z",
-      "category": "other",
-      "country": "GB",
-      "summary": "Digital health staff will be expected to gain professional registration Home | Digital Health.",
-      "ingested_at": "2026-07-18T13:25:05Z"
     }
   ]
 }

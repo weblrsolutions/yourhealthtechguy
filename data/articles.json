@@ -1,6 +1,325 @@
 {
-  "updated_at": "2026-07-24T08:33:53Z",
+  "updated_at": "2026-07-24T13:53:48Z",
   "articles": [
+    {
+      "id": "70b30c480dd7dc4c",
+      "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-biogen-rd-vet-gets-formation",
+      "title": "Chutes & Ladders—Biogen R&D vet gets in Formation",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-24T13:52:53Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of Chutes & Ladders—Biogen R&D vet gets in Formation from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:03Z"
+    },
+    {
+      "id": "e22cd528423085ba",
+      "url": "https://www.fiercebiotech.com/biotech/sanofi-abandons-plan-seek-approval-eczema-drug-11b-kymab-buyout",
+      "title": "Sanofi abandons plan to seek approval for eczema drug from $1.1B Kymab buyout",
+      "source": "Fierce Biotech",
+      "published_at": "2026-07-24T13:52:53Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Coverage of Sanofi abandons plan to seek approval for eczema drug from $1.1B Kymab buyout from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:04Z"
+    },
+    {
+      "id": "93df34951fbac67c",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLThmS0VVUHVIV0V1X1A1V0pmZlMxaE55VEVrMmZ5ZldKS2VwcXJLTzc2VFg4a1lmUlNhS2d2b3ZBT0JrMS1LNlNyOEZmTGRKWFo5RkFaLWVrdmwwVzgxdFhEUTRFb0hWVDZ2UmRXWHdRMEllLWZIUU5TMS1SNjZxRXF0cU5yTXVYWWw3dXNNTTBkd1ViYU9KSk1NLS1rQQ?oc=5",
+      "title": "Women’s Telehealth Provider Visana Personalizes Annual Well-Woman Exam - Femtech Insider",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-24T13:43:11Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Women’s Telehealth Provider Visana Personalizes Annual Well-Woman Exam Femtech Insider.",
+      "ingested_at": "2026-07-24T13:53:04Z"
+    },
+    {
+      "id": "eb5fb3da6bb211f2",
+      "url": "https://www.statnews.com/2026/07/24/biotech-news-fatal-gene-editing-trial-in-china-raises-ethics-questions",
+      "title": "STAT+: Fatal gene-editing trial in China raises ethics and oversight questions",
+      "source": "STAT News",
+      "published_at": "2026-07-24T13:41:16Z",
+      "category": "other",
+      "country": "CN",
+      "summary": "Sanofi insulin pen in short supply, a win for peptide compounds, and more biotech news from The Readout.",
+      "ingested_at": "2026-07-24T13:53:05Z"
+    },
+    {
+      "id": "f2272d5a7325b20d",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWlU5VWJOUnJNY0xXd0dIX05XTXRmN0pQQ1RKRHZEaDJEcFlqVmp5Q2RlUGRZVVJfUy0yMkhDUmtNWFJJVExDYl9DQ1FMQlVMTzhnNk5lanVpSE9tZERhWXUwOGdwbDQ1RDdEUWdYdVhFUW4wYmdGdm1qQkxfRkx1VXZ5V0pZOHRUWWxLT2p4WXZBN0NtQi0zR1pCdHQzbXRpTGpycDU2UHBCWGJzNm9lSk9XcWlLeXZ0OHZPd2VPeWZlaV9lV0Z0S0RWTUxxSzFsYURCNW44QlNZZXpPQUdXVWp2NDlMMWhTYUZic2FGTQ?oc=5",
+      "title": "Free RAM mobile telehealth clinic coming to Chattanooga Area Food Bank - Local 3 News",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-24T13:38:00Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Free RAM mobile telehealth clinic coming to Chattanooga Area Food Bank Local 3 News.",
+      "ingested_at": "2026-07-24T13:53:05Z"
+    },
+    {
+      "id": "597e978d8864c880",
+      "url": "https://www.statnews.com/pharmalot/2026/07/24/fda-panel-peptides-merck-hiv-pill-license",
+      "title": "STAT+: Pharmalittle: We’re reading about an FDA panel and peptides, a Merck license for an HIV pill, and more",
+      "source": "STAT News",
+      "published_at": "2026-07-24T13:28:51Z",
+      "category": "medical-device",
+      "country": "US",
+      "summary": "In a win for peptide proponents, an FDA advisory panel recommended compounding pharmacies be allowed to make four of the drugs.",
+      "ingested_at": "2026-07-24T13:53:06Z"
+    },
+    {
+      "id": "c19f07b2faae6b29",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Fdk1zdURfQjlISE40Uk9zc0xveHBMQURDejlIRjZmc19HcHBWQ1NXRFBmVmNmRTYweWVqZ1RodjVDamY0QjUyQmJ1MDVTc3FfNVhmdF90MWRKelBCWjI1d0g5ZUh3Q1JN?oc=5",
+      "title": "Ayushman Arogya Shivir Concludes Successfully Across Three Kartavya Bhawans in New Delhi - PIB",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-24T12:36:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Ayushman Arogya Shivir Concludes Successfully Across Three Kartavya Bhawans in New Delhi PIB.",
+      "ingested_at": "2026-07-24T13:53:07Z"
+    },
+    {
+      "id": "adf72a62633906e2",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdm5BMHpWekdvTnE0T21GWUVkWEJVV3ZwNzR4WnBGY05DLWwtNEpfWlM3YXVyQXZNbmNJNXZ1MmNob285TlRibjdOc0NGbW9hSm51b3lJeTR2TkpRcjNhX2twNzRaSHIwWGtWSmdHS3UycVNuS05pUGlXMTljWkJGcXhlLWpDeVNsdEIxd09XYVVQVnYwTF9fTHVZWHlTdDNhV05VbnJiTGp5Qy020gGvAUFVX3lxTE5iWXljS0dUNjkzMDVZTDJvb3VOdUw0dVk4WEZjc1F3RFA3bV9QaDVsUEVLLWZpdXhiRVJfcUlQOTlOMWk4OEFPUlNxMGw0RWZkd1hQck56NEV2RlpyOFcwTEZ4WEppYjdnVUFnZ1AwMHYwT0FFNGpFWDZPTXE2OXlaQ1ByMjZIT25QUUdlalpRdFREV1NETzVUWHN1UWpsNURZREV2MkhHMGJ6TnBfeHc?oc=5",
+      "title": "BRICS Countries Unite To Build Resilient Digital Healthcare Systems - Rediff",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-24T12:32:41Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "BRICS Countries Unite To Build Resilient Digital Healthcare Systems Rediff.",
+      "ingested_at": "2026-07-24T13:53:07Z"
+    },
+    {
+      "id": "46c0f56c4223b8c1",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ2pqWXM5VUZTbDBQdm41TTFsM3g2N3JxUmN2RkxabHJZa1VwYy0weFFuVFFPalJ6WmxEYldKTUlUSGpMaW92VThUR1dmZndVbXRYLTl0SWpKbVJkbmktV1JqWUlIUFVCUmZNbkpDeWczVVF6ZmtSN0VRWnhsQlRwX2lyQ3RBU3MwUm5hd3I3V2pPbTVETkl2VGUySWp4WmhZRnFDVEZuNERrSFlIZXRWaWozRDV6ckU4ME5vY1ZHb09oZ0F2QlFnYkFwVGxmcTTSAdQBQVVfeXFMTWFUQkItQnZ4MjZwSEhWeXMyR2c4WmZXZFExVkJFMzEyRFRUY3R1eEZMaTRCajVtcUl5Qi12OWJ1N0J1ZVpWOVJmZy1qa0Y4d0FIczByN0huUExaaEdpa1pfc3FjY1BSUG40b1pSeWd5WlhXc0x3TnQ1Z01PYVMwZFJDN1JQUG1NSnM3bnktNkZlYnpRb3hTY1lORnY5OWs5Sm5BZERPRjRKdEhIeEdONUkwSzF1MllkdXp2QTVnODF3QXJXNjZDZTZmdVRQdVNTRG5md2I?oc=5",
+      "title": "Bokaro expands e-telemedicine, mobile nutrition van programme - The Times of India",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-24T12:28:00Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Bokaro expands e-telemedicine, mobile nutrition van programme The Times of India.",
+      "ingested_at": "2026-07-24T13:53:08Z"
+    },
+    {
+      "id": "42ba9f68110b177c",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZkVlX3RweEtHckZsSmktUG04SE1jS056S2dKSU9KQjFhcFZNUUk5ZnROWlB0bnJ4bkxoWGlhcEhFdEE1WWtUaXVnSU4xY0xleXQ0R1R4RUtHZnFUSGZHLVNFeUstWXhZQnZPbTQ4ejREZEFYRVRRSjViNE1ldmlwWW5QcGpnOFhr?oc=5",
+      "title": "CDSCO Approves India's First Dengue Vaccine 'QDENGA' - PW",
+      "source": "Google News India MedTech & Regulation",
+      "published_at": "2026-07-24T12:27:03Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "CDSCO Approves India's First Dengue Vaccine 'QDENGA' PW.",
+      "ingested_at": "2026-07-24T13:53:08Z"
+    },
+    {
+      "id": "f96866221e451626",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUS1OMTVCVkFwck51UlNxVC1LeDYzNEl6YlBJMnh6ejJBeWdrT1Y0ZHZNSzlJTm9TRVlZZk9HeE4xUV8wNGVRMlJWRk9yY1I2UHpLd3hhUmJKRk9vLWZOU1JpTjlYR0ZKQ0JfWDc0b1cwNFQwNEFBb0hqU3pWMk1JdjVzQU5WM0k?oc=5",
+      "title": "Medtech Stocks Have Gotten Slammed. Why Abbott, Danaher, 4 More Are Bargains. - Barron's",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-24T12:25:00Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Medtech Stocks Have Gotten Slammed. Why Abbott, Danaher, 4 More Are Bargains. Barron's.",
+      "ingested_at": "2026-07-24T13:53:09Z"
+    },
+    {
+      "id": "09a93d8b3483747a",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOTkM2MklMSXFhR3VxdnJNT1FTSFJyMzJDQ21iV2otb3RlQkM5dTRHZWJJZnRlcjFKdFVCVTl6azVsQlF2U2pnYTV6aGJVR0lpcUR0V3dUT3daYWpQMU9lRXNseUQwY0NDT2FaTjVUcnFSb2lKNkdXZml5cnJ2R1NqVU5meUhNQ2RQaXFSdV9IVXRRSXBHUTV2U09jT3V0ZGlfNERyNUM2Uk11dllpQ2llVXprUl82QlFkZGRKVEd2UWVtYTRmRkpWaDV1MTIzMXFqRjZjb211am1PVERLRWFRN3ltZGwzRE5nVzVDaWVnQzNhbVFBWGFzZXhrYXM4VlZNRmhCWmEtcDdENlZUcVVlcmo4ZGp6M011N2I40gGgAkFVX3lxTE92M2Y1Z214MFJUZzB4U3B2MzU0b2hlU3pxS0l6SlhCNGtqQ1hVNEZzLWI5alR2ZFJsclVzWDFCZk14aTJEbGNoUnE1MFNOd3RXdm5KQWFMaW9jLXl0REEzdktDdFB5ZHp3VDRVWnMtYVdtUkplVHMtMkdHdVRYanJ2dFozQ0Y3blNEMU1WNC1hcWdCZWwxemhxTkZjX0NZY1g5TTBETHp6LVJyREJKNGNreGxza1FkOS1lOXJVVmY2a05tZV9NWnJBdHhkVUF5UW50VlVqM2U3X3BWZkd2YU11c1NEdXNQSFZEb1RqRUpEMHlTU1FKZVpHczFOLWxMa1NoUXlsZjhsb1NCZktuTVlHdVlYcUllRlpKWmZMYkdSTA?oc=5",
+      "title": "Ondra Health Names Every Pharmacy That Fills Its GLP-1 Prescriptions, a Disclosure Most Telehealth Platforms Don't Make - The Manila Times",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-24T12:17:45Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Ondra Health Names Every Pharmacy That Fills Its GLP-1 Prescriptions, a Disclosure Most Telehealth Platforms Don't Make The Manila Times.",
+      "ingested_at": "2026-07-24T13:53:09Z"
+    },
+    {
+      "id": "ece63bd1eae51de0",
+      "url": "https://www.statnews.com/2026/07/24/health-news-new-separate-cyclospora-diarrhea-outbreak",
+      "title": "A new, separate outbreak of the diarrhea-causing parasite",
+      "source": "STAT News",
+      "published_at": "2026-07-24T11:59:27Z",
+      "category": "other",
+      "country": "US",
+      "summary": "A win for peptide proponents, autism advisory committees clash, and more health news from Morning Rounds.",
+      "ingested_at": "2026-07-24T13:53:10Z"
+    },
+    {
+      "id": "defbe8dbb20708fc",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRC1Na3hMN1dsVngxWVB2SzFjNG9iSnBnaHhlcnVLY3VWVWRKdVNOMkxNV1NVZkgwTm4yV1A4aFlwcGtocmk4YldCakVBbmpaRXE4Qmp4U1VLS050RlFBSWhoN1FLN1ZtSWVhS3g3OUlGR1NOZ3dvTktxVU13eTNoVFBqZkQySVJJbWdYWUt5SjJ6Wks1QW05dGNzRkJZcl9POE1aeWNheE1SLWNQN0pKT0h30gG0AUFVX3lxTE53cUNrMUgxRWZSbzZZRjFvUFprRm9VVlROdGNmV0JMdU1pekI2Q1pfOWhwYXlQalNSVEhoUERjaWNMaGI5MzM5OF9lbEVKZ25ZNUF5UHpuV3otVDFwV2RycGlPbXhwR3hVbFZJcDZIRWhNV29LclNMUXVHa3hBSlZKaHhYb2NWVnZqN0RwbkJjdzhrbTV4dE1vcDdjaDd6MzdiZDZkWnpIYUYyVlZrQ3kwdXREMw?oc=5",
+      "title": "BRICS Nations Strengthen Health Cooperation Through Digital Innovation - Rediff",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-24T11:55:33Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "BRICS Nations Strengthen Health Cooperation Through Digital Innovation Rediff.",
+      "ingested_at": "2026-07-24T13:53:10Z"
+    },
+    {
+      "id": "ebfb996c7149f7b9",
+      "url": "https://health.economictimes.indiatimes.com/news/hospitals/manipal-to-float-9200-cr-ipo-next-week-price-band-set-at-560-to-590/132603406",
+      "title": "Manipal to float ₹9,200 cr IPO next week, price band set at ₹560 to ₹590",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-24T11:05:30Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Manipal to float ₹9,200 cr IPO next week, price band set at ₹560 to ₹590 from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:11Z"
+    },
+    {
+      "id": "2b2139514c40cdf7",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMHNSZ182V2JNb2xxZDlubVVZWmdHNXhxQXdCeUhuZzdRTmNtX056NmNJakU0ZFVPb0F3eUdZeVpWdHdpb0s3bHlxb1F2YXlzQUpsUE5IN1hxR3VNSDhEaWlHcGJfR0w0WVJNSUtIMHdUa3VMWW80RzdaNHJ6dDBtR1A1aHpFMEsxbW9TdUdUcFl2d2ctbUZtM0VFVkNLMTAtdVUtc0o4LV9LRk9yaklLYWEtcU5XdFMwVEYyV0tJTFVxU1F5Vnc?oc=5",
+      "title": "Johnson & Johnson stock holds steady as oncology and medtech drive earnings resilience - Ad-hoc-news.de",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-24T11:02:37Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Johnson & Johnson stock holds steady as oncology and medtech drive earnings resilience Ad-hoc-news.de.",
+      "ingested_at": "2026-07-24T13:53:12Z"
+    },
+    {
+      "id": "6e0e978d3ee933fd",
+      "url": "https://health.economictimes.indiatimes.com/news/policy/no-reports-on-nationwide-shortage-of-anti-rabies-vaccine-nadda-tells-lok-sabha/132602671",
+      "title": "No reports on nationwide shortage of anti-rabies vaccine: Nadda",
+      "source": "ETHealthworld Top Stories",
+      "published_at": "2026-07-24T10:47:49Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of No reports on nationwide shortage of anti-rabies vaccine: Nadda from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:12Z"
+    },
+    {
+      "id": "b69257683c939b38",
+      "url": "https://www.statnews.com/pharmalot/2026/07/24/merck-experimental-hiv-prevention-pill-licensing-deals",
+      "title": "STAT+: Merck strikes voluntary licensing deals in poor countries for an experimental HIV prevention pill",
+      "source": "STAT News",
+      "published_at": "2026-07-24T10:45:00Z",
+      "category": "other",
+      "country": "US",
+      "summary": "Merck is striking licensing deals for its experimental HIV prevention pill in hope of getting wide-scale production started quickly.",
+      "ingested_at": "2026-07-24T13:53:13Z"
+    },
+    {
+      "id": "9f8c20370af496c9",
+      "url": "https://www.thehindu.com/sci-tech/health/fda-panel-narrowly-backs-unapproved-peptide-drugs-favoured-by-rfk-jr-and-wellness-influencers/article71261705.ece",
+      "title": "FDA panel narrowly backs unapproved peptide drugs favoured by RFK Jr and wellness influencers",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-24T10:37:06Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "FDA scientists said they could find little data on the effectiveness of peptides for proposed medical uses like ulcerative colitis, wound healing and opioid addiction.",
+      "ingested_at": "2026-07-24T13:53:13Z"
+    },
+    {
+      "id": "2d82af60b074bb82",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDRldFIxZlBDNzlGdld3Yl9hckRiOVlHS0FMcFhFb2FyRXQ0c1c1V3pRcUJLcjlFRXhoMzZ6YUdmelRqQWhrZmxlcUtxV2loRUFUUjU5NzZHaFdhUlB2MzY1dVVxR2NjdW44dE5JMDFwRVFHNkFpNHhXbEhSYmVTR1U1N0dmYnVXVjZqcDZwWENEUTBCUmtNS2dtZkdDQUdqeEJhVGtnclpjMkt5OHZ3?oc=5",
+      "title": "No Cap on Family Size for Ayushman Bharat Beneficiaries, Centre Tells Lok Sabha - Kashmir Life",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-24T10:07:47Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "No Cap on Family Size for Ayushman Bharat Beneficiaries, Centre Tells Lok Sabha Kashmir Life.",
+      "ingested_at": "2026-07-24T13:53:14Z"
+    },
+    {
+      "id": "890d25a8ce90d2fb",
+      "url": "https://www.thehindu.com/sci-tech/health/almost-all-countries-overuse-antibiotics-contributing-to-drug-resistance-analysis/article71261314.ece",
+      "title": "Almost all countries overuse antibiotics, contributing to drug resistance: Analysis",
+      "source": "The Hindu Health",
+      "published_at": "2026-07-24T09:52:36Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "60% of the countries were found to be still using antibiotics that WHO considers should no longer be prescribed.",
+      "ingested_at": "2026-07-24T13:53:14Z"
+    },
+    {
+      "id": "1f3170f44da5606e",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSDBsWjNRRnY1ZmpSUEJuMWlMMnNtdW5vUU1kbGIxMmNjc2p5TmVaSzJyUEtpa3laRXVfTTlYTFhHVnNtN3ZxOVRoUjYtRGFaaW1sRUVfLXFjTDZJZGJLd1F0MUNaeVJCX3hFeE1qS3BoTl9HV1h6dUR1UUEwcjFIS015dlNzTmFJQ2Q2YS1qMEkyOFJLcWwzUkliSnJEN2YtZlE?oc=5",
+      "title": "Venus Medtech concludes patient enrolment for Venus-PowerX trial - Yahoo",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-24T09:46:37Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Venus Medtech concludes patient enrolment for Venus-PowerX trial Yahoo.",
+      "ingested_at": "2026-07-24T13:53:15Z"
+    },
+    {
+      "id": "c5930f07b88a93f7",
+      "url": "https://www.expresshealthcare.in/news/apollo-telehealth-crosses-1-million-teleconsultations-through-keonjhar-digital-dispensary-initiative/454491",
+      "title": "Apollo TeleHealth crosses 1 million teleconsultations through Keonjhar Digital Dispensary initiative",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-24T09:36:57Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of Apollo TeleHealth crosses 1 million teleconsultations through Keonjhar Digital Dispensary initiative from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:15Z"
+    },
+    {
+      "id": "cba32631ea48f609",
+      "url": "https://www.expresshealthcare.in/news/manipal-health-enterprises-sets-ipo-issue-opens-on-july-29/454489",
+      "title": "Manipal Health Enterprises sets IPO; issue opens on July 29",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-24T09:20:14Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Coverage of Manipal Health Enterprises sets IPO; issue opens on July 29 from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:16Z"
+    },
+    {
+      "id": "3e40680ad1198f75",
+      "url": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown",
+      "title": "Microsoft pressures LG into killing unwanted McAfee ads",
+      "source": "The Verge",
+      "published_at": "2026-07-24T09:20:09Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Microsoft pressures LG into killing unwanted McAfee ads from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:17Z"
+    },
+    {
+      "id": "c59074f0b4deafdc",
+      "url": "https://www.expresshealthcare.in/news/old-machines-new-hope-can-refurbished-radiology-bridge-indias-imaging-gap/454487",
+      "title": "Old machines, new hope: Can refurbished radiology bridge India’s imaging gap?",
+      "source": "Express Healthcare India",
+      "published_at": "2026-07-24T09:10:56Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "Coverage of Old machines, new hope: Can refurbished radiology bridge India’s imaging gap? from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:17Z"
+    },
+    {
+      "id": "f035171025463724",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdUo1NG5Eb2lYb2lXZElJdlh0UDdJMmZBd3FSX2ZSM0tLNmJPem1FYWo5c3lFalVOWDM0R3Mwa1FqRWVOc2dwenRaZWZTV1BiSHljd0NBZUh0clVDdzRCMHQwQ1BHa2FicHMzMzhEcnpwaHRQWHEzQmpkcGhwaFZwVHdYcXpRZlphLXd1WEt3cmNnMTAwb1RPRHJiZGJ4YlBNcGtwcjVtOA?oc=5",
+      "title": "Egyptian e-health startup Reme-D raises $1.45m pre-Series A funding - - Disrupt Africa",
+      "source": "Google News Digital Health Germany",
+      "published_at": "2026-07-24T09:00:32Z",
+      "category": "other",
+      "country": "DE",
+      "summary": "Egyptian e-health startup Reme-D raises $1.45m pre-Series A funding - Disrupt Africa.",
+      "ingested_at": "2026-07-24T13:53:18Z"
+    },
+    {
+      "id": "01f5ae0da89c78c5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUWlyMVowWFhEZnhtRVp4cXBDcVlHWG1XbloxWjA1bEtLaDJjaEJRSFQzbURMMkN5YXNZVHRRR3Y1WmNyTGhaNDZYRXpud0p4Uk9RbGt1YlYwZVpYcmphNkR2R2Q3dWwwTWVVVmNZTHoxSjVkQ1RVUDZJV0lDRTlCZmlla3dRWEdrOW80T0tVNHVhbTEwV3V2LVp5RlVpcXVZcG1Idk5iMA?oc=5",
+      "title": "From pilot to scale: UNITE backs first digital health projects - CORDIS",
+      "source": "Google News Digital Health UK",
+      "published_at": "2026-07-24T08:43:09Z",
+      "category": "other",
+      "country": "GB",
+      "summary": "From pilot to scale: UNITE backs first digital health projects CORDIS.",
+      "ingested_at": "2026-07-24T13:53:18Z"
+    },
+    {
+      "id": "8548d6a23ce01372",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd3RoUkU0TDdzd1N6TGs0a0FrSGpWUk9na0E4N2VCcDZUOE1pYmI4T2hjeDhxQV84X2czLXYzLUVnVHoxM25UQjkxQVNrR1NWc2NpS19lUHUwUkhmamJuRURJdG9NZ0taM3NpTmozT1c4dXB5ckVYTU9lTGFEdGJvMUxyeWd2aHVLRUJRT0tiRmdhaUgxZ2xpNzBCUnlWWGU4cno3NWpqRUNMbXFaZHI5aXdWc3VqY2VrOVZN?oc=5",
+      "title": "J&J Enters US Robotic Surgery Market as FDA Authorizes OTTAVA Robotic Surgical System - Digital Health News",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-24T08:43:00Z",
+      "category": "medical-device",
+      "country": "IN",
+      "summary": "J&J Enters US Robotic Surgery Market as FDA Authorizes OTTAVA Robotic Surgical System Digital Health News.",
+      "ingested_at": "2026-07-24T13:53:19Z"
+    },
     {
       "id": "18db5f8af72d4112",
       "url": "https://www.fiercebiotech.com/biotech/scribe-records-upsized-129m-ipo-latest-biotech-stock-market-debut",
@@ -55,6 +374,50 @@
       "country": "US",
       "summary": "Unexpected alliances among Republicans and Democrats were on display over a bill meant to rein in ultra-processed foods.",
       "ingested_at": "2026-07-24T08:33:11Z"
+    },
+    {
+      "id": "0ecfd77ef0691db8",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXpWczJfVE1yZkpNaWM4a2ZVM1NWY19FUmNNNjdORHJVNWFab1RZTG5ZOUtwbVFFUlNreWNsU0MxXzl3NHVIRzltaXczcUZQQTl3cnRzckRmUDh2cUtXempHck9rTEdCeDEtOXpIdTNxRkZFdnRMekk0MjBuakwycFZwdERxcklrVkp1OQ?oc=5",
+      "title": "TidalSense secures £14.2m for AI breath test - UKTN",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-24T08:24:23Z",
+      "category": "ai-in-health",
+      "country": "GB",
+      "summary": "TidalSense secures £14.2m for AI breath test UKTN.",
+      "ingested_at": "2026-07-24T13:53:19Z"
+    },
+    {
+      "id": "81afcad989fda881",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONVNNZ0x3UGppWUNDV3NCWlhhTU1GSTAyX0ZKTHl1SWZJd3lWZWQ4RTJYS1l6ZmN1UVluTXh6RUpqellMNV9sYkdrUlY0SndXODZfSUdvRjRfN3B5VmlCbWhGaVl0WjluX3g0YVR6b2FzcEhKRC13TzcxcW43d2FWdjktdnF3RDlwYlB1SE5KSjR2VFZiT3lzMU12LTdPcW1CYk0yMDc3ZEZCVk11TFNzQ0tsNDJzaWxlTkFqNmpYYVZsWHhiYThHb28taG1jbmQ0ZHc?oc=5",
+      "title": "Labor promises conscience vote in debate over telehealth for assisted dying - SMH.com.au",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-24T07:41:04Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Labor promises conscience vote in debate over telehealth for assisted dying SMH.com.au.",
+      "ingested_at": "2026-07-24T13:53:20Z"
+    },
+    {
+      "id": "1d5f2a2314e32ce1",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX21FaTFyYWtyYkt4NTluSFp5QlAtQUZidWdDWGFvc0w3dkxsTlJ3QVc1SE9yLXo3bGVlMjdRb1NYeVpJaFdjR2dZT1hYUDJDTE01OTFTcUk4Y19sRVJBdmw2RFU5amdhTUE4TXpscVpLX2FEMnkycW5aT1hXeWxrYV8yVVlVR2VlM19sckNVT0xxdHF5S3JTLTEtVnFmckFLZmpXcE5JbE8zckhhZldlUlJ1RG1RdnFr?oc=5",
+      "title": "Labor national conference backs use of telehealth in voluntary assisted dying care - The Conversation",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-24T07:40:04Z",
+      "category": "other",
+      "country": "GLOBAL",
+      "summary": "Labor national conference backs use of telehealth in voluntary assisted dying care The Conversation.",
+      "ingested_at": "2026-07-24T13:53:20Z"
+    },
+    {
+      "id": "fe0d1583dc8f3a47",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPamxGT3VFdFoyOTVJX2JDdTBqdHFydDIySEtUVWVCVF9ldUxGck5DdW1RZHpRWDNjYkVxaFJCdTJXajdLRzIxRkkyMjB3eFpKYmJwckZLOGx0Y01pQjZldVRJS28xNXRHNFRQWlZRTFhnZ0dmanRpdE1ZUWNmX0R0bGxtYnBHRFdPX1NUN0dyLVZzc3BrekJLZzhVUnJNZy1lVURHV25uaEVMbkZC0gGyAUFVX3lxTE9fLU5wRGNsNlNiUjY5SlVjc2c1RXNZbUg0clphOHBOaXhJYWdrZG9rT3Q0eHBNak9CREtEdEdmcWJmdHRORHZ1b3BlOElFeXFUbmJ5Y2xONkpHbVZUblByUG9GalpqTG9VejNicmVwNjRxYXBmZmdiTjNwTWpySDRSR2l0cExVWDcyZFFvNERVQ1A1WWRGa0ltdVY0UVpKX2NMU2t3VFY0X1I0YTBOd0JzX1E?oc=5",
+      "title": "Apply Now: Digital Health Technologies in Clinical Drug Development (US) - fundsforNGOs",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-24T07:39:40Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "Apply Now: Digital Health Technologies in Clinical Drug Development (US) fundsforNGOs.",
+      "ingested_at": "2026-07-24T13:53:21Z"
     },
     {
       "id": "f886ff8322fefcc4",
@@ -129,7 +492,7 @@
       "source": "Express Healthcare India",
       "published_at": "2026-07-24T05:41:28Z",
       "category": "wellness-tech",
-      "country": "IN",
+      "country": "GLOBAL",
       "summary": "Coverage of 16th BRICS Health Ministers’ Meeting adopts declaration to strengthen global health cooperation from the health-tech news cycle.",
       "ingested_at": "2026-07-24T08:33:15Z"
     },
@@ -154,6 +517,149 @@
       "country": "GLOBAL",
       "summary": "Labor backs telehealth for voluntary assisted dying The Canberra Times.",
       "ingested_at": "2026-07-24T08:33:16Z"
+    },
+    {
+      "id": "dc2521b9f3372b01",
+      "url": "https://arxiv.org/abs/2009.06524",
+      "title": "Necessary and sufficient condition for hysteresis in the mathematical model of the cell type regulation of \\textit{Bacillus subtilis}",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Necessary and sufficient condition for hysteresis in the mathematical model of the cell type regulation of \\textit{Bacillus subtilis} from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:22Z"
+    },
+    {
+      "id": "3c0ff8df81b5c0b0",
+      "url": "https://arxiv.org/abs/2410.00945",
+      "title": "Evaluation and Prognostic Validation of Deep Regression Models for WSI-Based Gene-Expression Prediction",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Evaluation and Prognostic Validation of Deep Regression Models for WSI-Based Gene-Expression Prediction from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:22Z"
+    },
+    {
+      "id": "bf21a9e21fa7250a",
+      "url": "https://arxiv.org/abs/2507.23146",
+      "title": "Lightweight Language Models are Prone to Reasoning Errors for Complex Computational Phenotyping Tasks",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of Lightweight Language Models are Prone to Reasoning Errors for Complex Computational Phenotyping Tasks from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:23Z"
+    },
+    {
+      "id": "19a6ed8c7451dba9",
+      "url": "https://arxiv.org/abs/2511.01939",
+      "title": "Epidemic \"momentum\" and a conservation law for infectious disease dynamics",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Epidemic \"momentum\" and a conservation law for infectious disease dynamics from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:23Z"
+    },
+    {
+      "id": "fa75aa2e50aee047",
+      "url": "https://arxiv.org/abs/2603.10161",
+      "title": "Omics Data Discovery Agents: Agent-Supported Retrieval, Reanalysis, and Synthesis of Published Omics Data",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of Omics Data Discovery Agents: Agent-Supported Retrieval, Reanalysis, and Synthesis of Published Omics Data from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:24Z"
+    },
+    {
+      "id": "427fa7a3f70f6119",
+      "url": "https://arxiv.org/abs/2604.11451",
+      "title": "Neutralization titers reveal the structure of polyclonal antibody responses",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Neutralization titers reveal the structure of polyclonal antibody responses from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:24Z"
+    },
+    {
+      "id": "7a78950e87a7d485",
+      "url": "https://arxiv.org/abs/2605.26856",
+      "title": "The Sensation Modulating Network:Haltability as the architectural ground for object-directed phenomenology",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of The Sensation Modulating Network:Haltability as the architectural ground for object-directed phenomenology from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:25Z"
+    },
+    {
+      "id": "04e6e916f9f8b82c",
+      "url": "https://arxiv.org/abs/2603.18385",
+      "title": "Evolutionarily Stable Stackelberg Equilibrium",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Evolutionarily Stable Stackelberg Equilibrium from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:25Z"
+    },
+    {
+      "id": "d915670cd847f35e",
+      "url": "https://arxiv.org/abs/2605.25050",
+      "title": "Multimodality Stacking with Blockwise missing values and application to the PIONeeR biomarkers study for prediction of resistance to immunotherapy",
+      "source": "arXiv q-bio",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "other",
+      "country": null,
+      "summary": "Coverage of Multimodality Stacking with Blockwise missing values and application to the PIONeeR biomarkers study for prediction of resistance to immunotherapy from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:26Z"
+    },
+    {
+      "id": "b7df8dbfcc50ba6b",
+      "url": "https://arxiv.org/abs/2607.20462",
+      "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:27Z"
+    },
+    {
+      "id": "cf124f73b8b5baa4",
+      "url": "https://arxiv.org/abs/2607.20525",
+      "title": "Autonomous disproofs of the sum-product conjecture over $\\mathbb R$ with GPT-5.5 Pro",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of Autonomous disproofs of the sum-product conjecture over $\\mathbb R$ with GPT-5.5 Pro from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:27Z"
+    },
+    {
+      "id": "34139c348dff6cac",
+      "url": "https://arxiv.org/abs/2607.20814",
+      "title": "Enhancing Explainable Cardiac Diagnosis with Guide-Grounded Multimodal LLMs",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of Enhancing Explainable Cardiac Diagnosis with Guide-Grounded Multimodal LLMs from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:28Z"
+    },
+    {
+      "id": "0592e82d244c2051",
+      "url": "https://arxiv.org/abs/2607.20848",
+      "title": "Auditing Evidence Use in Medical LLM Diagnosis",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "ai-in-health",
+      "country": null,
+      "summary": "Coverage of Auditing Evidence Use in Medical LLM Diagnosis from the health-tech news cycle.",
+      "ingested_at": "2026-07-24T13:53:28Z"
     },
     {
       "id": "100a43a75f71e2d4",
@@ -453,6 +959,17 @@
       "ingested_at": "2026-07-24T02:57:53Z"
     },
     {
+      "id": "47c950977bcf27f2",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM09xLTJBWHJPWjNWOGJJNUpEbVN5MDNhN3JBTFMtY1lKUUk4aWJaSmdGa3RQRl8wZDZVT2I3RHkwOWVlSXF1SFdWd1JVNEExQm02NHllODJwRjB5T1RHTzIwaTRFVklWYldkWGFQODBsWkJtRjZxbkM3RmQwTlNERkotS1NsWEdocFU5aWZRbURtdXg3UG5oRndpY0EySGhrTmc?oc=5",
+      "title": "Johnson & Johnson MedTech's Ottava Robotic Surgical System - Modern Healthcare",
+      "source": "Google News Digital Health Global",
+      "published_at": "2026-07-23T21:15:00Z",
+      "category": "medical-device",
+      "country": "GLOBAL",
+      "summary": "Johnson & Johnson MedTech's Ottava Robotic Surgical System Modern Healthcare.",
+      "ingested_at": "2026-07-24T13:53:29Z"
+    },
+    {
       "id": "51ed2f3f8e5ff106",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcjBZb1hfQklSSmVvUXJLZFVkdW9VS2lwb3RkSGVUZzlHMEZyaHdzR2EwNHFrMFljbDJDVmFxR0hwMWc1SVdGZFBrMnptMXRHa0l3elJMcDNNWWlaSVRuOG1ObERld0xMYmtwTmNLWTBWeWpWWV85NU9JSlJfaW5fMWQ5bS1JRFZEcXFWek5sRm5jUmVZYi1QYTFvR3ZReTRfOUstZWEwd0J2aDdiLWp3b1hIYXpRTUhOazlrb2tpWUFVOThFM2RDTGs5RlRqTDBxV2owdA?oc=5",
       "title": "Armenian Doctor Becomes First Armenian Citizen Elected to Global Telemedicine Board, Will Help Shape Digital Health Policy - The Armenian Report",
@@ -484,6 +1001,17 @@
       "country": "GLOBAL",
       "summary": "What the FDA’s Peptide Decision Means for Hims & Hers’ Long-Term Telehealth Strategy Barron's.",
       "ingested_at": "2026-07-24T02:57:55Z"
+    },
+    {
+      "id": "6209c1f10ef701ac",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONDJYSVRTejVqUWpURno3a3B3bWVJSHI4emh2cEhTODJ5eDE1Y0ZndTJhdmZIWWpXV2U5Tk9ZbDFlVTF1RFNoVmZfVGs0Vk1OZGJJYzJpWGJsbDlfSU9ZdzVnejRFUlhUTW5KV0c5ZnB3WDY5NW5JTklvZFgxVkh3ZXhSWVo?oc=5",
+      "title": "India’s Digital Health Backbone–ABDM - Rising Kashmir",
+      "source": "Google News Digital Health India",
+      "published_at": "2026-07-23T20:12:22Z",
+      "category": "other",
+      "country": "IN",
+      "summary": "India’s Digital Health Backbone–ABDM Rising Kashmir.",
+      "ingested_at": "2026-07-24T13:53:29Z"
     },
     {
       "id": "c6f3db8cbfc97893",
@@ -18480,6 +19008,17 @@
       "country": "IN",
       "summary": "World Health Day: How India’s Digital Health Ecosystem is Advancing Universal Health Coverage Digital Health News.",
       "ingested_at": "2026-07-21T08:36:05Z"
+    },
+    {
+      "id": "d58852b5cefaa146",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0otQVFoYi04TGZSOHZPYWJXbVpCS1ZkcXJXNWFsNFRqSmtCUXBHa3lnd1VQMllqUkhZX2ZzSmVaOFlYeUNlNEpYUjZ3WDFBcldUSlVKYjRlRFhUVlV5ajhWZ1k3X2NLc2NZX2RRRFlVYkZlZF9JcEwyWG5QRXRsb0twOU1CV2Uzamc?oc=5",
+      "title": "China Digital Healthcare Market Size, Share, Forecast 2035 - Market Research Future",
+      "source": "Google News Digital Health China",
+      "published_at": "2026-04-06T07:00:00Z",
+      "category": "other",
+      "country": "CN",
+      "summary": "China Digital Healthcare Market Size, Share, Forecast 2035 Market Research Future.",
+      "ingested_at": "2026-07-24T13:53:30Z"
     },
     {
       "id": "30ccd21b5a1ade3f",
